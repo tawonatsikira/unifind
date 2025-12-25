@@ -1,2 +1,2 @@
 # unifind
-An to help A level students match with their ideal university
+An app to help A level students match with their ideal university
