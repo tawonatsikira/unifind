@@ -1,0 +1,573 @@
+[
+    {
+      "id": 1,
+      "Name": "Bachelor of Science (Honours) in Public Management and Governance",
+      "Description": "Prepares graduates for leadership roles in public administration and governance.",
+      "Fields": ["Public Management", "Governance", "Policy Analysis", "Leadership"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 2,
+      "Name": "Masters in Supply Chain Management",
+      "Description": "Advanced coursework in logistics, procurement, and supply chain strategy.",
+      "Fields": ["Logistics", "Procurement", "Supply Chain Strategy"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 3,
+      "Name": "Bachelor of Science Honours in Agricultural Education and Extension",
+      "Description": "",
+      "Fields": ["Agricultural Education", "Extension Services"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 4,
+      "Name": "Bachelor of Science Agriculture Honours Degree in Horticulture",
+      "Description": "",
+      "Fields": ["Horticulture", "Agronomy"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 5,
+      "Name": "Diploma in Child Care and Protection",
+      "Description": "",
+      "Fields": ["Child Care", "Protection Protocols"],
+      "University": 1,
+      "Faculty": "",
+      "Duration": "",
+      "Requirements": ""
+    },
+    {
+      "id": 6,
+      "Name": "Bachelor of Science (Honours) in Information Technology",
+      "Description": "",
+      "Fields": ["Information Technology", "Software Development", "Networking"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 7,
+      "Name": "Master of Public Administration",
+      "Description": "",
+      "Fields": ["Public Administration"],
+      "University": 1,
+      "Faculty": "Research, Innovation & Postgraduate Centre",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 8,
+      "Name": "Master of Science (MSc) in Gender Studies",
+      "Description": "",
+      "Fields": ["Gender Studies", "Feminist Theory"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 9,
+      "Name": "Certificate in Early Childhood Development",
+      "Description": "",
+      "Fields": ["Early Childhood Development"],
+      "University": 1,
+      "Faculty": "",
+      "Duration": "",
+      "Requirements": ""
+    },
+    {
+      "id": 10,
+      "Name": "Bachelor of Science Honours Degree in Sociology",
+      "Description": "",
+      "Fields": ["Sociology"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 11,
+      "Name": "Bachelor of Science Honours Degree in Psychology",
+      "Description": "",
+      "Fields": ["Psychology"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 12,
+      "Name": "Certificate in Social Work",
+      "Description": "",
+      "Fields": ["Social Work"],
+      "University": 1,
+      "Faculty": "",
+      "Duration": "",
+      "Requirements": ""
+    },
+    {
+      "id": 13,
+      "Name": "B.Ed ECD (In-Service)",
+      "Description": "Aimed at practising educators, focusing on early childhood development within the 0–8 years range.",
+      "Fields": ["Early Childhood Development", "Educational Research"],
+      "University": 1,
+      "Faculty": "Faculty of Education",
+      "Duration": "3 years part‑time",
+      "Requirements": "Diploma in ECD + 2 years experience + O‑Level passes" 
+    },
+    {
+      "id": 14,
+      "Name": "Bachelor of Science Honours Degree in Social Work",
+      "Description": "",
+      "Fields": ["Social Work", "Community Development"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 15,
+      "Name": "Masters in Accounting and Finance",
+      "Description": "",
+      "Fields": ["Accounting", "Finance"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 16,
+      "Name": "Bachelor of Science Honours Degree in Environmental Science",
+      "Description": "",
+      "Fields": ["Environmental Science"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 17,
+      "Name": "Bachelor of Science Honours Degree in Emergency Medical Care",
+      "Description": "",
+      "Fields": ["Emergency Medical Care"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 18,
+      "Name": "Postgraduate Diploma in Social Work",
+      "Description": "Builds advanced competency in social work practice, especially in child welfare and counselling.",
+      "Fields": ["Social Work", "Counselling", "Child Welfare"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "2 years",
+      "Requirements": ""
+    },
+    {
+      "id": 19,
+      "Name": "Postgraduate Diploma in Palliative Care",
+      "Description": "",
+      "Fields": ["Palliative Care"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "1 year",
+      "Requirements": ""
+    },
+    {
+      "id": 20,
+      "Name": "Postgraduate Diploma in Emergency Medical Care",
+      "Description": "",
+      "Fields": ["Emergency Medical Care"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "1 year",
+      "Requirements": ""
+    },
+    {
+      "id": 21,
+      "Name": "Bachelor of Science Honours Degree in Midwifery",
+      "Description": "",
+      "Fields": ["Midwifery"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 22,
+      "Name": "Bachelor of Science Honours Degree in Meat Science and Dairy Technology",
+      "Description": "",
+      "Fields": ["Meat Science", "Dairy Technology"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 23,
+      "Name": "Diploma in Emergency Medical Care",
+      "Description": "",
+      "Fields": ["Emergency Medical Care"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "2 years",
+      "Requirements": ""
+    },
+    {
+      "id": 24,
+      "Name": "Bachelor of Health Services Management (Honours)",
+      "Description": "",
+      "Fields": ["Health Services Management"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 25,
+      "Name": "Bachelor of Science Honours Degree in Palliative Care",
+      "Description": "",
+      "Fields": ["Palliative Care"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 26,
+      "Name": "Diploma in Education Early Childhood Development",
+      "Description": "",
+      "Fields": ["Early Childhood Development"],
+      "University": 1,
+      "Faculty": "Faculty of Education",
+      "Duration": "2 years",
+      "Requirements": ""
+    },
+    {
+      "id": 27,
+      "Name": "Diploma in Business Management",
+      "Description": "",
+      "Fields": ["Business Management"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "2 years",
+      "Requirements": ""
+    },
+    {
+      "id": 28,
+      "Name": "Diploma in Environmental Management",
+      "Description": "",
+      "Fields": ["Environmental Management"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "2 years",
+      "Requirements": ""
+    },
+    {
+      "id": 29,
+      "Name": "Diploma in Agribusiness Management",
+      "Description": "",
+      "Fields": ["Agribusiness"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "2 years",
+      "Requirements": ""
+    },
+    {
+      "id": 30,
+      "Name": "Diploma in Social Work",
+      "Description": "Provides theoretical grounding and practical skills for community interventions.",
+      "Fields": ["Social Work", "Community"], 
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "2 years",
+      "Requirements": ""
+    },
+    {
+      "id": 31,
+      "Name": "Diploma in Project Planning & Management",
+      "Description": "",
+      "Fields": ["Project Management"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "2 years",
+      "Requirements": ""
+    },
+    {
+      "id": 32,
+      "Name": "Executive Diploma in Management",
+      "Description": "",
+      "Fields": ["Management"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "1 year",
+      "Requirements": ""
+    },
+    {
+      "id": 33,
+      "Name": "Bachelor of Social Science in Psychology",
+      "Description": "",
+      "Fields": ["Psychology"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 34,
+      "Name": "BSc Honours in Sociology and Gender Development Studies",
+      "Description": "",
+      "Fields": ["Sociology", "Gender Studies"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "4 years",
+      "Requirements": ""  
+    },
+    {
+      "id": 35,
+      "Name": "BSc (Honours) in Community Development",
+      "Description": "",
+      "Fields": ["Community Development"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 36,
+      "Name": "Bachelor of Science Honours Degree in Women & Gender Studies",
+      "Description": "Interdisciplinary degree focusing on gender frameworks, feminist theory, social justice and research.",
+      "Fields": ["Gender Studies", "Feminist Theory", "Social Justice"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "3 years",
+      "Requirements": "" 
+    },
+    {
+      "id": 37,
+      "Name": "B.Ed Primary (In‑Service)",
+      "Description": "",
+      "Fields": ["Primary Education"],
+      "University": 1,
+      "Faculty": "Faculty of Education",
+      "Duration": "",
+      "Requirements": ""
+    },
+    {
+      "id": 38,
+      "Name": "Bachelor of Science Honours Degree in Clinical Midwifery",
+      "Description": "",
+      "Fields": ["Clinical Midwifery"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "",
+      "Requirements": ""
+    },
+    {
+      "id": 39,
+      "Name": "Bachelor of Education Primary (Pre‑Service)",
+      "Description": "",
+      "Fields": ["Primary Education"],
+      "University": 1,
+      "Faculty": "Faculty of Education",
+      "Duration": "",
+      "Requirements": ""
+    },
+    {
+      "id": 40,
+      "Name": "Bachelor of Science Agriculture Honours Degree in Animal Science",
+      "Description": "",
+      "Fields": ["Animal Science"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 41,
+      "Name": "Bachelor of Science Honours in Computer Science",
+      "Description": "Prepares students in software development, systems analysis, AI, networks, and includes a capstone project.",
+      "Fields": ["Computer Science", "Software Engineering", "Networks", "AI", "Systems Analysis"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": "" 
+    },
+    {
+      "id": 42,
+      "Name": "BSc (Honours) in Business Intelligence & Data Analytics",
+      "Description": "",
+      "Fields": ["Data Analytics", "Business Intelligence"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 43,
+      "Name": "BSc (Honours) in Management & Entrepreneurial Development Studies",
+      "Description": "",
+      "Fields": ["Management", "Entrepreneurship"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 44,
+      "Name": "BSc (Honours) in Purchasing & Supply Chain Management",
+      "Description": "",
+      "Fields": ["Supply Chain", "Purchasing"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 45,
+      "Name": "BSc (Honours) in Human Resource Management",
+      "Description": "",
+      "Fields": ["Human Resources"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 46,
+      "Name": "BSc (Honours) in Information Systems",
+      "Description": "Equips students to design, implement and administer business information systems.",
+      "Fields": ["Information Systems", "Database Management", "Systems Analysis", "IT Project Management"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": "" 
+    },
+    {
+      "id": 47,
+      "Name": "BCom (Honours) in Marketing",
+      "Description": "",
+      "Fields": ["Marketing"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 48,
+      "Name": "BCom (Honours) in Accounting Science",
+      "Description": "",
+      "Fields": ["Accounting"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "4 years",
+      "Requirements": ""
+    },
+    {
+      "id": 49,
+      "Name": "MBA – Master of Business Administration",
+      "Description": "Covers accounting, leadership, entrepreneurship, research methods; includes a dissertation.",
+      "Fields": ["Business Management", "Entrepreneurship", "Research Methods", "Leadership"],
+      "University": 1,
+      "Faculty": "Research, Innovation & Postgraduate Centre",
+      "Duration": "18 months",
+      "Requirements": "" 
+    },
+    {
+      "id": 50,
+      "Name": "MSc in Development Studies",
+      "Description": "",
+      "Fields": ["Development Studies"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 51,
+      "Name": "MSc in Child‑Sensitive Social Policies",
+      "Description": "",
+      "Fields": ["Social Policy", "Child Welfare"],
+      "University": 1,
+      "Faculty": "Faculty of Social & Gender Transformative Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 52,
+      "Name": "MSc in Strategic Marketing",
+      "Description": "",
+      "Fields": ["Marketing Strategy"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 53,
+      "Name": "MSc in Agribusiness Systems Management & Development",
+      "Description": "",
+      "Fields": ["Agribusiness"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 54,
+      "Name": "MSc in Disaster Risk & Livelihood Studies",
+      "Description": "",
+      "Fields": ["Disaster Risk Management", "Livelihood Studies"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 55,
+      "Name": "MSc in Livestock Science & Meat Technology",
+      "Description": "",
+      "Fields": ["Livestock Science", "Meat Technology"],
+      "University": 1,
+      "Faculty": "Faculty of Agricultural, Environmental & Health Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 56,
+      "Name": "MA in Strategic Communication",
+      "Description": "",
+      "Fields": ["Strategic Communication"],
+      "University": 1,
+      "Faculty": "Faculty of Management & Entrepreneurial Sciences",
+      "Duration": "18 months",
+      "Requirements": ""
+    },
+    {
+      "id": 57,
+      "Name": "PhD / MPhil Programmes across faculties",
+      "Description": "Research‑based doctoral and master's by thesis within any academic faculty.",
+      "Fields": ["Multiple disciplines"],
+      "University": 1,
+      "Faculty": "All faculties",
+      "Duration": "PhD: 3–4 years; MPhil: 2 years",
+      "Requirements": ""
+    }
+  ]
+  

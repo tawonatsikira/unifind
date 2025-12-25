@@ -1,0 +1,192 @@
+[
+    {
+        "id": 300,
+        "Name": "Master of Science in Crop Science",
+        "Description": "Advanced study in crop science, focusing on research and development in crop production.",
+        "Fields": ["Crop Science", "Agronomy", "Plant Breeding", "Agricultural Research", "Sustainable Agriculture"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "2½ years",
+        "Requirements": "A candidate must normally be a holder of at least a good first degree in Agronomy, Crop Science or Horticulture or related fields from a recognised University."
+    },
+    {
+        "id": 301,
+        "Name": "Master of Science in Crop Protection",
+        "Description": "Advanced study in protecting crops from various threats, including pests and diseases.",
+        "Fields": ["Crop Protection", "Plant Pathology", "Entomology", "Agricultural Research", "Sustainable Agriculture"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "2½ Years",
+        "Requirements": "A candidate must normally be a holder of at least a good first degree in Agronomy, Crop Science or Horticulture or related fields from a recognised University."
+    },
+    {
+        "id": 302,
+        "Name": "Bachelor of Science (Honours) in Agricultural Economics and Development",
+        "Description": "Examines economic principles applied to agriculture and rural development.",
+        "Fields": ["Agricultural Economics", "Development Studies", "Economics", "Rural Development", "Policy Analysis"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 years",
+        "Requirements": "At least two A-Level passes in Mathematics, Economics, Statistics, Business Studies and anyone from the following relevant subjects such as Accounting, Geography, Sociology, Agriculture or Biology."
+    },
+    {
+        "id": 303,
+        "Name": "Bachelor of Science (Honours) in Agricultural Economics and Development",
+        "Description": "Examines economic principles applied to agriculture and rural development, with a focus on visiting school mode.",
+        "Fields": ["Agricultural Economics", "Development Studies", "Economics", "Rural Development", "Policy Analysis"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "3 years",
+        "Requirements": "5 'O' Levels including English Language and Mathematics and a Diploma in Agriculture from any college recognised by MSU."
+    },
+    {
+        "id": 304,
+        "Name": "Bachelor of Science (Honours) in Information Technology for Agricultural Systems",
+        "Description": "Integrates information technology solutions within agricultural practices and systems.",
+        "Fields": ["Information Technology", "Agriculture", "Data Science", "Agricultural Systems", "Computer Science"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 years",
+        "Requirements": "At least two A-Level passes in Mathematics / Statistics / Computer Science and any one from the following relevant subjects such as Economics, Business Studies, Accounting, Geography, Agriculture or Biology."
+    },
+    {
+        "id": 305,
+        "Name": "Bachelor of Science (Honours) in Applied Agricultural Sciences and Business",
+        "Description": "Combines agricultural sciences with business principles for practical applications in the agricultural sector.",
+        "Fields": ["Agricultural Sciences", "Business", "Agribusiness", "Economics", "Sustainable Agriculture"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 years",
+        "Requirements": "At least two A-Level passes in relevant subjects such as Mathematics, Economics, Statistics, Business Studies, Accounting, Geography, Sociology, Agriculture or Biology."
+    },
+    {
+        "id": 306,
+        "Name": "Bachelor of Science (Honours) in Agricultural Value Chain and Marketing",
+        "Description": "Focuses on the entire value chain of agricultural products, from production to market.",
+        "Fields": ["Agricultural Marketing", "Value Chain Management", "Agribusiness", "Economics", "Supply Chain"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 years",
+        "Requirements": "At least two A-Level passes in relevant subjects such as Mathematics, Economics, Statistics, Business Studies, Accounting, Geography, Sociology, Agriculture or Biology."
+    },
+    {
+        "id": 307,
+        "Name": "Master of Science in Applied Agricultural Economics",
+        "Description": "Advanced study in applying economic theories to agricultural issues and policies.",
+        "Fields": ["Agricultural Economics", "Economics", "Policy Analysis", "Research", "Development Studies"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "2 years",
+        "Requirements": "A candidate must normally be a holder of at least a lower second class (2.2) first degree in Agriculture, Agricultural Economics; Economics; or any other related programme from a recognized University."
+    },
+    {
+        "id": 308,
+        "Name": "Master of Science in Agricultural Informatics and Data Analytics",
+        "Description": "Focuses on the use of data science and informatics in agricultural decision-making and innovation.",
+        "Fields": ["Agricultural Informatics", "Data Analytics", "Data Science", "Agriculture", "Information Technology"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "2 years",
+        "Requirements": "Candidates should typically hold at least a lower second class (2.2) undergraduate degree in Agricultural Informatics, Agricultural Economics, Agricultural Sciences, Bioinformatics, Information Technology, Data Science, Statistics, Biostatistics, Geographical information systems or a related field from a recognized university."
+    },
+    {
+        "id": 309,
+        "Name": "Bachelor of Science Honours Degree in Animal and Wildlife Sciences",
+        "Description": "Studies the biology, management, and conservation of domestic and wild animals.",
+        "Fields": ["Animal Science", "Wildlife Management", "Conservation Biology", "Ecology", "Veterinary Science"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 years",
+        "Requirements": "Five 'O' levels subjects including English and Mathematics with a grade C or better, Any 2 'A' level subjects with at least one science subject from the following, Biology, Chemistry, Agriculture, Geography, physics/Relevant Diploma in Agriculture."
+    },
+    {
+        "id": 310,
+        "Name": "Masters in Animal Breeding and Biotechnology",
+        "Description": "Advanced study in genetic improvement of animals and biotechnological applications in animal science.",
+        "Fields": ["Animal Breeding", "Biotechnology", "Genetics", "Animal Science", "Research"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "2 years",
+        "Requirements": "Honours degree (class 2.2/GPA 2.0 or better) in Agriculture or the biological sciences in the following disciplines, Animal Science, Animal Health and Production, Biological Sciences, Biotechnology and Natural Resources, Veterinary Science or related fields from an accredited University. Candidates with a third class or where the degree was not classified, will be required to attend an interview to assess their competence."
+    },
+    {
+        "id": 311,
+        "Name": "Bachelor of Science Honours in Dairy Sciences",
+        "Description": "Specializes in the science and technology of dairy production and processing.",
+        "Fields": ["Dairy Science", "Animal Science", "Food Science", "Agriculture", "Nutrition"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 years",
+        "Requirements": "Five 'O 'level subjects including English and any 2 'A 'Level subjects with at least one science subject from the following, Biology, Chemistry, Agriculture, Geography, Physics/Relevant Diploma in Agriculture."
+    },
+    {
+        "id": 312,
+        "Name": "Bachelor of Science Honours in Poultry Sciences",
+        "Description": "Focuses on the scientific principles and practices of poultry farming and production.",
+        "Fields": ["Poultry Science", "Animal Science", "Agriculture", "Nutrition", "Veterinary Science"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 years",
+        "Requirements": "Five 'O 'level subjects including English and any 2 'A 'Level subjects with at least one science subject from the following, Biology, Chemistry, Agriculture, Geography, Physics/Relevant Diploma in Agriculture."
+    },
+    {
+        "id": 313,
+        "Name": "Bachelor of Science Honours in Wildlife Ecology and Management",
+        "Description": "Studies the ecological principles and management strategies for wildlife populations and their habitats.",
+        "Fields": ["Wildlife Ecology", "Conservation Biology", "Ecology", "Environmental Science", "Animal Science"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 years",
+        "Requirements": "Five 'O 'level subjects including English and any 2 'A 'Level subjects with at least one science subject from the following, Biology, Chemistry, Agriculture, Geography, Physics/Relevant Diploma in Agriculture."
+    },
+    {
+        "id": 314,
+        "Name": "Bachelor of Science Honours in Land and Water Resources Management",
+        "Description": "Focuses on the sustainable management of land and water resources.",
+        "Fields": ["Land Management", "Water Resources", "Environmental Science", "Sustainability", "Agriculture"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 Years",
+        "Requirements": "Five \"O\" levels including English language, Science and Mathematics and at least two \"A\" level passes that may include Geography or any Sciences subject. A good pass in any relevant diploma may be considered for prospective students without \"A\" level passes."
+    },
+    {
+        "id": 315,
+        "Name": "Bachelor of Science Honours in Environmental Science and Technology",
+        "Description": "Examines environmental issues and technological solutions for sustainability.",
+        "Fields": ["Environmental Science", "Technology", "Sustainability", "Ecology", "Environmental Management"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 Years",
+        "Requirements": "Five \"O\" levels including English language, Science and Mathematics and at least two \"A\" level passes that may include Geography or any Sciences subject. A good pass in any relevant diploma may be considered for prospective students without \"A\" level passes."
+    },
+    {
+        "id": 316,
+        "Name": "Bachelor of Science Honours in Water and Sanitation",
+        "Description": "Focuses on the provision of safe water and sanitation systems.",
+        "Fields": ["Water and Sanitation", "Environmental Science", "Public Health", "Water Management", "Sustainability"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 Years",
+        "Requirements": "Five \"O\" levels including English language, Science and Mathematics and at least two \"A\" level passes that may include Geography or any Sciences subject. A good pass in any relevant diploma may be considered for prospective students without \"A\" level passes."
+    },
+    {
+        "id": 317,
+        "Name": "Bachelor of Science Honours in Biosystems Engineering",
+        "Description": "Applies engineering principles to biological systems, particularly in agriculture and environment.",
+        "Fields": ["Biosystems Engineering", "Agricultural Engineering", "Environmental Engineering", "Sustainability", "Biological Systems"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "4 Years",
+        "Requirements": "Five \"O\" levels including English language, Science and Mathematics and at least two \"A\" level passes that may include Mathematics or any Sciences subject."
+    },
+    {
+        "id": 318,
+        "Name": "Master of Science in Land and Water Resources Management",
+        "Description": "Advanced study in the integrated management of land and water resources for sustainable development.",
+        "Fields": ["Land Management", "Water Resources", "Environmental Science", "Sustainability", "Resource Management"],
+        "University": 4,
+        "Faculty": "Faculty of Agriculture, Environment and Natural Resources",
+        "Duration": "2 years",
+        "Requirements": "A candidate must normally be a holder of at least a lower second class (2.2) pass in BSc (Hons) Land and Water Resources Management Honours Degree, BSc (Hons) Geography and Environmental Science Honours Degree or any relevant BSc (Hons) degree or any other related programme from a recognized University."
+    }
+]

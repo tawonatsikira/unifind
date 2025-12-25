@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "date": "12\/04\/2025",
+        "heading": "Admissions",
+        "body": "2025 admissions are now open"
+    },
+    {
+        "id": 2,
+        "date": "13\/05\/2025",
+        "heading": "Admissions",
+        "body": "2025 admissions are now closed"
+    },
+    {
+        "id": 4,
+        "date": "23\/05\/2025",
+        "heading": "Tawona is smart",
+        "body": "A new revalation to the world"
+    }
+]

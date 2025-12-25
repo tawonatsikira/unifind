@@ -1,0 +1,102 @@
+[
+    {
+        "id": 450,
+        "Name": "Bachelor of Science Honours Degree in Renewable Energy",
+        "Description": "Focuses on renewable energy technologies and applications.",
+        "Fields": ["Renewable Energy", "Environmental Science", "Energy Systems", "Sustainability", "Engineering"],
+        "University": 5,
+        "Faculty": "School of Natural Sciences",
+        "Duration": "4 Years Conventional/ 3 Years Block Release",
+        "Requirements": "Five (5) Ordinary Level passes with C or better including English language and any Science subject. Mathematics is an added advantage."
+    },
+    {
+        "id": 451,
+        "Name": "Bachelor of Science Honours Degree in Applied Biosciences and Biotechnology",
+        "Description": "Focuses on applied biosciences and biotechnology.",
+        "Fields": ["Biosciences", "Biotechnology", "Molecular Biology", "Genetics", "Microbiology"],
+        "University": 5,
+        "Faculty": "School of Natural Sciences",
+        "Duration": "4 Years Conventional/ 3 Years Block Release",
+        "Requirements": "Five (5) Ordinary Level passes with C or better including English language and any Science subject. Mathematics is an added advantage."
+    },
+    {
+        "id": 452,
+        "Name": "Bachelor of Science Honours Degree in Human Resources Management",
+        "Description": "Focuses on managing human capital within organizations.",
+        "Fields": ["Human Resources", "Management", "Organizational Behavior", "Business", "Leadership"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 453,
+        "Name": "Bachelor of Science Honours Degree in Gender and Policy Studies",
+        "Description": "Focuses on gender studies and policy analysis.",
+        "Fields": ["Gender Studies", "Policy Studies", "Social Sciences", "Human Rights", "Sociology"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 454,
+        "Name": "Bachelor of Science Honours Degree in Educational Psychology",
+        "Description": "Focuses on psychological principles applied to education.",
+        "Fields": ["Educational Psychology", "Psychology", "Education", "Child Development", "Counselling"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 455,
+        "Name": "Bachelor of Science Honours Degree in Public Management and Policy",
+        "Description": "Focuses on public management and policy analysis.",
+        "Fields": ["Public Management", "Public Policy", "Administration", "Governance", "Political Science"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 456,
+        "Name": "Bachelor of Science Honours Degree in Urban and Regional Planning",
+        "Description": "Focuses on urban and regional planning principles and practices.",
+        "Fields": ["Urban Planning", "Regional Planning", "Geography", "Environmental Science", "Public Policy"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 457,
+        "Name": "Bachelor of Science Honours Degree in International Relations",
+        "Description": "Focuses on international relations and global politics.",
+        "Fields": ["International Relations", "Political Science", "Diplomacy", "Global Studies", "Security Studies"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 458,
+        "Name": "Bachelor of Science Honours Degree in Sociology and Social Anthropology",
+        "Description": "Focuses on sociology and social anthropology studies.",
+        "Fields": ["Sociology", "Social Anthropology", "Social Sciences", "Cultural Studies", "Research"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 459,
+        "Name": "Bachelor of Science Honours Degree in Peace, Leadership and Governance",
+        "Description": "Focuses on peace studies, leadership, and governance.",
+        "Fields": ["Peace Studies", "Leadership", "Governance", "Political Science", "Social Sciences"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    }
+]

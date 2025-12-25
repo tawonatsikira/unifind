@@ -1,0 +1,297 @@
+{
+    "University of Zimbabwe": {
+        "Name": "University of Zimbabwe",
+        "Description": "The University of Zimbabwe, established in 1952, is the oldest and largest university in Zimbabwe. Located in Harare, it offers a wide range of undergraduate and postgraduate programs across various faculties including arts, science, engineering, medicine, law, and social sciences. It is a leading institution for higher education and research in Zimbabwe and the region.",
+        "Id": 1,
+        "Website": "https://www.uz.ac.zw",
+        "Portal": "https://emhare.uz.ac.zw",
+        "Contacts": {
+            "Main Switchboard": "+263242303211",
+            "Alternative Switchboard": "+263242303240",
+            "General Enquiries Email": "marketingcomms@admin.uz.ac.zw",
+            "Admissions Phone": "+2634303211"
+        },
+        "Addresses": {
+            "Main Campus": "Churchill Avenue, Harare, Zimbabwe",
+            "Main Campus Postal": "P.O. Box MP167, Mount Pleasant, Harare, Zimbabwe"
+        },
+        "Email": "admissions@uz.ac.zw",
+        "AltNames": [
+            "UZ"
+        ],
+        "Offices": {
+            "Harare": ""
+        }
+    },
+    "National University of Science and Technology": {
+        "Name": "National University of Science and Technology",
+        "Description": "The National University of Science and Technology (NUST) is a leading university in Zimbabwe, established in 1991. Located in Bulawayo, it offers programs in science, engineering, technology, and business, and is known for its research and innovation.",
+        "Id": 2,
+        "Website": "https://www.nust.ac.zw",
+        "Portal": "https://nust.ac.zw/studentportal",
+        "Contacts": {
+            "General Enquiries": "+263-292-282842",
+            "Alternative General Enquiries 1": "281082",
+            "Alternative General Enquiries 2": "280308",
+            "Alternative General Enquiries 3": "281086",
+            "Alternative General Enquiries 4": "284231",
+            "Alternative General Enquiries 5": "286752",
+            "Alternative General Enquiries 6": "287078",
+            "Alternative General Enquiries 7": "285952",
+            "Alternative General Enquiries 8": "288319",
+            "Alternative General Enquiries 9": "288413",
+            "Alternative General Enquiries 10": "289435",
+            "Fax": "+263292286803",
+            "General Info Email": "info@nust.ac.zw",
+            "Harare Office Phone 1": "+263-024-251534",
+            "Harare Office Phone 2": "+263-024-794848"
+        },
+        "Addresses": {
+            "Main Campus": "Cnr Cecil Ave and Gwanda Road, Bulawayo, Zimbabwe",
+            "Main Campus Postal": "P.O. Box 939 Ascot, Bulawayo, Zimbabwe"
+        },
+        "Email": "admissions@nust.ac.zw",
+        "AltNames": [
+            "NUST"
+        ],
+        "Offices": {
+            "Bulawayo": ""
+        }
+    },
+    "Chinhoyi University of Technology": {
+        "Name": "Chinhoyi University of Technology",
+        "Description": "Chinhoyi University of Technology (CUT) is a public university in Zimbabwe, established in 2002. It is located in Chinhoyi and offers programs in technology, engineering, and applied sciences.",
+        "Id": 3,
+        "Website": "https://www.cut.ac.zw",
+        "Portal": "https://cut.ac.zw/studentportal",
+        "Contacts": {
+            "General Phone 1": "+263 67 22203",
+            "General Phone 2": "+263 67 22204",
+            "General Phone 3": "+263 67 22205",
+            "General Phone 4": "+263 672 127434",
+            "General Phone 5": "+263 672 129053",
+            "General Phone 6": "+263 672 129470",
+            "Procurement Office": "+263 267 2124047",
+            "Student Account Office": "+263 267 2129461"
+        },
+        "Addresses": {
+            "Main Campus": "72 Harare-Chirundu Road, Chinhoyi, Zimbabwe",
+            "Main Campus Postal": "Private Bag 7724, Chinhoyi, Zimbabwe"
+        },
+        "Email": "admissions@cut.ac.zw",
+        "AltNames": [
+            "CUT"
+        ],
+        "Offices": {
+            "Chinhoyi": ""
+        }
+    },
+    "Bindura University of Science Education": {
+        "Name": "Bindura University of Science Education",
+        "Description": "Bindura University of Science Education (BUSE) is a university in Zimbabwe focused on science education and teacher training. It is located in Bindura and offers various undergraduate and postgraduate programs.",
+        "Id": 4,
+        "Website": "https://www.buse.ac.zw",
+        "Portal": "https://buse.ac.zw/studentportal",
+        "Contacts": {
+            "General Info Email": "info@buse.ac.zw",
+            "Main Switchboard 1": "+263 719528691",
+            "Main Switchboard 2": "+263 719528693",
+            "Main Switchboard 3": "+263 719528694",
+            "REGISTRY-ADMISSIONS": "+26366210 7532",
+            "Alternative Admissions": "+26366210 7534",
+            "ACCOUNTS (STUDENTS)": "+26366210 7311",
+            "HARARE CAMPUS": "+263242 254 548"
+        },
+        "Addresses": {
+            "Main Campus": "741 Chimurenga Road Off Trojan Road, Bindura, Zimbabwe"
+        },
+        "Email": "admissions@buse.ac.zw",
+        "AltNames": [
+            "BUSE"
+        ],
+        "Offices": {
+            "Bindura": ""
+        }
+    },
+    "Great Zimbabwe University": {
+        "Name": "Great Zimbabwe University",
+        "Description": "Great Zimbabwe University (GZU) is a public university located in Masvingo, Zimbabwe. Established in 1995, it offers a variety of programs in arts, education, commerce, and social sciences.",
+        "Id": 5,
+        "Website": "https://www.gzu.ac.zw",
+        "Portal": "https://gzu.ac.zw/studentportal",
+        "Contacts": {
+            "General Enquiries Phone": "+263 8677 004747",
+            "General Enquiries Email": "information@gzu.ac.zw",
+            "Landline 1": "+263 39 2266660",
+            "Landline 2": "+263 39 2266663",
+            "Landline 3": "+263 39 2266648",
+            "Landline 4": "+263 39 2266658",
+            "Mobile": "+263782780662"
+        },
+        "Addresses": {
+            "Main Campus": "Masvingo Teachers' College Campus, Masvingo, Zimbabwe",
+            "Main Campus Postal": "P.O.Box 1235, Masvingo, Zimbabwe"
+        },
+        "Email": "admissions@gzu.ac.zw",
+        "AltNames": [
+            "GZU"
+        ],
+        "Offices": {
+            "Masvingo": ""
+        }
+    },
+    "Midlands State University": {
+        "Name": "Midlands State University",
+        "Description": "Midlands State University (MSU) is a public university in Zimbabwe, established in 1999. It is located in Gweru and offers a wide range of programs in arts, science, commerce, and education.",
+        "Id": 6,
+        "Website": "https://www.msu.ac.zw",
+        "Portal": "https://msu.ac.zw/studentportal",
+        "Contacts": {
+            "MSU Incubation Hub Phone": "+263 54 222 3523",
+            "Main Line 1": "+263-54-2260331",
+            "Main Line 2": "2260416",
+            "Main Line 3": "2260417",
+            "Main Line 4": "2260431",
+            "Main Line 5": "2260450",
+            "Main Line 6": "2260476",
+            "Main Line 7": "2260496",
+            "Main Line 8": "2260525",
+            "Main Line 9": "2260541",
+            "Main Line 10": "2260568",
+            "Main Line 11": "2260575",
+            "Main Line 12": "2260592",
+            "Main Line 13": "2260596",
+            "Main Line 14": "2260632",
+            "Incubation Hub Email": "info@hub.msu.ac.zw",
+            "Marketing & Communications Email": "marketingandcommunications@admin.msu.ac.zw",
+            "Admissions Phone 1": "+263 54 2260496",
+            "Admissions Phone 2": "+263 54 2260251"
+        },
+        "Addresses": {
+            "Main Campus": "Senga Road, Gweru, Zimbabwe",
+            "Main Campus Postal": "Private Bag 9055, Gweru, Zimbabwe"
+        },
+        "Email": "admissions@msu.ac.zw",
+        "AltNames": [
+            "MSU"
+        ],
+        "Offices": {
+            "Gweru": ""
+        }
+    },
+    "Harare Institute of Technology": {
+        "Name": "Harare Institute of Technology",
+        "Description": "Harare Institute of Technology (HIT) is a public university in Zimbabwe specializing in technology and engineering education. It is located in Harare and offers various undergraduate and postgraduate programs.",
+        "Id": 7,
+        "Website": "https://www.hit.ac.zw",
+        "Portal": "https://hit.ac.zw/studentportal",
+        "Contacts": {
+            "Telephone 1": "+263 242 741 422",
+            "Telephone 2": "+263 242 741 436",
+            "Fax Number": "+263 242 741 406",
+            "General Email": "communications@hit.ac.zw",
+            "EMRECC Mobile": "+263774379969"
+        },
+        "Addresses": {
+            "Main Campus Physical": "Ganges Road, Belvedere, Harare, Zimbabwe",
+            "Main Campus Postal": "P. O. Box BE 277, Belvedere, Harare, Zimbabwe"
+        },
+        "Email": "admissions@hit.ac.zw",
+        "AltNames": [
+            "HIT"
+        ],
+        "Offices": {
+            "Harare": ""
+        }
+    },
+    "Zimbabwe Ezekiel Guti University": {
+        "Name": "Zimbabwe Ezekiel Guti University",
+        "Description": "Zimbabwe Ezekiel Guti University (ZEGU) is a private university in Zimbabwe, established in 2012. It offers programs in theology, business, and social sciences.",
+        "Id": 8,
+        "Website": "https://www.zegu.ac.zw",
+        "Portal": "https://zegu.ac.zw/studentportal",
+        "Contacts": {
+            "Reception (Bindura) 1": "+263 8 677 006 136",
+            "Reception (Bindura) 2": "+263 779 279 912",
+            "Finance 1": "+263716215465",
+            "Finance 2": "+263662106010",
+            "Finance 3": "+263778424031",
+            "Finance 4": "+263779713199",
+            "Harare Office": "+2638677007113",
+            "General Email": "admin@zegu.ac.zw"
+        },
+        "Addresses": {
+            "Main Campus Physical": "1901 Barrasie Road, Off Shamva Road, Bindura, Zimbabwe",
+            "Main Campus Postal": "P.O. Box 350, Bindura, Zimbabwe"
+        },
+        "Email": "admissions@zegu.ac.zw",
+        "AltNames": [
+            "ZEGU"
+        ],
+        "Offices": {
+            "Harare": ""
+        }
+    },
+    "Africa University": {
+        "Name": "Africa University",
+        "Description": "Africa University is a private, Pan-African, and United Methodist-related institution located in Mutare, Zimbabwe. It is the first private, fully accredited, degree-granting United Methodist-related institution of higher learning on the continent. Its motto is 'Investing in Africa's Future'. The university is student-centered, providing high-quality, pan-African-centred higher education grounded in Christian values, aimed at nurturing transformative leadership competencies relevant for Africa's development. It emphasizes academic excellence, innovation, and community engagement, fostering a diverse and vibrant community with students from over 26 African countries.",
+        "Id": 9,
+        "Website": "www.africau.edu",
+        "Portal": "online.africau.edu",
+        "Contacts": {
+            "Main Campus Switchboard": "+263 8688002151",
+            "AU Global Campus (Harare) General": "+263242764296",
+            "AU Global Campus (Harare) Alternative": "+263778879492"
+        },
+        "Addresses": {
+            "Main Campus Physical": "Junction of Fairview & Nyanga Roads, Old Mutare, Mutare, Zimbabwe",
+            "Main Campus Postal": "P.O. Box 1320, Mutare, Zimbabwe",
+            "AU Global Campus Physical": "38 Lanark Road, Avondale, Harare, Zimbabwe"
+        },
+        "Email": "info@africau.edu",
+        "AltNames": [
+            "AU"
+        ],
+        "Offices": {}
+    },
+    "Women's University in Africa": {
+        "Name": "Women's University in Africa",
+        "Description": "The Women's University in Africa (WUA) is a Zimbabwean university dedicated to providing higher education for women. Established with a focus on empowering women through education, WUA offers a range of programs designed to address national and regional development needs.",
+        "Id": 10,
+        "Website": "https://www.wua.ac.zw",
+        "Portal": "https://www.wua.ac.zw/portal",
+        "Contacts": {
+            "Main Campus Switchboard": "+263 242 334 380",
+            "Admissions Office": "+263 772 143 898"
+        },
+        "Addresses": {
+            "Main Campus Physical": "549 Arcturus Road, Northway, Hatfield, Harare, Zimbabwe",
+            "Main Campus Postal": "P. O. Box GD 32 D, Greendale, Harare, Zimbabwe"
+        },
+        "Email": "info@wua.ac.zw",
+        "AltNames": [
+            "WUA"
+        ],
+        "Offices": {}
+    },
+    "Zimbabwe Open University": {
+        "Name": "Zimbabwe Open University",
+        "Description": "The Zimbabwe Open University (ZOU) is a distance education university in Zimbabwe. It provides flexible and accessible higher education opportunities to a diverse student body, offering various programs through open and distance learning methodologies.",
+        "Id": 11,
+        "Website": "https://www.zou.ac.zw",
+        "Portal": "https://www.zou.ac.zw/portal",
+        "Contacts": {
+            "General Enquiries": "+263 8677004747",
+            "Admissions": "+263 242 793 189"
+        },
+        "Addresses": {
+            "National Centre Physical": "Corner House, 4th Floor, Cnr Samora Machel Ave & Leopold Takawira St, Harare, Zimbabwe",
+            "National Centre Postal": "P.O. Box MP 1119, Mt Pleasant, Harare, Zimbabwe"
+        },
+        "Email": "info@zou.ac.zw",
+        "AltNames": [
+            "ZOU"
+        ],
+        "Offices": {}
+    }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "EduRank University Rankings",
+    "description": "Comprehensive rankings and reviews of universities worldwide.",
+    "link": "https:\/\/edurank.org\/"
+  },
+  {
+    "id": 2,
+    "title": "How to Prepare for University",
+    "description": "An article with tips and advice on preparing for university life.",
+    "link": "https:\/\/www.topuniversities.com\/student-info\/admissions-advice\/how-prepare-university"
+  },
+  {
+    "id": 3,
+    "title": "Finding Your Ideal Career Path",
+    "description": "Guidance on exploring and choosing the right career for you.",
+    "link": "https:\/\/www.careeronestop.org\/ExploreCareers\/Assessments\/self-assessments.aspx"
+  },
+  {
+    "id": 4,
+    "title": "Alternative Paths to Success",
+    "description": "Information on alternative education and career paths beyond university.",
+    "link": "https:\/\/www.thebalancecareers.com\/alternative-career-paths-525506"
+  },
+  {
+    "id": 5,
+    "title": "Tawona's portfolio",
+    "description": "Just a small glimpse at Tawona's porfolio just incase you want to see the cool stuff he's made",
+    "link": "https:\/\/Aweseome.Tawona.com"
+  }
+]

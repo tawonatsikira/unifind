@@ -1,0 +1,312 @@
+[
+    {
+        "id": 200,
+        "Name": "Community Education and Lifelong Learning (Normal Entry)",
+        "Description": "Focuses on educational programs for community development and lifelong learning.",
+        "Fields": ["Community Education", "Lifelong Learning", "Adult Education", "Education", "Social Development"],
+        "University": 1,
+        "Faculty": "Faculty of Social and Behavioural Sciences",
+        "Duration": "4 years",
+        "Requirements": "5 'O' Level passes including English and any 2 'A' passes in Arts subjects."
+    },
+    {
+        "id": 201,
+        "Name": "Community Education and Lifelong Learning (Special Entry)",
+        "Description": "Focuses on educational programs for community development and lifelong learning.",
+        "Fields": ["Community Education", "Lifelong Learning", "Adult Education", "Education", "Social Development"],
+        "University": 1,
+        "Faculty": "Faculty of Social and Behavioural Sciences",
+        "Duration": "4 years",
+        "Requirements": "A Diploma in Adult Education\\Lifelong learning or its equivalent is required. An entrance test will be provided to adults who have at least 5 'O' Levels and a minimum of one year of Experience working with adults in various fields of adult Lifelong learning."
+    },
+    {
+        "id": 202,
+        "Name": "Criminology and Society",
+        "Description": "Examines the study of crime, criminal behavior, and their societal implications.",
+        "Fields": ["Criminology", "Sociology", "Law", "Social Sciences", "Justice Studies"],
+        "University": 1,
+        "Faculty": "Faculty of Social and Behavioural Sciences",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level passes, including English and any 2 'A' level passes in Arts subjects."
+    },
+    {
+        "id": 203,
+        "Name": "Urbanisation and Social Amenities Development",
+        "Description": "Focuses on the processes of urbanization and the development of social amenities.",
+        "Fields": ["Urban Studies", "Social Development", "Urban Planning", "Public Policy", "Sociology"],
+        "University": 1,
+        "Faculty": "Faculty of Social and Behavioural Sciences",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level passes, including English and Mathematics at grade C or better plus any 2 'A' level passes in Arts subjects."
+    },
+    {
+        "id": 204,
+        "Name": "Smart Technology Applications and Community Development",
+        "Description": "Explores the application of smart technologies for community development.",
+        "Fields": ["Smart Technology", "Community Development", "Information Technology", "Social Sciences", "Innovation"],
+        "University": 1,
+        "Faculty": "Faculty of Social and Behavioural Sciences",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level passes, including English and Mathematics with grade B or better plus any 2 'A' level passes in Arts subjects."
+    },
+    {
+        "id": 205,
+        "Name": "Social Innovation and Community Development",
+        "Description": "Focuses on developing innovative solutions for social challenges and community development.",
+        "Fields": ["Social Innovation", "Community Development", "Social Sciences", "Public Policy", "Entrepreneurship"],
+        "University": 1,
+        "Faculty": "Faculty of Social and Behavioural Sciences",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level passes, including English with grade B or better plus any 2 'A' level passes in Arts subjects."
+    },
+    {
+        "id": 206,
+        "Name": "Industrial Sociology",
+        "Description": "Examines the social structures and relationships within industrial settings.",
+        "Fields": ["Industrial Sociology", "Sociology", "Labor Studies", "Social Sciences", "Organizational Behavior"],
+        "University": 1,
+        "Faculty": "Faculty of Social and Behavioural Sciences",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level passes, including English Language with a B or better and any 2 'A' level passes in Arts subjects."
+    },
+    {
+        "id": 207,
+        "Name": "Biotechnology",
+        "Description": "Focuses on the application of biological systems and organisms to develop new products and technologies.",
+        "Fields": ["Biotechnology", "Molecular Biology", "Genetics", "Microbiology", "Biochemistry"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "2 'A' Level passes in Biology and Chemistry and any one of the following subjects: Mathematics, Additional Mathematics, Mechanical Mathematics, Physics, Food Science, Crop Science, Agricultural Engineering, Food Technology and Design and 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 208,
+        "Name": "Applied Chemistry",
+        "Description": "Focuses on the practical application of chemical principles in various industries.",
+        "Fields": ["Applied Chemistry", "Industrial Chemistry", "Chemical Engineering", "Materials Science", "Analytical Chemistry"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "'A' Level pass in Chemistry and any one of the following subjects: Physics, Mathematics, Pure Mathematics, Mechanical Mathematics, Additional Mathematics, Statistics. 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 209,
+        "Name": "Applied Mathematics",
+        "Description": "Focuses on the application of mathematical methods to solve problems in science, engineering, and other fields.",
+        "Fields": ["Applied Mathematics", "Mathematics", "Statistics", "Computational Mathematics", "Mathematical Modelling"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "'A' Level pass in Mathematics or Mechanical Mathematics or Pure Mathematics, Additional Mathematics and any one of the following subjects: Physics, Statistics, Geography, Chemistry, Biology and 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 210,
+        "Name": "Applied Physics",
+        "Description": "Focuses on the practical application of physics principles to technology and real-world problems.",
+        "Fields": ["Applied Physics", "Physics", "Engineering", "Materials Science", "Electronics"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "'A' Level pass in Physics and any one of the following subjects: Mathematics, Pure Mathematics, Mechanical Mathematics, Additional Mathematics. 5 'O' level passes including English language and Mathematics."
+    },
+    {
+        "id": 211,
+        "Name": "Computer Science",
+        "Description": "Focuses on the theoretical foundations of information and computation and their practical application.",
+        "Fields": ["Computer Science", "Artificial Intelligence", "Data Science", "Cybersecurity", "Software Engineering", "Networking"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "'A' Level pass in Mathematics or Pure Mathematics or Additional Mathematics or Mechanical Mathematics and any one of the following subjects: Physics, Computer Science, Software Engineering. 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 212,
+        "Name": "Informatics",
+        "Description": "Focuses on the study of information processing and the design of information systems.",
+        "Fields": ["Informatics", "Information Systems", "Data Science", "Computer Science", "Information Technology"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "'A' Level passes in Mathematics or Pure Mathematics or Additional Mathematics or Mechanical Mathematics or Computer Science, Software Engineering or Physics and any Science or Commercial subject. 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 213,
+        "Name": "Earth Sciences",
+        "Description": "Focuses on the study of the Earth's physical structure, history, and processes.",
+        "Fields": ["Earth Sciences", "Geology", "Environmental Science", "Geophysics", "Geochemistry"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "'A' Level pass in Physics and any one of following: Mathematics Mechanical Mathematics, Pure Mathematics, Mechanical Mathematics, Additional Mathematics 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 214,
+        "Name": "Operations Research and Statistics",
+        "Description": "Focuses on the application of advanced analytical methods to help make better decisions and solve complex problems.",
+        "Fields": ["Operations Research", "Statistics", "Mathematics", "Data Analysis", "Optimization"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "'A' Level pass in Statistics or Mathematics or Mechanical Mathematics or Pure Mathematics or Additional Mathematics and any one of the following subjects from Science or Social Science subjects (Geography, Management or Economics)and 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 215,
+        "Name": "Business Analytics",
+        "Description": "Focuses on using data and statistical methods to gain insights and make informed business decisions.",
+        "Fields": ["Business Analytics", "Data Science", "Statistics", "Business Intelligence", "Information Systems"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "'A' Level pass in Statistics or Mathematics or Mechanical Mathematics, or Pure Mathematics or Additional Mathematics and any one of the following; subjects from Science or Social Science subjects (Geography, Management or Economics) and 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 216,
+        "Name": "Radiography (August Intake Only)",
+        "Description": "Focuses on medical imaging techniques for diagnosis and treatment.",
+        "Fields": ["Radiography", "Medical Imaging", "Healthcare", "Diagnostic Imaging", "Therapeutic Radiography"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "Normal Entry: 'A' Level pass in Mathematics or Mechanical Mathematics or Pure Mathematics or Additional Mathematics plus Physics and one of the following; Biology or Chemistry. 5 'O' Level passes including English Language and Mathematics. Special Entry: A Diploma in Radiography or equivalent qualification with at least 2 years clinical work experience. The applicant must be employed and practising Radiography at the time of applying for entry to the programme."
+    },
+    {
+        "id": 217,
+        "Name": "Sports Science and Coaching",
+        "Description": "Focuses on the scientific study of sport and exercise, and the principles of coaching.",
+        "Fields": ["Sports Science", "Coaching", "Exercise Science", "Physiology", "Kinesiology"],
+        "University": 2,
+        "Faculty": "Faculty of Applied Science",
+        "Duration": "Not specified in the document.",
+        "Requirements": "Normal Entry: 2 'A' Level passes in any of the following subjects: Sports Science and Technology, Physical Education, Sport and Mass Display, Sport Management, Biology, Food Science, Food Technology and Design. 5 'O' Level passes including English Language and Mathematics. Special Entry: Candidates who have successfully completed a Diploma in Sports Science or Physical Education or its recognised equivalent may apply."
+    },
+    {
+        "id": 218,
+        "Name": "Agricultural Engineering",
+        "Description": "Focuses on the design, development, and application of engineering principles to agricultural systems.",
+        "Fields": ["Agricultural Engineering", "Mechanical Engineering", "Irrigation", "Farm Machinery", "Environmental Engineering"],
+        "University": 2,
+        "Faculty": "Faculty of Agricultural Sciences and Technology",
+        "Duration": "5 years",
+        "Requirements": "Normal Entry: 3 'A' Level passes in Pure/Additional/Mechanical Mathematics and Physics and any one of the following subjects; Biology, Agriculture, Chemistry, Crop Science, Animal Science, Computer Science or any other approved equivalent Science subject at 'A' level. 5 'O' Level passes including English Language and Mathematics. Special Entry: National Diploma in Agriculture, Agricultural Engineering, Civil Engineering, Surveying, Mechanical, or equivalent plus 2 years relevant working experience. Or Higher National Diploma in Agriculture, Agricultural Engineering, Civil Engineering, Surveying, Mechanical, or equivalent plus one-year relevant working experience. 5 'O' Level passes including English Language and Mathematics. Mature Entry: 5 'O' Level passes including English Language and Mathematics. At least 25 years of age at the time of application plus relevant experience in the field of Agriculture or Engineering. The applicant may be subjected to an interview."
+    },
+    {
+        "id": 219,
+        "Name": "Agribusiness, Economics and Management",
+        "Description": "Focuses on the business, economic, and management aspects of the agricultural industry.",
+        "Fields": ["Agribusiness", "Economics", "Management", "Agriculture", "Business"],
+        "University": 2,
+        "Faculty": "Faculty of Agricultural Sciences and Technology",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: 2 'A' Level passes in 2 Science and/or Commercial subjects or National Diploma. 5 'O' level passes including English Language and Mathematics. Special Entry: At least a National Diploma in the field of Agriculture from an accredited institution. 5 'O' Level passes including English Language and Mathematics. Mature Entry: 5 'O' level passes including English Language and Mathematics. 25 years of age at the time of application plus 5-years relevant working experience. The applicant may be subjected to an interview."
+    },
+    {
+        "id": 220,
+        "Name": "Sustainable Food Production",
+        "Description": "Focuses on methods and systems for producing food in an environmentally and socially responsible manner.",
+        "Fields": ["Sustainable Agriculture", "Food Production", "Environmental Science", "Agriculture", "Food Security"],
+        "University": 2,
+        "Faculty": "Faculty of Agricultural Sciences and Technology",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: At least one 'A' Level pass in either Food Science, Biology, Agriculture, Crop Science, Animal Science or Geography, and any other related Science or Commercial Subjects at 'A' Level. Special Entry: National Diploma in any Agricultural field. 5 'O' Level passes including English Language and Mathematics. Mature Entry: 5 'O' passes including English Language and Mathematics. 25 years of age at the time of application plus 5-years relevant experience in the field of Agriculture. The applicant may be subjected to an interview."
+    },
+    {
+        "id": 221,
+        "Name": "Agricultural Genetics and Cell Technology",
+        "Description": "Focuses on the genetic improvement of agricultural crops and livestock, and the application of cell technology.",
+        "Fields": ["Genetics", "Cell Technology", "Agriculture", "Biotechnology", "Plant Science"],
+        "University": 2,
+        "Faculty": "Faculty of Agricultural Sciences and Technology",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: 'A' level pass in Biology and at least one of the following subjects, Geography, Chemistry, Crop Science, Animal Science or any other science subject at 'A' Level. 5 'O' level subjects including English Language and Mathematics. Special Entry: National Diploma in any Agricultural field. 5 'O' Level passes including English Language and Mathematics. Mature Entry: 5 'O' level passes including English Language and Mathematics. 25 years of age at the time of application plus 5-years relevant experience in the field of Agriculture. The applicant may be subjected to an interview."
+    },
+    {
+        "id": 222,
+        "Name": "Agricultural Information Technology",
+        "Description": "Focuses on the application of information technology in agricultural practices and management.",
+        "Fields": ["Information Technology", "Agriculture", "Data Management", "Precision Agriculture", "Computer Science"],
+        "University": 2,
+        "Faculty": "Faculty of Agricultural Sciences and Technology",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: 2 'A' Level passes in Mathematics or Computer Science or Agriculture and any other relevant Science or Commercial subject or Relevant National Certificate. Special Entry: A Diploma in Agriculture or Information Technology or any related field from a recognized institution. 5 'O' Level passes including English Language and Mathematics. Mature Entry: 5 'O' level passes including English Language and Mathematics. The applicant should be at least 25 years old and should have at least 5-years relevant industrial experience."
+    },
+    {
+        "id": 223,
+        "Name": "Architectural Studies Honours Degree",
+        "Description": "Focuses on the art and science of designing buildings and other physical structures.",
+        "Fields": ["Architecture", "Design", "Urban Planning", "Construction", "Engineering"],
+        "University": 2,
+        "Faculty": "Faculty of The Built Environment",
+        "Duration": "5 years",
+        "Requirements": "Normal Entry: 'A' Level pass in Mathematics or Mechanical Mathematics or Pure Mathematics or Additional Mathematics plus any of the following subjects: Physics, Art, Geometrical & Mechanical Drawing, Building Technology, Design & Technology. 5 'O' Level passes including English Language and Mathematics. Special Entry: A National Diploma in Architecture or Architectural Technology. 5 'O' Level passes including English Language and Mathematics. Mature Entry: 5 'O' Level passes including English Language and Mathematics. Applicants must be above 25 years of age; be at least 5 years after their last qualification and are required to submit a CV and references and Portfolio. Applicants may be subjected to an interview."
+    },
+    {
+        "id": 224,
+        "Name": "Quantity Surveying",
+        "Description": "Focuses on the financial and contractual management of construction projects.",
+        "Fields": ["Quantity Surveying", "Construction Management", "Cost Estimation", "Project Management", "Contract Management"],
+        "University": 2,
+        "Faculty": "Faculty of The Built Environment",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: 2 'A' Level passes in either Pure Mathematics or Further Mathematics or Mechanical Mathematics or Physics and any one of the following subjects; Geometrical & Mechanical Drawing, Building Technology, Design & Technology, Technical Graphics, and Accounting. 5 'O' Level passes including English Language and Mathematics. Special Entry: Applicants must have a National Diploma in Quantity Surveying with 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 225,
+        "Name": "Construction Management",
+        "Description": "Focuses on the planning, coordination, and control of construction projects.",
+        "Fields": ["Construction Management", "Project Management", "Planning", "Cost Control", "Engineering"],
+        "University": 2,
+        "Faculty": "Faculty of The Built Environment",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: 2 'A' Level passes in Mathematics or Further Mathematics or Mechanical Mathematics or Pure Mathematics or Physics and any one of the following subjects; Statistics, Geography, Geometrical & Mechanical Drawing, Building Technology, Design & Technology, Technical Graphics, Accounting, Business Studies. 5 'O' Level passes including English Language and Mathematics. Special Entry: Applicants must have a National Diploma in Architectural Technology, Civil Engineering, Civil and Construction Engineering, Quantity Surveying, Town Planning, Surveying and Geomatics or Construction Technology. 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 226,
+        "Name": "Property Development and Estate Management",
+        "Description": "Focuses on the development, valuation, and management of real estate properties.",
+        "Fields": ["Property Development", "Estate Management", "Real Estate", "Valuation", "Urban Planning"],
+        "University": 2,
+        "Faculty": "Faculty of The Built Environment",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: 2 'A' Level passes in Geography, Mathematics or Mechanical Mathematics or Pure Mathematics, Additional Mathematics, Accounting, Economics, Business Studies, Management of Business. 5 'O' Level passes including English Language and Mathematics. Special Entry: A National Diploma in Town Planning, Valuation and Estate Management, Quantity Surveying, Architectural Technology, Civil Engineering Finance and Business Studies. The Real Estate Institute of Zimbabwe certification or its equivalence. Additional qualifications and work experience will be an added advantage. 5 'O' Level passes including English Language and Mathematics."
+    },
+    {
+        "id": 227,
+        "Name": "Chemical Engineering",
+        "Description": "Applies principles of chemistry, physics, and biology to design and operate chemical processes.",
+        "Fields": ["Chemical Engineering", "Chemistry", "Process Engineering", "Materials Science", "Biology"],
+        "University": 2,
+        "Faculty": "Faculty of Engineering",
+        "Duration": "Not specified in the document.",
+        "Requirements": "Normal Entry: 3 'A' level passes in Mechanical Mathematics/Pure Mathematics/Additional Mathematics and Chemistry plus Physics or Biology. 5 'O' Level passes including English Language and Mathematics. Special Entry: Relevant National Diploma plus 2 years' experience. Relevant Higher National Diploma plus 1-year experience."
+    },
+    {
+        "id": 228,
+        "Name": "Civil and Water Engineering",
+        "Description": "Focuses on the design, construction, and maintenance of civil infrastructure and water resource systems.",
+        "Fields": ["Civil Engineering", "Water Engineering", "Environmental Engineering", "Structural Engineering", "Hydrology"],
+        "University": 2,
+        "Faculty": "Faculty of Engineering",
+        "Duration": "Not specified in the document.",
+        "Requirements": "Normal Entry: At least 3 'A' level passes in Pure Mathematics/Additional Mathematics/Mechanical Mathematics, Physics and either Chemistry, Computer Science or Engineering Drawing. 5 'O' Level passes including English Language and Mathematics. Special Entry: Relevant National Diploma plus 2 years experience. Relevant Higher National Diploma plus 1-year experience."
+    },
+    {
+        "id": 229,
+        "Name": "Electronic Engineering",
+        "Description": "Focuses on the design and development of electronic systems and devices.",
+        "Fields": ["Electronic Engineering", "Electronics", "Circuit Design", "Signal Processing", "Telecommunications"],
+        "University": 2,
+        "Faculty": "Faculty of Engineering",
+        "Duration": "Not specified in the document.",
+        "Requirements": "Normal Entry: At least 3 'A' level passes in Pure Mathematics/ Additional Mathematics/ Mechanical Mathematics, Physics and either Chemistry or Computer Science. 5 'O' Level passes including English Language and Mathematics. Special Entry: Relevant National Diploma plus 2 years experience. Relevant Higher National Diploma plus 1 year working experience."
+    },
+    {
+        "id": 230,
+        "Name": "Industrial and Manufacturing Engineering",
+        "Description": "Focuses on optimizing complex processes, systems, or organizations, particularly in manufacturing.",
+        "Fields": ["Industrial Engineering", "Manufacturing Engineering", "Operations Management", "Process Optimization", "Systems Engineering"],
+        "University": 2,
+        "Faculty": "Faculty of Engineering",
+        "Duration": "Not specified in the document.",
+        "Requirements": "Normal Entry: 3 'A' level passes in Mathematics, Pure Mathematics/ Additional Mathematics/ Mechanical Mathematics, Physics and either Chemistry, Computer Science or Engineering Drawing/ Technical Graphics/ Mechanical Technology and Design/ Geometrical and Mechanical Drawing, with O' Level pass in Science/ Chemistry. 5 'O' Level passes including English Language and Mathematics. Special Entry: National Diploma in Mechanical Engineering/ Plant Engineering/ Draughting and Draughting Technology or equivalent and 2 years' relevant experience."
+    }
+]

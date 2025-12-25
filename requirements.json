@@ -1,0 +1,31 @@
+{
+    
+    "1" : {
+        "Name" : "Computer Science",
+
+        "Requirements" : {
+            "compulsory" :[
+                ["Pure Mathematics","Physics"],
+                ["Pure Mathematics", "Computer Science"]
+            ],
+            "additional" :[
+                "Biology", "Physics", "Geography", "Chemistry","Computer Science", "Business Studies"
+            ],
+            "min_subjects" : 3
+        }
+    },
+    "2" : {
+        "Name" : "Mathematics",
+        
+        "Requirements" : {
+            "compulsory" :[
+                ["Pure Mathematics", "Statistics"]
+            ],
+            "additional" :[
+                "Biology", "Physics", "Geography", "Chemistry","Computer Science", "Business Studies", "Economics", "Accounting"
+            ],
+            "min_subjects" : 3
+        }
+    }
+}
+    

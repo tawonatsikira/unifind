@@ -1,0 +1,49 @@
+{
+    "Pure Mathematics" :{
+        "Name" : "Pure Mathematics",
+        "Id": 0,
+        "Class" : "Science or Commercial"
+    },
+    "Applied Mathematics" :{
+        "Name" : "Applied Mathematics",
+        "Id": 1,
+        "Class" : "Science or Commercial"
+    },
+    "Statistics" :{
+        "Name" : "Statistics",
+        "Id": 2,
+        "Class" : "Science or Commercial"
+    },
+    
+    "History" :{
+        "Name" : "History",
+        "Id": 3,
+        "Class" : "Arts"
+    },
+    "Geography" :{
+        "Name" : "Geography",
+        "Id": 4,
+        "Class" : "All"
+    },
+    "Economics" :{
+        "Name" : "Economics",
+        "Id": 5,
+        "Class" : "Commercial"
+    },
+    "Literature in English":{
+        "Name" : "Literature in English",
+        "Id": 6,
+        "Class" : "Arts"
+    },
+    "Business Studies" :{
+        "Name" : "Business Studies",
+        "Id": 7,
+        "Class" : "Commercial"
+    },
+    "Physics" :{
+        "Name" : "Physics",
+        "Id" : 8,
+        "Class" : "Science"
+    }
+    
+}

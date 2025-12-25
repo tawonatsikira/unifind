@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "type": "Scholarship",
+    "title": "Academic Excellence Scholarship",
+    "description": "Awarded to students with outstanding academic achievements.",
+    "deadline": "2025-12-31",
+    "link": "https:\/\/example.com\/scholarships\/academic-excellence"
+  },
+  {
+    "id": 2,
+    "type": "Internship",
+    "title": "Tech Industry Summer Internship",
+    "description": "A 3-month internship program in leading tech companies.",
+    "deadline": "2025-06-30",
+    "link": "https:\/\/example.com\/internships\/tech-summer"
+  },
+  {
+    "id": 3,
+    "type": "Apprenticeship",
+    "title": "Engineering Apprenticeship Program",
+    "description": "Hands-on apprenticeship for engineering students with partner firms.",
+    "deadline": "2025-09-15",
+    "link": "https:\/\/example.com\/apprenticeships\/engineering"
+  },
+  {
+    "id": 4,
+    "type": "Scholarship",
+    "title": "Community Service Scholarship",
+    "description": "For students demonstrating exceptional community service involvement.",
+    "deadline": "2025-11-30",
+    "link": "https:\/\/example.com\/scholarships\/community-service"
+  },
+  {
+    "id": 5,
+    "type": "scholarship",
+    "title": "Comquest Innovators",
+    "description": "12\/12\/2025",
+    "link": "https:\/\/ComquestStudios.com"
+  }
+]

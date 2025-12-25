@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unifind</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+        
+        body {
+            background-color: white;
+            color: black;
+            transition: margin-left 0.3s;
+        }
+        
+        
+        
+        /* Main Content */
+        .main {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        h1 {
+            margin-bottom: 30px;
+            font-size: 2.5rem;
+        }
+        
+        .search-container {
+                    margin-bottom: 2.5rem;
+                    display: flex;
+                    justify-content: center;
+                }
+                .search-form {
+                    width: 100%;
+                    max-width: 600px;
+                    display: flex;
+                    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+                }
+        
+        .search-bar {
+                    flex: 1;
+                    padding: 1rem 1.5rem;
+                    font-size: 1rem;
+                    border: none;
+                    border-radius: 8px 0 0 8px;
+                    outline: none;
+                }
+                .search-btn {
+                    padding: 0 1.5rem;
+                    background: #000;
+                    color: white;
+                    border: none;
+                    border-radius: 0 8px 8px 0;
+                    cursor: pointer;
+                    font-weight: 500;
+                    transition: all 0.2s;
+                }
+                .search-btn:hover {
+                    background: #333;
+                }
+        
+        .help-link {
+            color: black;
+            text-decoration: underline;
+            font-size: 16px;
+            margin-top: 20px;
+        }
+    </style> <link rel="stylesheet" type="text/css" href="style.css" >
+</head>
+<body>
+    <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+        <a href="index.html">Search</a>
+        <a href="UniList.php">Universities</a>
+        <a href="ProgramOptions.php">Program Options</a>
+        <a href="UsefulResources.php">Useful resources</a>
+        <a href="Opportunities.php">Opportunities</a>
+        <a href="Us.php">About Us</a>
+        <a href="help.php">Help</a>
+    </div>
+
+    <!-- Menu Button -->
+    <span class="menu-btn" onclick="openNav()">&#9776;</span>
+
+    <!-- Main Content -->
+    <div class="main">
+        <h1>Welcome to unifind</h1>
+        <form action="search.php" method="get" class="search-form">
+            <input type="text" name="q" class="search-bar" placeholder="Search...">
+            <input type="hidden" name="mode" value="search">
+            <button type="submit" class="search-btn">Search Program</button>
+        </form>
+
+        <br>
+        <a href="help.php" class="help-link">Help this is my first time using the site</a>
+    </div>
+
+    <script src="script.js">
+        
+    </script>
+</body>
+</html>

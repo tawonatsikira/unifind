@@ -1,0 +1,202 @@
+[
+    {
+        "id": 81,
+        "Name": "Educational Materials Production and Instructional Design",
+        "Description": "Focuses on the production of educational materials and instructional design.",
+        "Fields": ["Instructional Design", "Educational Materials", "Curriculum Development", "Education Technology", "Teaching Methods"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "At least 5 'O' Level passes including English Language, Mathematics, an official indigenous language or approved equivalent and any other subject(s) deemed necessary by the host department. Have a teaching diploma in a relevant area of study or a relevant qualification as stipulated in the National Qualifications Framework (NQF) as published by ZIMCHE from time to time: and Have attained a satisfactory standard on any entrance test which the University may deem necessary."
+    },
+    {
+        "id": 82,
+        "Name": "Curriculum Design and Instructional Materials Production (Post A Level)",
+        "Description": "Focuses on curriculum design and the production of instructional materials.",
+        "Fields": ["Curriculum Design", "Instructional Materials", "Education", "Teaching Methods", "Educational Technology"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level passes in which the subject of specialisation is represented. Five 'O' levels including English and one indigenous language or as prescribed in the Zimbabwe National Qualifications Framework."
+    },
+    {
+        "id": 83,
+        "Name": "Curriculum Design and Instructional Materials Production (Post Diploma)",
+        "Description": "Focuses on curriculum design and the production of instructional materials.",
+        "Fields": ["Curriculum Design", "Instructional Materials", "Education", "Teaching Methods", "Educational Technology"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 Years",
+        "Requirements": "Diploma in Education in which the subject of specialisation is represented. 5 'O' levels including English and one indigenous language as prescribed in the Zimbabwe National Qualifications Framework."
+    },
+    {
+        "id": 84,
+        "Name": "Special Needs and Assistive Technologies",
+        "Description": "Focuses on special needs education and assistive technologies.",
+        "Fields": ["Special Needs Education", "Assistive Technology", "Inclusive Education", "Education", "Rehabilitation"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 Years",
+        "Requirements": "Diploma/Certificate in Education from accredited and recognised institution or equivalent or any other qualification as prescribed in the Zimbabwe National Qualifications Framework. Diploma/Certificate in Special Needs Education/Inclusive Education is an added advantage."
+    },
+    {
+        "id": 85,
+        "Name": "Psycho-Social Guidance and Counselling (Post 'A' Level)",
+        "Description": "Provides training in psycho-social guidance and counselling.",
+        "Fields": ["Counselling", "Psychology", "Social Work", "Guidance", "Mental Health"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "4 Years",
+        "Requirements": "2 'A' level passes in which the subject of specialisation is represented. 5 'O' levels including English Language, Mathematics and one indigenous language or as prescribed in the Zimbabwe National Qualifications Framework."
+    },
+    {
+        "id": 86,
+        "Name": "Psycho-Social Guidance and Counselling (Post Diploma)",
+        "Description": "Provides training in psycho-social guidance and counselling.",
+        "Fields": ["Counselling", "Psychology", "Social Work", "Guidance", "Mental Health"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 Years",
+        "Requirements": "Diploma in Education in which the subject of specialisation is represented. 5 'O' levels including English Language, Mathematics and one indigenous language as prescribed in the Zimbabwe National Qualifications Framework."
+    },
+    {
+        "id": 87,
+        "Name": "Educational Leadership and Governance",
+        "Description": "Focuses on leadership and governance in educational settings.",
+        "Fields": ["Educational Leadership", "Governance", "Management", "Education Policy", "School Administration"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "Diploma/Certificate in Education from accredited and recognised institution or equivalent or any other qualification as prescribed in the Zimbabwe National Qualifications Framework. Applicants must have Mathematics and English at 'O' level with symbol C or better. Experience in educational management or in a managerial role in schools/educational institutions will be an added advantage."
+    },
+    {
+        "id": 88,
+        "Name": "Design and Technology Education (Agricultural Production and the Environment - Post A-Level)",
+        "Description": "Focuses on design and technology education in agricultural production and environmental contexts.",
+        "Fields": ["Design and Technology", "Agricultural Production", "Environmental Science", "Education", "Agricultural Engineering"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Animal Science, Geography, Chemistry, Biology, Crop Science, Agricultural Engineering or Horticulture. 5 'O' Level passes including English Language, Mathematics, Science, and an official indigenous language, or approved equivalent."
+    },
+    {
+        "id": 89,
+        "Name": "Design and Technology Education (Agricultural Production and the Environment - Post Diploma/Certificate in a Technical Area)",
+        "Description": "Focuses on design and technology education in agricultural production and environmental contexts.",
+        "Fields": ["Design and Technology", "Agricultural Production", "Environmental Science", "Education", "Agricultural Engineering"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "National Diploma or Certificate in Agriculture/Horticulture."
+    },
+    {
+        "id": 90,
+        "Name": "Design and Technology Education (Agricultural Production and the Environment - Post Diploma in Education)",
+        "Description": "Focuses on design and technology education in agricultural production and environmental contexts.",
+        "Fields": ["Design and Technology", "Agricultural Production", "Environmental Science", "Education", "Agricultural Engineering"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "Diploma/Certificate in Education; FETC/FETD with Agriculture as main subject."
+    },
+    {
+        "id": 91,
+        "Name": "Design and Technology Education (The Built Environment - Post A-Level)",
+        "Description": "Focuses on design and technology education related to the built environment.",
+        "Fields": ["Design and Technology", "Built Environment", "Architecture", "Construction", "Education"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes including a Science Subject, (Maths, Physics, Chemistry, Computer Science and Geography). 5 'O' Level passes including English Language, Mathematics, Science, Building Technology and Design or Technical Graphics and Design, an official indigenous language or approved equivalent."
+    },
+    {
+        "id": 92,
+        "Name": "Design and Technology Education (The Built Environment - Post Diploma/Certificate in a Technical Area)",
+        "Description": "Focuses on design and technology education related to the built environment.",
+        "Fields": ["Design and Technology", "Built Environment", "Architecture", "Construction", "Education"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "National Diploma or National Certificate in Building Technology/Brick and Block laying/Technical Graphics or equivalent."
+    },
+    {
+        "id": 93,
+        "Name": "Design and Technology Education (The Built Environment - Post Diploma in Education)",
+        "Description": "Focuses on design and technology education related to the built environment.",
+        "Fields": ["Design and Technology", "Built Environment", "Architecture", "Construction", "Education"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "Diploma/Certificate in Education; FETC/FETD with Building Technology or Technical Graphics as main subject."
+    },
+    {
+        "id": 94,
+        "Name": "Design and Technology Education (Food Science Human Nutrition and Technology - Post A-Level)",
+        "Description": "Focuses on design and technology education in food science, human nutrition, and technology.",
+        "Fields": ["Design and Technology", "Food Science", "Human Nutrition", "Technology", "Education"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes, in a Science Subject (Biology, Chemistry, Mathematics) with Food Science or equivalent."
+    },
+    {
+        "id": 95,
+        "Name": "Design and Technology Education (Food Science Human Nutrition and Technology - Post Diploma in a Technical Area)",
+        "Description": "Focuses on design and technology education in food science, human nutrition, and technology.",
+        "Fields": ["Design and Technology", "Food Science", "Human Nutrition", "Technology", "Education"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "National Diploma in Hospitality and Tourism or its equivalent."
+    },
+    {
+        "id": 96,
+        "Name": "Design and Technology Education (Food Science Human Nutrition and Technology - Post Diploma in Education)",
+        "Description": "Focuses on design and technology education in food science, human nutrition, and technology.",
+        "Fields": ["Design and Technology", "Food Science", "Human Nutrition", "Technology", "Education"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "Diploma/Certificate in Education; FETC/FETD with Home Economics/Food Technology/Hospitality and Tourism as main subject."
+    },
+    {
+        "id": 97,
+        "Name": "Design and Technology Education (Product Design and Technology - Post A-Level)",
+        "Description": "Focuses on design and technology education in product design.",
+        "Fields": ["Design and Technology", "Product Design", "Technology", "Education", "Industrial Design"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes, in any of the following: Design and Technology or Art and Design or Technical Graphics or Wood Technology or Metal Technology or any Science subject. 5 'O' Level passes including English Language, Mathematics, an official indigenous language, or approved equivalent."
+    },
+    {
+        "id": 98,
+        "Name": "Design and Technology Education (Product Design and Technology - Post Diploma/Certificate in a Technical Area)",
+        "Description": "Focuses on design and technology education in product design.",
+        "Fields": ["Design and Technology", "Product Design", "Technology", "Education", "Industrial Design"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "National Diploma or National Certificate in Technical Graphics or Mechanical Engineering or Metal Technology or Wood Technology."
+    },
+    {
+        "id": 99,
+        "Name": "Design and Technology Education (Product Design and Technology - Post Diploma in Education)",
+        "Description": "Focuses on design and technology education in product design.",
+        "Fields": ["Design and Technology", "Product Design", "Technology", "Education", "Industrial Design"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "3 years",
+        "Requirements": "Diploma/Certificate in Education; FETC/FETD with Technical Graphics or Mechanical Engineering or Metal Technology or Wood Technology as main subject."
+    },
+    {
+        "id": 100,
+        "Name": "Design and Technology Education (Textile Science, Apparel Design and Technology - Post A-Level)",
+        "Description": "Focuses on design and technology education in textile science, apparel design, and technology.",
+        "Fields": ["Design and Technology", "Textile Science", "Apparel Design", "Fashion Technology", "Education"],
+        "University": 1,
+        "Faculty": "Faculty of Education",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in any two of the following, Textile Science Technology and Design or Equivalent, Mathematics, Physics, Chemistry, Art and Design. 5 'O' Level passes including Textile Science Technology and Design or equivalent, Science, English Language, Mathematics, an official indigenous language or approved equivalent."
+    }
+]

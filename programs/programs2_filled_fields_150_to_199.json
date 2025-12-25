@@ -1,0 +1,462 @@
+[
+    {
+        "id": 150,
+        "Name": "Nursing Science (Normal Entry)",
+        "Description": "Provides comprehensive training in nursing science.",
+        "Fields": ["Nursing", "Healthcare", "Medical Science", "Patient Care", "Health Education"],
+        "University": 1,
+        "Faculty": "Faculty of Medicine and Health Sciences",
+        "Duration": "4 years",
+        "Requirements": "Minimum 2 'A' level passes in Chemistry and any one of the following: Biology, Mathematics or Physics plus 'O' level passes including Mathematics and English Language."
+    },
+    {
+        "id": 151,
+        "Name": "Nursing Science (Special Entry)",
+        "Description": "Provides comprehensive training in nursing science.",
+        "Fields": ["Nursing", "Healthcare", "Medical Science", "Patient Care", "Health Education"],
+        "University": 1,
+        "Faculty": "Faculty of Medicine and Health Sciences",
+        "Duration": "4 years",
+        "Requirements": "Candidates with a Diploma in General Nursing or equivalent. Prior knowledge and clinical skills shall be acknowledged and credited 120 credit points. Six Ordinary Level passes with the following: Proficiency in English Language, Mathematics, one Science subject and proficiency in one local Language."
+    },
+    {
+        "id": 152,
+        "Name": "Health Education and Health Promotion",
+        "Description": "Focuses on educating communities about health and promoting healthy behaviors.",
+        "Fields": ["Health Education", "Health Promotion", "Public Health", "Community Health", "Education"],
+        "University": 1,
+        "Faculty": "Faculty of Medicine and Health Sciences",
+        "Duration": "3 years",
+        "Requirements": "3 'A' level passes in any of the following subjects: Biology, Chemistry, Mathematics or Physics plus 'O' level passes including Mathematics and English Language and an approved science subject or completion of a University Diploma in Health and Adult Education, Health Promotion or approved equivalents."
+    },
+    {
+        "id": 153,
+        "Name": "Occupational and Environmental Health",
+        "Description": "Focuses on health and safety in the workplace and environmental health issues.",
+        "Fields": ["Occupational Health", "Environmental Health", "Public Health", "Safety Management", "Health Sciences"],
+        "University": 1,
+        "Faculty": "Faculty of Medicine and Health Sciences",
+        "Duration": "4 years",
+        "Requirements": "3 'A' Levels subjects in Biology and any two of Chemistry, Maths or Physics plus 'O' level passes including Mathematics and English Language."
+    },
+    {
+        "id": 154,
+        "Name": "Biotechnology and Biochemistry (Biotechnology and Molecular Biology)",
+        "Description": "Focuses on the application of biological processes for industrial and other purposes, with an emphasis on molecular biology.",
+        "Fields": ["Biotechnology", "Biochemistry", "Molecular Biology", "Genetics", "Microbiology"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: 'A' Level passes in Chemistry and Biology or their recognized equivalents. Special Entry: a) National Certificate: at first year; b) Diploma: at 2nd year of the programme; c) HND: at 2nd year and exempted from other courses. A person who holds a BSc General Degree with a major in an appropriate subject or an equivalent qualification and has passed that major subject in the upper second division or a higher division."
+    },
+    {
+        "id": 155,
+        "Name": "Biotechnology and Biochemistry (Clinical Biochemistry and Toxicology)",
+        "Description": "Focuses on the chemical processes within living organisms, with an emphasis on clinical applications and toxicology.",
+        "Fields": ["Biotechnology", "Biochemistry", "Clinical Biochemistry", "Toxicology", "Molecular Biology"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: 'A' Level passes in Chemistry and Biology or their recognized equivalents. Special Entry: a) National Certificate: at first year; b) Diploma: at 2nd year of the programme; c) HND: at 2nd year and exempted of some other courses. A person who holds a BSc General Degree with a major in an appropriate subject or an equivalent qualification and has passed that major subject in the upper second division or a higher division."
+    },
+    {
+        "id": 156,
+        "Name": "Biotechnology and Biochemistry (Genetics and Bioengineering)",
+        "Description": "Focuses on the study of heredity and the application of engineering principles to biological systems.",
+        "Fields": ["Biotechnology", "Biochemistry", "Genetics", "Bioengineering", "Molecular Biology"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: The candidate must have obtained 'A' Level passes in Chemistry and Biology or their recognized equivalents. Special Entry: a) National Certificate: at first year; b) Diploma: at 2nd year of the programme; c) HND: at 2nd year and exempted from some other courses. A person who holds a BSc Degree with a major in an appropriate subject or an equivalent qualification and has passed that major subject in the upper second division or a higher division."
+    },
+    {
+        "id": 157,
+        "Name": "Biotechnology and Biochemistry (Plant Biochemistry and Medicinal Chemistry)",
+        "Description": "Focuses on the chemical processes in plants and the chemistry of medicinal compounds.",
+        "Fields": ["Biotechnology", "Biochemistry", "Plant Biochemistry", "Medicinal Chemistry", "Phytochemistry"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: The candidate must have obtained 'A' Level passes in Chemistry and Biology or their recognized equivalents. Special Entry: a) National Certificate: at first year; b) Diploma: at 2nd year of the programme; c) HND: at 2nd year and exempted of some other courses. A person who holds a BSc General Degree with a major in an appropriate subject or an equivalent qualification and has passed that major subject in the upper second division or a higher division."
+    },
+    {
+        "id": 158,
+        "Name": "Biotechnology and Biochemistry (Immunology and Microbiology)",
+        "Description": "Focuses on the study of the immune system and microorganisms.",
+        "Fields": ["Biotechnology", "Biochemistry", "Immunology", "Microbiology", "Molecular Biology"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: The candidate must have obtained 'A' Level passes in Chemistry and Biology or their recognized equivalents. Special Entry: a) National Certificate: at first year; b) Diploma: at 2nd year of the programme; c) HND: at 2nd year and exempted of some other courses. A person who holds a BSc General Degree with a major in an appropriate subject or an equivalent qualification and has passed that major subject in the upper second division or a higher division."
+    },
+    {
+        "id": 159,
+        "Name": "Biotechnology and Biochemistry (Industrial and Environmental Microbiology)",
+        "Description": "Focuses on the application of microorganisms in industrial processes and environmental contexts.",
+        "Fields": ["Biotechnology", "Biochemistry", "Industrial Microbiology", "Environmental Microbiology", "Microbiology"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Normal Entry: The candidate must have obtained 'A' Level passes in Chemistry and Biology or their recognized equivalents. Special Entry: a) National Certificate: at first year; b) Diploma: at 2nd year of the programme; c) HND: at 2nd year and exempted of some other courses. A person who holds a BSc General Degree with a major in an appropriate subject or an equivalent qualification and has passed that major subject in the upper second division or a higher division."
+    },
+    {
+        "id": 160,
+        "Name": "Biological Sciences",
+        "Description": "Covers various aspects of biological sciences.",
+        "Fields": ["Biology", "Life Sciences", "Ecology", "Genetics", "Microbiology"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in science subjects including Biology AND have obtained a Pass at 'O' Level in Mathematics."
+    },
+    {
+        "id": 161,
+        "Name": "Biodiversity and Heritage Conservation",
+        "Description": "Focuses on the conservation of biological diversity and cultural heritage.",
+        "Fields": ["Biodiversity", "Conservation", "Heritage Studies", "Ecology", "Environmental Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A Pass in 'A' Level Biology and at least one other 'A' Level subject; that is Geography, Physics, Mathematics, Computer Science, Chemistry or their equivalents AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 162,
+        "Name": "Forestry Savannah and Wildlife Ecology",
+        "Description": "Focuses on the ecology of forests, savannas, and wildlife.",
+        "Fields": ["Forestry", "Savannah Ecology", "Wildlife Ecology", "Environmental Science", "Conservation"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A Pass at 'A' Level Biology and at least one other 'A' Level subject; that is, Geography, Mathematics, Computer Science, Chemistry or their equivalents AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 163,
+        "Name": "Aquatic Science and Ecology",
+        "Description": "Focuses on the study of aquatic environments and their ecosystems.",
+        "Fields": ["Aquatic Science", "Ecology", "Environmental Science", "Marine Biology", "Water Quality"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A Pass at 'A' Level Biology and at least one other 'A' Level subject; that is Geography, Physics, Mathematics, Computer Science, Chemistry or their equivalents AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 164,
+        "Name": "Digital Disease Surveillance and Environmental Health",
+        "Description": "Combines digital surveillance techniques with environmental health principles for disease monitoring.",
+        "Fields": ["Digital Surveillance", "Disease Monitoring", "Environmental Health", "Public Health", "Data Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A Pass at 'A' Level in any two Science subjects including Biology AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 165,
+        "Name": "Forensic Science",
+        "Description": "Applies scientific principles to legal investigations.",
+        "Fields": ["Forensic Science", "Criminalistics", "Chemistry", "Biology", "Law Enforcement"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A Pass at 'A' Level in two of the following subjects or their recognised equivalents: Biology and Biochemistry Option: Biology and Chemistry; Physics Option: Physics and Mathematics; Chemistry Option: Chemistry and Mathematics AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 166,
+        "Name": "Pollution and Environmental Chemistry",
+        "Description": "Focuses on the chemical aspects of pollution and environmental processes.",
+        "Fields": ["Environmental Chemistry", "Pollution", "Chemistry", "Toxicology", "Environmental Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Passes in 'A' Level Chemistry and Biology AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 167,
+        "Name": "Industrial Chemistry (Normal Entry)",
+        "Description": "Focuses on the application of chemical principles in industrial processes.",
+        "Fields": ["Industrial Chemistry", "Chemical Engineering", "Process Chemistry", "Materials Science", "Analytical Chemistry"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "'A' Level passes in Chemistry and Mathematics AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 168,
+        "Name": "Industrial Chemistry (Special Entry)",
+        "Description": "Focuses on the application of chemical principles in industrial processes.",
+        "Fields": ["Industrial Chemistry", "Chemical Engineering", "Process Chemistry", "Materials Science", "Analytical Chemistry"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Diploma in an appropriate field AND at least 2 year's relevant experience AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 169,
+        "Name": "Pharmaceutical Chemistry",
+        "Description": "Focuses on the chemical aspects of pharmaceutical compounds and drug development.",
+        "Fields": ["Pharmaceutical Chemistry", "Medicinal Chemistry", "Pharmacology", "Chemistry", "Drug Development"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Passes in 'A' Level Chemistry and Mathematics AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 170,
+        "Name": "Geological Sciences (Normal Entry)",
+        "Description": "Focuses on the study of the Earth's physical structure, history, and processes.",
+        "Fields": ["Geology", "Earth Sciences", "Geophysics", "Mineralogy", "Environmental Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "'A' Level passes in Chemistry, and Mathematics AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 171,
+        "Name": "Geological Sciences (Special Entry)",
+        "Description": "Focuses on the study of the Earth's physical structure, history, and processes.",
+        "Fields": ["Geology", "Earth Sciences", "Geophysics", "Mineralogy", "Environmental Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "NC, ND, HND in Geology."
+    },
+    {
+        "id": 172,
+        "Name": "Geological Sciences (Mature Entry)",
+        "Description": "Focuses on the study of the Earth's physical structure, history, and processes.",
+        "Fields": ["Geology", "Earth Sciences", "Geophysics", "Mineralogy", "Environmental Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "At least 25 years of age PLUS 5 years relevant experience AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 173,
+        "Name": "Petroleum Chemistry and Technology (Normal Entry)",
+        "Description": "Focuses on the chemistry and technology of petroleum and its derivatives.",
+        "Fields": ["Petroleum Chemistry", "Chemical Engineering", "Energy", "Materials Science", "Industrial Chemistry"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "'A' Level passes in Chemistry and Mathematics AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 174,
+        "Name": "Petroleum Chemistry and Technology (Special Entry)",
+        "Description": "Focuses on the chemistry and technology of petroleum and its derivatives.",
+        "Fields": ["Petroleum Chemistry", "Chemical Engineering", "Energy", "Materials Science", "Industrial Chemistry"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Diploma in an appropriate field AND at least 2 year's relevant experience AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 175,
+        "Name": "Geographical Information Science and Earth Observation (Normal Entry)",
+        "Description": "Focuses on geographical information systems and remote sensing for Earth observation.",
+        "Fields": ["Geographical Information Science", "Remote Sensing", "GIS", "Earth Observation", "Environmental Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Passes in at least 2 'A' Level subjects in Geography, Physics, Biology, Pure Mathematics, Computer Science or their equivalents AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 176,
+        "Name": "Geographical Information Science and Earth Observation (Special Entry)",
+        "Description": "Focuses on geographical information systems and remote sensing for Earth observation.",
+        "Fields": ["Geographical Information Science", "Remote Sensing", "GIS", "Earth Observation", "Environmental Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A Diploma or its recognised equivalent qualification approved by the University in an appropriate subject from a recognised university and at least 2 years' experience; a National Diploma (ND) in an appropriate subject and 2 years work experience in a relevant field (proof of employment required) or a Higher National Diploma (HND) in an appropriate subject."
+    },
+    {
+        "id": 177,
+        "Name": "Geospatial Intelligence (Normal Entry)",
+        "Description": "Focuses on the analysis of geospatial data for intelligence purposes.",
+        "Fields": ["Geospatial Intelligence", "GIS", "Remote Sensing", "Data Analysis", "Security Studies"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Passes in at least 2 'A' Level subjects in Geography, Physics, Biology, Mathematics, Computer Science or their equivalents."
+    },
+    {
+        "id": 178,
+        "Name": "Geospatial Intelligence (Special Entry)",
+        "Description": "Focuses on the analysis of geospatial data for intelligence purposes.",
+        "Fields": ["Geospatial Intelligence", "GIS", "Remote Sensing", "Data Analysis", "Security Studies"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "a Diploma or its recognised equivalent qualification approved by the University in an appropriate subject from a recognised university and at least 2 years' experience; an National Diploma (ND) in an appropriate subject and 2 years work experience in a relevant field (proof of employment required) or a Higher National Diploma (HND) in an appropriate subject. NB: To be eligible for this degree, applicants must be serving members of any of the security sectors or is serving in a government department in Zimbabwe."
+    },
+    {
+        "id": 179,
+        "Name": "Mathematics and Computational Science",
+        "Description": "Combines mathematics with computational methods for scientific problem-solving.",
+        "Fields": ["Mathematics", "Computational Science", "Applied Mathematics", "Statistics", "Computer Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A Pass in Pure Mathematics at 'A' Level and any one other two subject at Advanced Level from pure sciences (Chemistry, Biology, Physics, Computer Sciences) AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 180,
+        "Name": "Actuarial Science",
+        "Description": "Applies mathematical and statistical methods to assess risk in insurance and finance.",
+        "Fields": ["Actuarial Science", "Mathematics", "Statistics", "Finance", "Risk Management"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A pass at 'A' Level in Pure Mathematics with 'A' and any one Advanced Level subjects excluding General Paper from the following pure sciences Chemistry, Physics, Biology, Computer Science or pure commercials (Accounts, Business Studies, Economics) AND have obtained a Pass at 'O' Level Mathematics and English Language. NB: Applicants will also be subjected to a psychometric test and an oral interview."
+    },
+    {
+        "id": 181,
+        "Name": "Financial Mathematics",
+        "Description": "Applies mathematical methods to financial markets and problems.",
+        "Fields": ["Financial Mathematics", "Mathematics", "Finance", "Statistics", "Economics"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A pass in Pure Mathematics at 'A' Level and at least one other subject at Advanced Level or other recognised equivalents AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 182,
+        "Name": "Data Science and Systems",
+        "Description": "Focuses on the extraction of knowledge and insights from data, and the design of data systems.",
+        "Fields": ["Data Science", "Systems", "Data Analysis", "Computer Science", "Statistics"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A pass at 'A' Level in Pure Mathematics with 'A' and any other 2 science subjects AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 183,
+        "Name": "Applied Statistics",
+        "Description": "Focuses on the application of statistical methods to real-world problems.",
+        "Fields": ["Applied Statistics", "Statistics", "Data Analysis", "Mathematics", "Computer Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A pass at 'A' Level in Pure Mathematics/Statistics and any one Advanced Level subject excluding General Paper AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 184,
+        "Name": "Nutrition and Dietetics (Normal Entry)",
+        "Description": "Focuses on the science of nutrition and its application to dietetics.",
+        "Fields": ["Nutrition", "Dietetics", "Health Sciences", "Food Science", "Biology"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "'A' Level passes in two subjects one of which must be Chemistry."
+    },
+    {
+        "id": 185,
+        "Name": "Nutrition and Dietetics (Special Entry)",
+        "Description": "Focuses on the science of nutrition and its application to dietetics.",
+        "Fields": ["Nutrition", "Dietetics", "Health Sciences", "Food Science", "Biology"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Diploma in Nutrition or Diploma Hospital Food Service Management."
+    },
+    {
+        "id": 186,
+        "Name": "Nutrition and Dietetics (Mature Entry)",
+        "Description": "Focuses on the science of nutrition and its application to dietetics.",
+        "Fields": ["Nutrition", "Dietetics", "Health Sciences", "Food Science", "Biology"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "The candidate must be at least 25 years old and have 2 years of relevant work experience."
+    },
+    {
+        "id": 187,
+        "Name": "Food Science and Technology (Normal Entry)",
+        "Description": "Focuses on the scientific and technological aspects of food production and processing.",
+        "Fields": ["Food Science", "Food Technology", "Nutrition", "Biology", "Chemistry"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "'A' Level passes in two subjects one of which must be Chemistry."
+    },
+    {
+        "id": 188,
+        "Name": "Food Science and Technology (Special Entry)",
+        "Description": "Focuses on the scientific and technological aspects of food production and processing.",
+        "Fields": ["Food Science", "Food Technology", "Nutrition", "Biology", "Chemistry"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "NC Science and Technology, ND Food Science and HND Food Science."
+    },
+    {
+        "id": 189,
+        "Name": "Food Science and Technology (Mature Entry)",
+        "Description": "Focuses on the scientific and technological aspects of food production and processing.",
+        "Fields": ["Food Science", "Food Technology", "Nutrition", "Biology", "Chemistry"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "The candidate must be at least 25 years old and have 2 years of relevant work experience."
+    },
+    {
+        "id": 190,
+        "Name": "Space Science and Technology",
+        "Description": "Focuses on the scientific and technological aspects of space exploration and utilization.",
+        "Fields": ["Space Science", "Astronomy", "Astrophysics", "Technology", "Engineering"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "At least a pass in 'A' level Pure Mathematics AND Physics compulsory or their equivalents AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 191,
+        "Name": "Meteorology and Climate Science (Normal Entry)",
+        "Description": "Focuses on the study of weather, climate, and atmospheric processes.",
+        "Fields": ["Meteorology", "Climate Science", "Atmospheric Science", "Environmental Science", "Physics"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "Passes in 'A' Level Physics AND Pure Mathematics, OR at least a Basic Instruction Package for Meteorological Technicians (BIP-MetTech) AND at least two years relevant experience AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 192,
+        "Name": "Industrial Physics (Normal Entry)",
+        "Description": "Focuses on the application of physics principles in industrial settings.",
+        "Fields": ["Industrial Physics", "Physics", "Instrumentation", "Engineering", "Materials Science"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "At least a pass in A Level Pure Mathematics AND Physics compulsory or their equivalents AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 193,
+        "Name": "Materials Science",
+        "Description": "Focuses on the properties, processing, and application of materials.",
+        "Fields": ["Materials Science", "Metallurgy", "Chemistry", "Physics", "Engineering"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "At least a pass in A Level Pure Mathematics, Physics AND Chemistry AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 194,
+        "Name": "Medical Physics (Normal Entry)",
+        "Description": "Applies physics principles to medicine for diagnosis and treatment.",
+        "Fields": ["Medical Physics", "Physics", "Medical Imaging", "Radiation Therapy", "Health Physics"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "At least a pass in A level Pure Mathematics AND Physics compulsory or their equivalents AND have obtained a Pass at 'O' Level Mathematics and English Language."
+    },
+    {
+        "id": 195,
+        "Name": "Medical Physics (Special Entry)",
+        "Description": "Applies physics principles to medicine for diagnosis and treatment.",
+        "Fields": ["Medical Physics", "Physics", "Medical Imaging", "Radiation Therapy", "Health Physics"],
+        "University": 1,
+        "Faculty": "Faculty of Science",
+        "Duration": "4 years",
+        "Requirements": "A diploma in a physical science or an appropriate engineering discipline AND at least two years relevant work experience."
+    }
+]

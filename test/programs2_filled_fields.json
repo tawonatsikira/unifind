@@ -1,0 +1,492 @@
+[
+    {
+        "id": 2,
+        "Name": "Horticulture and Plantation Sciences",
+        "Description": "Focuses on the science of cultivating plants, fruits, vegetables, and ornamental plants, and managing plantations.",
+        "Fields": ["Horticulture", "Plantation Management", "Plant Science", "Agronomy", "Crop Science"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level passes in Biology and one subject from Mathematics, Geography, Chemistry, Physics and Agriculture/Crop Science/Animal Science OR a Diploma in Agriculture from a recognized Agricultural College."
+    },
+    {
+        "id": 3,
+        "Name": "Crop Improvement and Seed Systems",
+        "Description": "Focuses on enhancing crop varieties and developing efficient seed production and distribution systems.",
+        "Fields": ["Crop Science", "Seed Technology", "Plant Breeding", "Genetics", "Agronomy"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level passes in Biology and one subject from Mathematics, Geography, Chemistry, Physics and Agriculture/Crop Science/Animal Science OR a Diploma in Agriculture from a recognized Agricultural College."
+    },
+    {
+        "id": 4,
+        "Name": "Agricultural Equipment Design and Manufacturing Systems",
+        "Description": "Focuses on the design, development, and manufacturing of machinery and systems for agricultural use.",
+        "Fields": ["Agricultural Engineering", "Mechanical Engineering", "Equipment Design", "Manufacturing Systems", "Automation"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' level passes in Mathematics and Physics (compulsory). 5 'O' Level subjects including a pass in English Language and Mathematics, one Science Subject from: Biology, Chemistry, Physics, Integrated Science, Physical Science, Agriculture or Combined Science."
+    },
+    {
+        "id": 5,
+        "Name": "Agricultural Processing Plant Design and Manufacturing Systems",
+        "Description": "Focuses on the design and manufacturing of plants and systems for processing agricultural products.",
+        "Fields": ["Agricultural Engineering", "Process Engineering", "Plant Design", "Manufacturing Systems", "Food Processing"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' level passes in Mathematics and Physics (compulsory). 5 'O' Level subjects including a pass in English Language and Mathematics, one Science Subject from: Biology, Chemistry, Physics, Integrated Science, Physical Science, Agriculture or Combined Science."
+    },
+    {
+        "id": 6,
+        "Name": "Food Engineering",
+        "Description": "Applies engineering principles to food processing, preservation, and packaging.",
+        "Fields": ["Food Science", "Food Engineering", "Process Engineering", "Packaging Technology", "Preservation Technology"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' level passes in Mathematics and Physics (compulsory). 5 'O' Level subjects including a pass in English Language and Mathematics, one Science Subject from: Biology, Chemistry, Physics, Integrated Science, Physical Science, Agriculture or Combined Science."
+    },
+    {
+        "id": 7,
+        "Name": "Water Resources and Irrigation Engineering",
+        "Description": "Focuses on the management of water resources and the design of irrigation systems for agricultural and other uses.",
+        "Fields": ["Water Resources Engineering", "Irrigation Engineering", "Hydrology", "Environmental Engineering", "Agricultural Engineering"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' level passes in Mathematics and Physics (compulsory). 5 'O' Level subjects including a pass in English Language and Mathematics, one Science Subject from: Biology, Chemistry, Physics, Integrated Science, Physical Science, Agriculture or Combined Science."
+    },
+    {
+        "id": 8,
+        "Name": "Livestock Improvement and Genetic Conservation",
+        "Description": "Focuses on enhancing livestock breeds and preserving genetic diversity.",
+        "Fields": ["Animal Science", "Genetics", "Livestock Management", "Conservation Biology", "Breeding Technology"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Biology (compulsory) and any one subject from Geography, Chemistry, Physics, Mathematics, and Agriculture/Crop Science/Animal Science OR a recognized National Diploma in Agriculture will be accepted for mature entry. 5 'O' Level subjects including a pass in English Language and Mathematics."
+    },
+    {
+        "id": 9,
+        "Name": "Livestock Production and Nutrition Sciences",
+        "Description": "Focuses on the scientific principles of livestock production and animal nutrition.",
+        "Fields": ["Animal Science", "Nutrition Science", "Livestock Management", "Veterinary Science", "Feed Technology"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Biology (compulsory) and any one subject from Geography, Chemistry, Physics, Mathematics, and Agriculture/Crop Science/Animal Science OR a recognized National Diploma in Agriculture will be accepted for mature entry. 5 'O' Level subjects including a pass in English Language and Mathematics."
+    },
+    {
+        "id": 10,
+        "Name": "Meat and Dairy Science and Technology",
+        "Description": "Focuses on the scientific and technological aspects of meat and dairy production and processing.",
+        "Fields": ["Meat Science", "Dairy Science", "Food Technology", "Animal Science", "Processing Technology"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Biology (compulsory) and any one subject from Geography, Chemistry, Physics, Mathematics, and Agriculture/Crop Science/Animal Science OR a recognized National Diploma in Agriculture will be accepted for mature entry. 5 'O' Level subjects including a pass in English Language and Mathematics."
+    },
+    {
+        "id": 11,
+        "Name": "Rangeland Sciences and Livestock Production Ecology",
+        "Description": "Focuses on the study of rangelands and their ecological relationship with livestock production.",
+        "Fields": ["Ecology", "Rangeland Management", "Animal Science", "Environmental Science", "Livestock Production"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Biology (compulsory) and any one subject from Geography, Chemistry, Physics, Mathematics, and Agriculture/Crop Science/Animal Science OR a recognized National Diploma in Agriculture will be accepted for mature entry. 5 'O' Level subjects including a pass in English Language and Mathematics."
+    },
+    {
+        "id": 12,
+        "Name": "Agricultural and Natural Resource Economics",
+        "Description": "Focuses on economic principles applied to agricultural production and natural resource management.",
+        "Fields": ["Agricultural Economics", "Natural Resource Economics", "Economics", "Sustainable Development", "Resource Management"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "'A' Level passes in Mathematics or Economics/Business Studies/ and one subject from Accounts, Biology, Geography, Chemistry, Physics and Agriculture/Crop Science/Animal Science OR a Diploma in Agriculture from a recognized Agricultural College. 5 'O' Level passes including English Language, Maths (at least a Grade B in Mathematics and one Science subject from (Biology, Chemistry, Physics, Integrated Science, Physical Science, Agriculture or Combined Science)."
+    },
+    {
+        "id": 13,
+        "Name": "Agricultural Development and Communication Systems",
+        "Description": "Focuses on strategies for agricultural development and effective communication within the sector.",
+        "Fields": ["Agricultural Development", "Communication", "Extension Services", "Rural Development", "Agricultural Policy"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "'A' Level passes in Mathematics or Economics/Business Studies/ and one subject from Accounts, Biology, Geography, Chemistry, Physics and Agriculture/Crop Science/Animal Science OR A Diploma in Agriculture from a recognized Agricultural College. 5 'O' Level passes including English Language, Maths (at least a Grade B in Mathematics and one Science subject from (Biology, Chemistry, Physics, Integrated Science, Physical Science, Agriculture or Combined Science)."
+    },
+    {
+        "id": 14,
+        "Name": "Agricultural Informatics",
+        "Description": "Applies information technology and data science to agricultural practices and decision-making.",
+        "Fields": ["Agricultural Informatics", "Information Technology", "Data Science", "Precision Agriculture", "GIS"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "'A' Level passes in Mathematics or Economics/Business Studies/ and one subject from Accounts, Biology, Geography, Chemistry, Physics and Agriculture/Crop Science/Animal Science OR a Diploma in Agriculture from a recognized Agricultural College. 5 'O' Level passes including English Language, Maths (at least a Grade B in Mathematics and one Science subject from (Biology, Chemistry, Physics, Integrated Science, Physical Science, Agriculture or Combined Science)."
+    },
+    {
+        "id": 15,
+        "Name": "Value Chain Development and Agricultural Marketing",
+        "Description": "Focuses on optimizing agricultural value chains and marketing strategies for agricultural products.",
+        "Fields": ["Agricultural Marketing", "Value Chain Management", "Supply Chain", "Agribusiness", "Economics"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "'A' Level passes in Mathematics or Economics/Business Studies/ and one subject from Accounts, Biology, Geography, Chemistry, Physics and Agriculture/Crop Science/Animal Science OR a Diploma in Agriculture from a recognized Agricultural College. 5 'O' Level passes including English Language, Maths (at least a Grade B in Mathematics and one Science subject from (Biology, Chemistry, Physics, Integrated Science, Physical Science, Agriculture or Combined Science)."
+    },
+    {
+        "id": 16,
+        "Name": "Soil Science and Land Management",
+        "Description": "Focuses on the study of soil properties and sustainable land management practices.",
+        "Fields": ["Soil Science", "Land Management", "Agronomy", "Environmental Science", "Sustainable Agriculture"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Chemistry and one subject from Biology, Physics, Mathematics, Geography and Agriculture/Crop Science/Animal Science."
+    },
+    {
+        "id": 17,
+        "Name": "Water and Waste Management Systems",
+        "Description": "Focuses on the management of water resources and waste disposal systems.",
+        "Fields": ["Water Management", "Waste Management", "Environmental Engineering", "Sustainability", "Public Health"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes from Chemistry, Biology, Physics, Mathematics, Geography and Agriculture/Crop Science/Animal Science."
+    },
+    {
+        "id": 18,
+        "Name": "Agricultural and Environmental Monitoring Systems",
+        "Description": "Focuses on systems for monitoring agricultural practices and environmental conditions.",
+        "Fields": ["Environmental Monitoring", "Agricultural Systems", "Remote Sensing", "GIS", "Data Analysis"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes from Chemistry, Biology, Physics, Mathematics, Geography and Agriculture/Crop Science/Animal Science."
+    },
+    {
+        "id": 19,
+        "Name": "Climate Science Resilience and Livelihoods",
+        "Description": "Focuses on understanding climate science and developing resilient livelihoods in the face of climate change.",
+        "Fields": ["Climate Science", "Resilience", "Sustainability", "Environmental Science", "Livelihoods"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes from Chemistry, Biology, Physics, Mathematics, Geography and Agriculture/Crop Science/Animal Science."
+    },
+    {
+        "id": 20,
+        "Name": "Applied Environmental Sciences and Technology",
+        "Description": "Focuses on the application of scientific and technological principles to environmental issues.",
+        "Fields": ["Environmental Science", "Technology", "Sustainability", "Applied Sciences", "Environmental Management"],
+        "University": 1,
+        "Faculty": "Faculty of Agriculture Environment and Food Systems",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Chemistry and one subject from Biology, Physics, Mathematics, Geography and Agriculture/Crop Science/Animal Science."
+    },
+    {
+        "id": 21,
+        "Name": "Conflict, Peace Building and Social Transformation",
+        "Description": "Explores theories and practices of conflict resolution, peacebuilding, and societal change.",
+        "Fields": ["Conflict Resolution", "Peace Studies", "Social Transformation", "Political Science", "Sociology"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Arts and Humanities or Diploma in Peace building or its equivalent."
+    },
+    {
+        "id": 22,
+        "Name": "History of War and Security",
+        "Description": "Examines historical aspects of warfare, security, and international relations.",
+        "Fields": ["History", "War Studies", "Security Studies", "International Relations", "Political Science"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level passes in Arts and Humanities or Diploma in War and Security or its equivalent."
+    },
+    {
+        "id": 23,
+        "Name": "Risk Reduction and Disaster Management",
+        "Description": "Focuses on strategies and practices for reducing risks and managing disasters.",
+        "Fields": ["Disaster Management", "Risk Reduction", "Emergency Management", "Environmental Science", "Public Safety"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level passes in Arts and Humanities; Social Sciences or Diploma in Disaster Management or its equivalent."
+    },
+    {
+        "id": 24,
+        "Name": "Journalism Media and Broadcasting",
+        "Description": "Covers principles and practices of journalism, media production, and broadcasting.",
+        "Fields": ["Journalism", "Media Studies", "Broadcasting", "Communication", "Mass Media"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Arts subjects or a Diploma in Media Studies or related area from an approved institution."
+    },
+    {
+        "id": 25,
+        "Name": "Film, Radio and Television Production",
+        "Description": "Focuses on the practical aspects of producing content for film, radio, and television.",
+        "Fields": ["Film Production", "Radio Production", "Television Production", "Media Studies", "Communication"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Arts subjects or a Diploma in Media studies or related area from an approved institution."
+    },
+    {
+        "id": 26,
+        "Name": "Creative Designs Animation and Motion Graphics",
+        "Description": "Explores creative design principles with a focus on animation and motion graphics.",
+        "Fields": ["Creative Design", "Animation", "Motion Graphics", "Visual Arts", "Digital Media"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Arts subjects."
+    },
+    {
+        "id": 27,
+        "Name": "Media and Marketing Communication",
+        "Description": "Combines media studies with marketing communication strategies.",
+        "Fields": ["Media Studies", "Marketing", "Communication", "Advertising", "Public Relations"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Arts subjects or Commercials."
+    },
+    {
+        "id": 28,
+        "Name": "Multi-Media Production",
+        "Description": "Focuses on the creation and production of various forms of multimedia content.",
+        "Fields": ["Multimedia Production", "Digital Media", "Video Production", "Audio Production", "Graphic Design"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Arts subjects."
+    },
+    {
+        "id": 29,
+        "Name": "Visual and Performing Arts",
+        "Description": "Explores various forms of visual arts and performing arts.",
+        "Fields": ["Visual Arts", "Performing Arts", "Theatre", "Dance", "Music"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Arts subjects."
+    },
+    {
+        "id": 30,
+        "Name": "African Musicology",
+        "Description": "Focuses on the study of African music, its history, theory, and cultural contexts.",
+        "Fields": ["Musicology", "African Music", "Ethnomusicology", "Cultural Studies", "Music Theory"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Levels in any Arts subjects or a diploma in Music studies or related area from an approved institution."
+    },
+    {
+        "id": 31,
+        "Name": "Fine Arts",
+        "Description": "Provides training in various fine art disciplines.",
+        "Fields": ["Fine Arts", "Painting", "Sculpture", "Drawing", "Art History"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Levels in any Arts subjects."
+    },
+    {
+        "id": 32,
+        "Name": "Language Literature and Intercultural Communication",
+        "Description": "Explores language, literature, and communication across different cultures.",
+        "Fields": ["Language Studies", "Literature", "Intercultural Communication", "Linguistics", "Cultural Studies"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "Must have obtained a pass at 'A' Level in at least two of the following Arts subjects: Chinese, Dance, Drama, Divinity/Family Religion and Society, Economic History, Economics, Business Studies, English Literature/Literature in English, Film, Fine Art, French, History, Music Arts, Ndebele Language, Ndebele Literature, Shona Language, Shona Literature, Swahili, Tonga, Theatre Arts, Heritage Studies, Geography, Sociology and Mathematics."
+    },
+    {
+        "id": 33,
+        "Name": "Multilingual Communication Translation and Interpretation",
+        "Description": "Focuses on communication in multiple languages, including translation and interpretation skills.",
+        "Fields": ["Translation", "Interpretation", "Multilingual Communication", "Linguistics", "Language Studies"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "Must have obtained a pass at 'A' Level in at least two of the following Arts subjects: Chinese, Dance, Drama, Divinity/Family Religion and Society, Economic History, Economics, Business Studies, English Literature/Literature in English, Film, Fine Art, French, History, Music Arts, Ndebele Language, Ndebele Literature, Shona Language, Shona Literature, Swahili, Tonga, Theatre Arts, Heritage Studies, Geography, Sociology and Mathematics."
+    },
+    {
+        "id": 34,
+        "Name": "Multicultural Heritage and Tourism",
+        "Description": "Explores the intersection of multicultural heritage and the tourism industry.",
+        "Fields": ["Heritage Studies", "Tourism", "Cultural Studies", "Multiculturalism", "Hospitality"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "Must have obtained a pass at 'A' Level in at least two of the following Arts subjects: Chinese, Dance, Drama, Divinity/Family Religion and Society, Economic History, Economics, Business Studies, English Literature/Literature in English, Film, Fine Art, French, History, Music Arts, Ndebele Language, Ndebele Literature, Shona Language, Shona Literature, Swahili, Tonga, Theatre Arts, Heritage Studies, Geography, Sociology and Mathematics."
+    },
+    {
+        "id": 35,
+        "Name": "Heritage and Economic History",
+        "Description": "Examines the historical development of economies and their relationship with cultural heritage.",
+        "Fields": ["Economic History", "Heritage Studies", "History", "Economics", "Cultural Studies"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level subjects, including Sociology, Economic History, Economics, History, Heritage, Geography, Business Studies."
+    },
+    {
+        "id": 36,
+        "Name": "Zimbabwean History and International Affairs",
+        "Description": "Focuses on the history of Zimbabwe and its role in international affairs.",
+        "Fields": ["History", "International Relations", "Political Science", "African Studies", "Diplomacy"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level Subjects including History."
+    },
+    {
+        "id": 37,
+        "Name": "Archaeological Sciences and Human Development",
+        "Description": "Combines archaeological studies with aspects of human development.",
+        "Fields": ["Archaeology", "Anthropology", "Human Development", "History", "Cultural Studies"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level Subjects including History or any other Arts subject and also a pass in 'O' Level Mathematics with Grade C or Better."
+    },
+    {
+        "id": 38,
+        "Name": "African Heritage and Knowledge Systems",
+        "Description": "Explores African heritage and traditional knowledge systems.",
+        "Fields": ["African Studies", "Heritage Studies", "Cultural Studies", "Anthropology", "History"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level Subjects including History and any other Arts subject."
+    },
+    {
+        "id": 39,
+        "Name": "Digital Archival and Information Records Management",
+        "Description": "Focuses on managing digital archives and information records.",
+        "Fields": ["Archival Science", "Information Management", "Records Management", "Digital Preservation", "Library Science"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 Years",
+        "Requirements": "At least 2 'A' Level Subjects including any of Heritage Studies, Geography, History, Shona. Applicants should have passed 5 'O' Level subjects including English Language."
+    },
+    {
+        "id": 40,
+        "Name": "Religion Leadership and Society",
+        "Description": "Examines the role of religion in leadership and society.",
+        "Fields": ["Religious Studies", "Leadership", "Sociology", "Ethics", "Theology"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Divinity and any other Arts subjects. Applicants with either post 'O' Level relevant qualification or with relevant work experience may be admitted with the approval of the Faculty/Senate. Applicants should have passed 5 'O' Level subjects including English Language."
+    },
+    {
+        "id": 41,
+        "Name": "Philosophy Ethics and Human Development",
+        "Description": "Explores philosophical concepts, ethics, and their impact on human development.",
+        "Fields": ["Philosophy", "Ethics", "Human Development", "Religious Studies", "Sociology"],
+        "University": 1,
+        "Faculty": "Faculty of Arts and Humanities",
+        "Duration": "4 years",
+        "Requirements": "At least 2 'A' Level passes in Divinity and any other arts subject. Applicants with either post 'O' Level relevant qualification or with relevant work experience may be admitted with the approval of the Faculty/Senate. Applicants should have passed 5 'O' Level subjects including English Language."
+    },
+    {
+        "id": 42,
+        "Name": "Integrated Tourism Marketing and Internationalization",
+        "Description": "Focuses on marketing strategies for tourism and its international aspects.",
+        "Fields": ["Tourism", "Marketing", "International Business", "Hospitality", "Business Management"],
+        "University": 1,
+        "Faculty": "Faculty of Business Management Sciences and Economics",
+        "Duration": "4 years",
+        "Requirements": "5 'O' Level subjects including a pass in English Language and Mathematics. 2 'A' Level subjects including one (1) Commercial subject."
+    },
+    {
+        "id": 43,
+        "Name": "Culinary Arts and Hotel Catering",
+        "Description": "Provides training in culinary arts and hotel catering management.",
+        "Fields": ["Culinary Arts", "Hotel Management", "Food Service", "Hospitality", "Catering"],
+        "University": 1,
+        "Faculty": "Faculty of Business Management Sciences and Economics",
+        "Duration": "4 years",
+        "Requirements": "5 'O' Level subjects including a pass in English Language and Mathematics. 2 'A' Level subjects including one (1) Commercial subject."
+    },
+    {
+        "id": 44,
+        "Name": "Leisure and Hospitality Management",
+        "Description": "Focuses on the management of leisure and hospitality operations.",
+        "Fields": ["Leisure Management", "Hospitality Management", "Tourism", "Business Management", "Event Management"],
+        "University": 1,
+        "Faculty": "Faculty of Business Management Sciences and Economics",
+        "Duration": "4 years",
+        "Requirements": "5 'O' Level subjects including a pass in English Language and Mathematics and at least 2 'A' Level subjects including one (1) Commercial subject."
+    },
+    {
+        "id": 45,
+        "Name": "Economic Tourism and Development",
+        "Description": "Examines the economic aspects of tourism and its role in development.",
+        "Fields": ["Tourism Economics", "Development Studies", "Economics", "Sustainable Tourism", "Business Management"],
+        "University": 1,
+        "Faculty": "Faculty of Business Management Sciences and Economics",
+        "Duration": "4 years",
+        "Requirements": "5 'O' Level subjects including a pass in English Language and Mathematics and at least 2 'A' Level subjects including one (1) Commercial subject."
+    },
+    {
+        "id": 46,
+        "Name": "Business Enterprise Development",
+        "Description": "Focuses on the development and growth of business enterprises.",
+        "Fields": ["Entrepreneurship", "Business Development", "Management", "Marketing", "Finance"],
+        "University": 1,
+        "Faculty": "Faculty of Business Management Sciences and Economics",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level subjects including a pass in English Language and Mathematics and 3 'A' level subjects which include TWC Commercial subjects."
+    },
+    {
+        "id": 47,
+        "Name": "Public Relations and Marketing",
+        "Description": "Covers strategies for public relations and marketing.",
+        "Fields": ["Public Relations", "Marketing", "Communication", "Media Studies", "Business Management"],
+        "University": 1,
+        "Faculty": "Faculty of Business Management Sciences and Economics",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level subjects including a pass in English Language and Mathematics and 3 'A' level subjects which include TWC Commercial subjects or a Diploma in relevant field."
+    },
+    {
+        "id": 48,
+        "Name": "Business Marketing Informatics",
+        "Description": "Combines business marketing with informatics and data analysis.",
+        "Fields": ["Business Marketing", "Informatics", "Data Analysis", "Information Systems", "Marketing"],
+        "University": 1,
+        "Faculty": "Faculty of Business Management Sciences and Economics",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level subjects including a pass in English Language and Mathematics and 3 'A' level subjects, 2 of which must be commercial subjects and 'A' level Mathematics."
+    },
+    {
+        "id": 49,
+        "Name": "Human Capital Development Science",
+        "Description": "Focuses on the scientific principles of human capital development.",
+        "Fields": ["Human Resource Development", "Organizational Behavior", "Management", "Psychology", "Business"],
+        "University": 1,
+        "Faculty": "Faculty of Business Management Sciences and Economics",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level subjects including a pass in English Language and Mathematics and 3 'A' level subjects which include TWO Commercial subjects."
+    },
+    {
+        "id": 50,
+        "Name": "Business Management Systems Designs and Applications",
+        "Description": "Focuses on the design and application of business management systems.",
+        "Fields": ["Business Management", "Systems Design", "Information Systems", "Management", "Business Applications"],
+        "University": 1,
+        "Faculty": "Faculty of Business Management Sciences and Economics",
+        "Duration": "4 years",
+        "Requirements": "5 'O' level subjects including a pass in English Language and Mathematics and 3 'A' level subjects, 2 of which must be commercial subjects and 'A' level Mathematics."
+    }
+]

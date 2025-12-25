@@ -1,0 +1,102 @@
+[
+    {
+        "id": 350,
+        "Name": "Master of Commerce in Public Sector Accounting and Finance",
+        "Description": "Advanced study in accounting and financial management specifically for public sector organizations.",
+        "Fields": ["Public Sector Accounting", "Finance", "Accounting", "Public Administration", "Financial Management"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "1½ years",
+        "Requirements": "An Honours degree in Accounting, Public Sector Accounting and Finance."
+    },
+    {
+        "id": 351,
+        "Name": "Master of Commerce in Forensic Auditing and Accounting",
+        "Description": "Specializes in the detection and investigation of financial fraud and irregularities.",
+        "Fields": ["Forensic Auditing", "Accounting", "Fraud Detection", "Auditing", "Finance"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "1½ years",
+        "Requirements": "An Honours Degree in Accounting, Forensic Accounting, Auditing or Banking and Finance."
+    },
+    {
+        "id": 352,
+        "Name": "Master of Commerce in Financial Economics and Investment",
+        "Description": "Advanced study in the intersection of financial markets, economic theory, and investment strategies.",
+        "Fields": ["Financial Economics", "Investment", "Finance", "Economics", "Portfolio Management"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "1½ years",
+        "Requirements": "An Honours Degree in Economics, Financial Economics and Investment, Economics and Econometric Modelling, Agricultural Economics, Banking and Finance, Fiscal Studies or related field."
+    },
+    {
+        "id": 353,
+        "Name": "Master of Commerce in Strategic Management and Corporate Governance",
+        "Description": "Focuses on developing and implementing strategic plans and ensuring effective corporate governance.",
+        "Fields": ["Strategic Management", "Corporate Governance", "Business Management", "Leadership", "Policy"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "2 years",
+        "Requirements": "An Honours Degree in Management, Accounting, Human Resource Management, Economics, Tourism, Insurance and Risk Management, Development Studies and/or other degree qualification approved by the Department."
+    },
+    {
+        "id": 354,
+        "Name": "Master of Commerce in Strategy and Innovation",
+        "Description": "Explores strategies for fostering innovation and competitive advantage in business.",
+        "Fields": ["Strategy", "Innovation", "Business Management", "Entrepreneurship", "Leadership"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "2 years",
+        "Requirements": "An Honours Degree in Entrepreneurship, Information Systems, Marketing, Computer Science, Agriculture or Business Management."
+    },
+    {
+        "id": 355,
+        "Name": "Master of Commerce in Supply Chain Management",
+        "Description": "Advanced study in optimizing supply chain operations and logistics.",
+        "Fields": ["Supply Chain Management", "Logistics", "Operations Management", "Business", "Procurement"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "1½ years",
+        "Requirements": "An Honours Degree in Logistics, Supply Chain Management, Procurement, Purchasing, Retailing, Marketing or other Business Management discipline."
+    },
+    {
+        "id": 356,
+        "Name": "Master of Commerce in Information Systems Management",
+        "Description": "Focuses on managing information systems to support business objectives and operations.",
+        "Fields": ["Information Systems", "Management", "Business", "Information Technology", "Systems Analysis"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "1½ years",
+        "Requirements": "An Honours Degree in Information Systems, Computer Science or any relevant qualification."
+    },
+    {
+        "id": 357,
+        "Name": "Master of Commerce in Tourism and Hospitality Enterprises Management",
+        "Description": "Advanced management principles for tourism and hospitality businesses.",
+        "Fields": ["Tourism Management", "Hospitality Management", "Business", "Marketing", "Event Management"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "2 years",
+        "Requirements": "A Bachelor of Commerce Honours Degree in Tourism and Hospitality Management or an equivalent qualification."
+    },
+    {
+        "id": 358,
+        "Name": "Master of Commerce Finance and Digital Banking",
+        "Description": "Advanced study in finance with a focus on digital technologies and banking innovations.",
+        "Fields": ["Finance", "Digital Banking", "Financial Technology", "Business", "Economics"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "1½ years",
+        "Requirements": "An Honours Degree in Finance and Digital Banking, Accounting, Banking and Finance or any other relevant degree."
+    },
+    {
+        "id": 359,
+        "Name": "Master of Commerce in Strategic Marketing",
+        "Description": "Focuses on developing and implementing effective marketing strategies to achieve business goals.",
+        "Fields": ["Marketing", "Strategic Marketing", "Business", "Advertising", "Consumer Behavior"],
+        "University": 4,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "2 years",
+        "Requirements": "An Honours Degree in Marketing, Business Management, Entrepreneurship, Tourism and Hospitality Management, Supply Chain Management or any other relevant degree."
+    }
+]

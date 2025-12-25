@@ -1,0 +1,112 @@
+[
+    {
+        "id": 500,
+        "Name": "Bachelor of Commerce in Business Healthcare Management Honours Degree",
+        "Description": "Combines business management principles with the specific needs of the healthcare industry.",
+        "Fields": ["Business Management", "Healthcare Management", "Health Services", "Administration", "Finance"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "ND/HND in a Business-related field or any relevant qualification or: At least two passes in relevant 'A' Level subjects and: Confirmation of employment."
+    },
+    {
+        "id": 501,
+        "Name": "Bachelor of Commerce in Business Management Honours Degree",
+        "Description": "Provides a comprehensive understanding of business operations and management strategies.",
+        "Fields": ["Business Management", "Leadership", "Strategy", "Operations", "Human Resources"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "ND/HND in Business Studies, Accountancy, Purchasing, Banking and Finance and Secretarial Studies or any other relevant Qualification or: At least two passes in relevant 'A' Level subjects and: Confirmation of employment."
+    },
+    {
+        "id": 502,
+        "Name": "Bachelor of Commerce in Consumer and Marketing Intelligence Honours Degree",
+        "Description": "Focuses on understanding consumer behavior and developing data-driven marketing strategies.",
+        "Fields": ["Marketing", "Consumer Behavior", "Data Analysis", "Business", "Market Research"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "ND/HND in Marketing Management, or any other relevant qualification or: At least two passes in relevant 'A' Level subjects and: Confirmation of employment."
+    },
+    {
+        "id": 503,
+        "Name": "Bachelor of Commerce in Data Science and Informatics Honours Degree",
+        "Description": "Integrates data science techniques with business informatics for informed decision-making.",
+        "Fields": ["Data Science", "Informatics", "Business Intelligence", "Information Systems", "Analytics"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "ND/HND in an Information Technology related field or any other relevant qualification or: At least two passes in relevant 'A' Level subjects and: Confirmation of employment in the field of IT."
+    },
+    {
+        "id": 504,
+        "Name": "Bachelor of Commerce in Economics and Econometric Modelling Honours Degree",
+        "Description": "Applies economic theories and econometric models to analyze economic phenomena.",
+        "Fields": ["Economics", "Econometrics", "Statistics", "Mathematics", "Finance"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "ND/HND in a Business-related field or any other relevant qualification or: At least two passes in relevant 'A' Level subjects and at least a 'B' pass in 'O' level Mathematics and: Confirmation of employment."
+    },
+    {
+        "id": 505,
+        "Name": "Bachelor of Commerce in Finance and Digital Banking Honours Degree",
+        "Description": "Focuses on financial management and the evolving landscape of digital banking.",
+        "Fields": ["Finance", "Digital Banking", "Financial Technology", "Business", "Economics"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "ND/HND in Banking and Finance related field or any other relevant qualification or: At least two passes in relevant 'A' Level subject and: Confirmation of employment."
+    },
+    {
+        "id": 506,
+        "Name": "Bachelor of Commerce in Financial Economics and Investment Honours Degree",
+        "Description": "Combines financial economics with investment strategies and portfolio management.",
+        "Fields": ["Financial Economics", "Investment", "Finance", "Economics", "Portfolio Management"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "ND/HND in a Business-related field or any other relevant qualification or: At least two passes in relevant 'A' Level subjects and: Confirmation of employment."
+    },
+    {
+        "id": 507,
+        "Name": "Bachelor of Commerce in Logistics and Supply Chain Management Honours Degree",
+        "Description": "Covers the planning, implementation, and control of efficient flow and storage of goods and services.",
+        "Fields": ["Logistics", "Supply Chain Management", "Operations", "Business", "Procurement"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "ND/HND in Logistics, Retail, Procurement or any other relevant qualification or: At least two passes at 'A' Level and: Confirmation of employment."
+    },
+    {
+        "id": 508,
+        "Name": "Bachelor of Commerce in Risk Management and Insurance Honours Degree",
+        "Description": "Focuses on identifying, assessing, and mitigating risks, and the principles of insurance.",
+        "Fields": ["Risk Management", "Insurance", "Finance", "Business", "Economics"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "Diploma or Advanced Diploma in Insurance, ND/HND in Business Studies or any other relevant qualification or: At least two passes in relevant 'A' Level subjects and: Confirmation of employment."
+    },
+    {
+        "id": 509,
+        "Name": "Bachelor of Commerce in Tourism and Hospitality Management Honours Degree",
+        "Description": "Provides a comprehensive understanding of the tourism and hospitality industries.",
+        "Fields": ["Tourism", "Hospitality Management", "Business", "Marketing", "Event Management"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "3 Years",
+        "Requirements": "ND/HND in Tourism, Hospitality, Customer Care, Marketing, Professional Cookery, Tour Guiding or any other relevant qualification or: At least two 'A' Level passes and: Confirmation of employment in any tourism-related or hospitality organisation."
+    },
+    {
+        "id": 510,
+        "Name": "Bachelor of Commerce in Sustainable Tourism Management Honours Degree",
+        "Description": "Focuses on developing and managing tourism practices that are environmentally and socially responsible.",
+        "Fields": ["Sustainable Tourism", "Tourism Management", "Environmental Science", "Business", "Hospitality"],
+        "University": 6,
+        "Faculty": "Faculty of Business Sciences",
+        "Duration": "4 Years",
+        "Requirements": "Two 'A' Level passes in any subject."
+    }
+]

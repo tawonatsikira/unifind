@@ -1,0 +1,5384 @@
+{
+    "1": {
+        "Name": "Horticulture and Plantation Sciences",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Biology"
+                ]
+            ],
+            "additional": [
+                "Agriculture",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "2": {
+        "Name": "Horticulture and Plantation Sciences",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Biology"
+                ]
+            ],
+            "additional": [
+                "Agriculture",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "3": {
+        "Name": "Crop Improvement and Seed Systems",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Biology"
+                ]
+            ],
+            "additional": [
+                "Agriculture",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "4": {
+        "Name": "Agricultural Equipment Design and Manufacturing Systems",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Mathematics",
+                    "Physics"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "5": {
+        "Name": "Agricultural Processing Plant Design and Manufacturing Systems",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Mathematics",
+                    "Physics"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "6": {
+        "Name": "Food Engineering",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Mathematics",
+                    "Physics"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "7": {
+        "Name": "Water Resources and Irrigation Engineering",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Mathematics",
+                    "Physics"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "8": {
+        "Name": "Livestock Improvement and Genetic Conservation",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Biology"
+                ]
+            ],
+            "additional": [
+                "Agriculture",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "9": {
+        "Name": "Livestock Production and Nutrition Sciences",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Biology"
+                ]
+            ],
+            "additional": [
+                "Agriculture",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "10": {
+        "Name": "Meat and Dairy Science and Technology",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Biology"
+                ]
+            ],
+            "additional": [
+                "Agriculture",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "11": {
+        "Name": "Rangeland Sciences and Livestock Production Ecology",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Biology"
+                ]
+            ],
+            "additional": [
+                "Agriculture",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "12": {
+        "Name": "Agricultural and Natural Resource Economics",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Mathematics"
+                ],
+                [
+                    "Economics",
+                    "Business Studies"
+                ]
+            ],
+            "additional": [
+                "Accounting",
+                "Agriculture",
+                "Biology",
+                "Chemistry",
+                "Geography",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "13": {
+        "Name": "Agricultural Development and Communication Systems",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Mathematics"
+                ],
+                [
+                    "Economics",
+                    "Business Studies"
+                ]
+            ],
+            "additional": [
+                "Accounting",
+                "Agriculture",
+                "Biology",
+                "Chemistry",
+                "Geography",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "14": {
+        "Name": "Agricultural Informatics",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Mathematics"
+                ],
+                [
+                    "Economics",
+                    "Business Studies"
+                ]
+            ],
+            "additional": [
+                "Accounting",
+                "Agriculture",
+                "Biology",
+                "Chemistry",
+                "Geography",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "15": {
+        "Name": "Value Chain Development and Agricultural Marketing",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Mathematics"
+                ],
+                [
+                    "Economics",
+                    "Business Studies"
+                ]
+            ],
+            "additional": [
+                "Accounting",
+                "Agriculture",
+                "Biology",
+                "Chemistry",
+                "Geography",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "16": {
+        "Name": "Soil Science and Land Management",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Chemistry"
+                ]
+            ],
+            "additional": [
+                "Agriculture",
+                "Biology",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "17": {
+        "Name": "Water and Waste Management Systems",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Agriculture",
+                "Biology",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "18": {
+        "Name": "Agricultural and Environmental Monitoring Systems",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Agriculture",
+                "Biology",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "19": {
+        "Name": "Climate Science Resilience and Livelihoods",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Agriculture",
+                "Biology",
+                "Chemistry",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "20": {
+        "Name": "Applied Environmental Sciences and Technology",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Chemistry"
+                ]
+            ],
+            "additional": [
+                "Agriculture",
+                "Biology",
+                "Geography",
+                "Mathematics",
+                "Physics"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "21": {
+        "Name": "Conflict, Peace Building and Social Transformation",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts",
+                "Humanities",
+                "Social Sciences"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "22": {
+        "Name": "History of War and Security",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts",
+                "Humanities"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "23": {
+        "Name": "Risk Reduction and Disaster Management",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts",
+                "Humanities",
+                "Social Sciences"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "24": {
+        "Name": "Journalism Media and Broadcasting",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "25": {
+        "Name": "Film, Radio and Television Production",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "26": {
+        "Name": "Creative Designs Animation and Motion Graphics",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "27": {
+        "Name": "Media and Marketing Communication",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts",
+                "Commercial"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "28": {
+        "Name": "Multi-Media Production",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "29": {
+        "Name": "Visual and Performing Arts",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "30": {
+        "Name": "African Musicology",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "31": {
+        "Name": "Fine Arts",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "32": {
+        "Name": "Language Literature and Intercultural Communication",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Business Studies",
+                "Chinese",
+                "Dance",
+                "Divinity",
+                "Drama",
+                "Economic History",
+                "Economics",
+                "English Literature",
+                "Film",
+                "Fine Art",
+                "French",
+                "Geography",
+                "Heritage Studies",
+                "History",
+                "Mathematics",
+                "Music Arts",
+                "Ndebele",
+                "Shona",
+                "Sociology",
+                "Swahili",
+                "Theatre Arts",
+                "Tonga"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "33": {
+        "Name": "Multilingual Communication Translation and Interpretation",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Business Studies",
+                "Chinese",
+                "Dance",
+                "Divinity",
+                "Drama",
+                "Economic History",
+                "Economics",
+                "English Literature",
+                "Film",
+                "Fine Art",
+                "French",
+                "Geography",
+                "Heritage Studies",
+                "History",
+                "Mathematics",
+                "Music Arts",
+                "Ndebele",
+                "Shona",
+                "Sociology",
+                "Swahili",
+                "Theatre Arts",
+                "Tonga"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "34": {
+        "Name": "Multicultural Heritage and Tourism",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Business Studies",
+                "Chinese",
+                "Dance",
+                "Divinity",
+                "Drama",
+                "Economic History",
+                "Economics",
+                "English Literature",
+                "Film",
+                "Fine Art",
+                "French",
+                "Geography",
+                "Heritage Studies",
+                "History",
+                "Mathematics",
+                "Music Arts",
+                "Ndebele",
+                "Shona",
+                "Sociology",
+                "Swahili",
+                "Theatre Arts",
+                "Tonga"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "35": {
+        "Name": "Heritage and Economic History",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Business Studies",
+                "Economic History",
+                "Economics",
+                "Geography",
+                "Heritage",
+                "History",
+                "Sociology"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "36": {
+        "Name": "Zimbabwean History and International Affairs",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "History"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "37": {
+        "Name": "Archaeological Sciences and Human Development",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "History"
+                ]
+            ],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "38": {
+        "Name": "African Heritage and Knowledge Systems",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "History"
+                ]
+            ],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "39": {
+        "Name": "Digital Archival and Information Records Management",
+        "Requirements": {
+            "compulsory": [],
+            "additional": [
+                "Geography",
+                "Heritage Studies",
+                "History",
+                "Shona"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "40": {
+        "Name": "Religion Leadership and Society",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Divinity"
+                ]
+            ],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "41": {
+        "Name": "Philosophy Ethics and Human Development",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Divinity"
+                ]
+            ],
+            "additional": [
+                "Arts"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "42": {
+        "Name": "Integrated Tourism Marketing and Internationalization",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "43": {
+        "Name": "Culinary Arts and Hotel Catering",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "44": {
+        "Name": "Leisure and Hospitality Management",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "45": {
+        "Name": "Economic Tourism and Development",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "46": {
+        "Name": "Business Enterprise Development",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 3
+        }
+    },
+    "47": {
+        "Name": "Public Relations and Marketing",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 3
+        }
+    },
+    "48": {
+        "Name": "Business Marketing Informatics",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ],
+                [
+                    "Mathematics"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 3
+        }
+    },
+    "49": {
+        "Name": "Human Capital Development Science",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 3
+        }
+    },
+    "50": {
+        "Name": "Business Management Systems Designs and Applications",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ],
+                [
+                    "Mathematics"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 3
+        }
+    },
+    "51": {
+        "Name": "Supply Chain Management",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 3
+        }
+    },
+    "52": {
+        "Name": "Financial Economics and Trade",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "53": {
+        "Name": "Business and Industrial Economics",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "54": {
+        "Name": "Computational Economics",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Mathematics",
+                    "Mathematics"
+                ]
+            ],
+            "additional": [
+                "Commercial"
+            ],
+            "min_subjects": 2
+        }
+    },
+    "55": {
+        "Name": "Economics and Development",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 2
+        }
+    },
+    "56": {
+        "Name": "Accounting and Finance",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Accounting"
+                ],
+                [
+                    "Commercial",
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 3
+        }
+    },
+    "57": {
+        "Name": "Digital Banking",
+        "Requirements": {
+            "compulsory": [
+                [
+                    "Commercial",
+                    "Commercial"
+                ]
+            ],
+            "additional": [],
+            "min_subjects": 3
+        }
+    },
+    
+    "58": {
+        "Name": "Financial and Accounting Systems Development and Applications",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics"],
+                "additional": ["Commercial Subject 1", "Commercial Subject 2", "Any other subject"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "59": {
+        "Name": "Audit and Risk Management",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Commercial Subject 1", "Commercial Subject 2"],
+                "additional": ["Any other subject"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "60": {
+        "Name": "Forensic Accounting",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Commercial Subject 1", "Commercial Subject 2"],
+                "additional": ["Any other subject"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "61": {
+        "Name": "Fiscal Management",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Commercial Subject 1", "Commercial Subject 2"],
+                "additional": ["Any other subject"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "62": {
+        "Name": "Public Sector Accounting and Finance",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Commercial Subject 1", "Commercial Subject 2"],
+                "additional": ["Any other subject"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "63": {
+        "Name": "Finance, Digital Applications and Law",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Commercial Subject 1", "Commercial Subject 2"],
+                "additional": ["Any other subject"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "64": {
+        "Name": "Cyber Security and Forensic Auditing",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Chemistry", "Biology", "Computer Science", "Accounts", "Business Studies", "Diploma IT"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "65": {
+        "Name": "Data Science and Informatics",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Chemistry", "Biology", "Computer Science", "Accounts", "Business Studies", "Diploma in IT"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "66": {
+        "Name": "Computer Engineering",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Diploma in IT"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "67": {
+        "Name": "Hardware Engineering",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Diploma in IT"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "68": {
+        "Name": "Software Engineering",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Diploma in IT"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "69": {
+        "Name": "Computer Science",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Chemistry", "Biology", "Computer Science", "Accounts", "Business Studies", "Diploma in IT"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "70": {
+        "Name": "Artificial Intelligence and Machine Learning",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Chemistry", "Biology", "Computer Science", "Accounts", "Business Studies", "Diploma in IT"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "71": {
+        "Name": "Cloud Computing and Internet of Things",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Chemistry", "Biology", "Computer Science", "Accounts", "Business Studies", "Diploma in IT"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "72": {
+        "Name": "Electronics and Telecommunications Engineering",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", "Diploma in IT"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "73": {
+        "Name": "Network Engineering",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Diploma in IT"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "74": {
+        "Name": "Languages and Literature (Post A Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "one indigenous language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Subject of specialisation"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "75": {
+        "Name": "Languages and Literature (Post Diploma)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "one indigenous language"],
+                "min_subjects": 5
+            },
+            "Diploma": {
+                "compulsory": ["Education (with subject of specialisation)"]
+            }
+        }
+    },
+    "76": {
+        "Name": "History Heritage and Economic Development (Post A Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "one Indigenous language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Subject of specialisation"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "77": {
+        "Name": "History Heritage and Economic Development (Post Diploma)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "one Indigenous language"],
+                "min_subjects": 5
+            },
+            "Diploma": {
+                "compulsory": ["Education (with subject of specialisation)"]
+            }
+        }
+    },
+    "78": {
+        "Name": "Civics Religion and Ethics Education (Post A Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "one indigenous language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Subject of specialisation"],
+                "min_subjects": 2
+            },
+            "Other": {
+                "compulsory": ["Diploma in Religious Studies/Theology/Philosophy"]
+            }
+        }
+    },
+    "79": {
+        "Name": "Civics Religion and Ethics Education (Post Diploma)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "one indigenous language"],
+                "min_subjects": 5
+            },
+            "Diploma": {
+                "compulsory": ["Education (with subject of specialisation)"]
+            }
+        }
+    },
+    "80": {
+        "Name": "Science Education and Applications",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics", "an official indigenous language"],
+                "additional": ["any other subject(s) deemed necessary by the host department"],
+                "min_subjects": 5
+            },
+            "Other": {
+                "compulsory": ["Teaching diploma in a relevant area of study or a relevant qualification as stipulated in the National Qualifications Framework (NQF)"],
+                "additional": ["satisfactory standard on any entrance test"]
+            }
+        }
+    },
+    "81": {
+        "Name": "Educational Materials Production and Instructional Design",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics", "an official indigenous language"],
+                "additional": ["any other subject(s) deemed necessary by the host department"],
+                "min_subjects": 5
+            },
+            "Other": {
+                "compulsory": ["Teaching diploma in a relevant area of study or a relevant qualification as stipulated in the National Qualifications Framework (NQF)"],
+                "additional": ["satisfactory standard on any entrance test"]
+            }
+        }
+    },
+    "82": {
+        "Name": "Curriculum Design and Instructional Materials Production (Post A Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "one indigenous language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Subject of specialisation"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "83": {
+        "Name": "Curriculum Design and Instructional Materials Production (Post Diploma)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "one indigenous language"],
+                "min_subjects": 5
+            },
+            "Diploma": {
+                "compulsory": ["Education (with subject of specialisation)"]
+            }
+        }
+    },
+    "84": {
+        "Name": "Special Needs and Assistive Technologies",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["Diploma/Certificate in Education from accredited and recognised institution or equivalent or any other qualification as prescribed in the Zimbabwe National Qualifications Framework."],
+                "additional": ["Diploma/Certificate in Special Needs Education/Inclusive Education"]
+            }
+        }
+    },
+    "85": {
+        "Name": "Psycho-Social Guidance and Counselling (Post 'A' Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics", "one indigenous language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Subject of specialisation"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "86": {
+        "Name": "Psycho-Social Guidance and Counselling (Post Diploma)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics", "one indigenous language"],
+                "min_subjects": 5
+            },
+            "Diploma": {
+                "compulsory": ["Education (with subject of specialisation)"]
+            }
+        }
+    },
+    "87": {
+        "Name": "Educational Leadership and Governance",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "Other": {
+                "compulsory": ["Diploma/Certificate in Education from accredited and recognised institution or equivalent or any other qualification as prescribed in the Zimbabwe National Qualifications Framework."],
+                "additional": ["Experience in educational management or in a managerial role in schools/educational institutions"]
+            }
+        }
+    },
+    "88": {
+        "Name": "Design and Technology Education (Agricultural Production and the Environment - Post A-Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics", "Science", "official indigenous language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Animal Science", "Geography", "Chemistry", "Biology", "Crop Science", "Agricultural Engineering", "Horticulture"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "89": {
+        "Name": "Design and Technology Education (Agricultural Production and the Environment - Post Diploma/Certificate in a Technical Area)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["National Diploma or Certificate in Agriculture/Horticulture"]
+            }
+        }
+    },
+    "90": {
+        "Name": "Design and Technology Education (Agricultural Production and the Environment - Post Diploma in Education)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["Diploma/Certificate in Education", "FETC/FETD with Agriculture as main subject"]
+            }
+        }
+    },
+    "91": {
+        "Name": "Design and Technology Education (The Built Environment - Post A-Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics", "Science", ["Building Technology and Design", "Technical Graphics and Design"], "official indigenous language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Physics", "Chemistry", "Computer Science", "Geography"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "92": {
+        "Name": "Design and Technology Education (The Built Environment - Post Diploma/Certificate in a Technical Area)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["National Diploma or National Certificate in Building Technology/Brick and Block laying/Technical Graphics or equivalent"]
+            }
+        }
+    },
+    "93": {
+        "Name": "Design and Technology Education (The Built Environment - Post Diploma in Education)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["Diploma/Certificate in Education", "FETC/FETD with Building Technology or Technical Graphics as main subject"]
+            }
+        }
+    },
+    "94": {
+        "Name": "Design and Technology Education (Food Science Human Nutrition and Technology - Post A-Level)",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5,
+                "compulsory": []
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Chemistry", "Mathematics"], "Food Science"
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "95": {
+        "Name": "Design and Technology Education (Food Science Human Nutrition and Technology - Post Diploma in a Technical Area)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["National Diploma in Hospitality and Tourism or its equivalent"]
+            }
+        }
+    },
+    "96": {
+        "Name": "Design and Technology Education (Food Science Human Nutrition and Technology - Post Diploma in Education)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["Diploma/Certificate in Education", "FETC/FETD with Home Economics/Food Technology/Hospitality and Tourism as main subject"]
+            }
+        }
+    },
+    "97": {
+        "Name": "Design and Technology Education (Product Design and Technology - Post A-Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics", "official indigenous language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Design and Technology", "Art and Design", "Technical Graphics", "Wood Technology", "Metal Technology", "any Science subject"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "98": {
+        "Name": "Design and Technology Education (Product Design and Technology - Post Diploma/Certificate in a Technical Area)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["National Diploma or National Certificate in Technical Graphics or Mechanical Engineering or Metal Technology or Wood Technology"]
+            }
+        }
+    },
+    "99": {
+        "Name": "Design and Technology Education (Product Design and Technology - Post Diploma in Education)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["Diploma/Certificate in Education", "FETC/FETD with Technical Graphics or Mechanical Engineering or Metal Technology or Wood Technology as main subject"]
+            }
+        }
+    },
+    "100": {
+        "Name": "Design and Technology Education (Textile Science, Apparel Design and Technology - Post A-Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Textile Science Technology and Design or equivalent", "Science", "English Language", "Mathematics", "official indigenous language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Textile Science Technology and Design or Equivalent", "Mathematics", "Physics", "Chemistry", "Art and Design"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "101": {
+        "Name": "Design and Technology Education (Textile Science, Apparel Design and Technology - Post Diploma in a Technical Area)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["National Diploma in Textile Science and Technology or equivalent"]
+            }
+        }
+    },
+    "102": {
+        "Name": "Design and Technology Education (Textile Science, Apparel Design and Technology - Post Diploma in Education)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["Diploma/Certificate in Education", "FETC/FETD with Clothing and Textile Technology or Home Economics as main subject"]
+            }
+        }
+    },
+    "103": {
+        "Name": "Visual Performing Arts and Heritage Education",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics", "official indigenous language"],
+                "min_subjects": 5
+            },
+            "Other": {
+                "compulsory": ["Diploma/Certificate in Education/FETC/FETD or National Diploma in a relevant technical area; Art, Music or Physical Education and Sport subject from a recognized institution."]
+            }
+        }
+    },
+    "104": {
+        "Name": "Development and Management of Early Childhood Schools (Post 'A' Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Subject of specialisation"],
+                "min_subjects": 2
+            },
+            "Other": {
+                "additional": ["Relevant work experience in education or related disciplines"]
+            }
+        }
+    },
+    "105": {
+        "Name": "Development and Management of Early Childhood Schools (Post Diploma)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["Infant Education/Early Childhood Development or equivalent from a credible institution"]
+            },
+            "Other": {
+                "additional": ["Evidence of practice in the area of specialisation"]
+            }
+        }
+    },
+    "106": {
+        "Name": "Early Childhood Development and Social Policy (Post 'A' Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Subject of specialisation"],
+                "min_subjects": 2
+            },
+            "Other": {
+                "additional": ["Relevant work experience in education or related disciplines"]
+            }
+        }
+    },
+    "107": {
+        "Name": "Early Childhood Development and Social Policy (Post Diploma)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["Education with Specialisation in Infant Education/Early Childhood Development or equivalent from a credible institution"]
+            }
+        }
+    },
+    "108": {
+        "Name": "Development and Management of Junior Education Schools (Post 'A' Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Subject of specialisation"],
+                "min_subjects": 2
+            },
+            "Other": {
+                "additional": ["Relevant work experience in education or related disciplines"]
+            }
+        }
+    },
+    "109": {
+        "Name": "Development and Management of Junior Education Schools (Post Diploma)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["Education, Primary or equivalent from a credible institution"]
+            },
+            "Other": {
+                "additional": ["Relevant work experience in education or related disciplines"]
+            }
+        }
+    },
+    "110": {
+        "Name": "Junior Education (Post 'A' Level)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Subject of specialisation"],
+                "min_subjects": 2
+            },
+            "Other": {
+                "additional": ["Relevant work experience in education or related disciplines"]
+            }
+        }
+    },
+    "111": {
+        "Name": "Junior Education (Post Diploma)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["Education, Primary (with a main subject in the preferred option)"]
+            },
+            "Other": {
+                "additional": ["Relevant work experience in education or related disciplines"]
+            }
+        }
+    },
+    "112": {
+        "Name": "Civil Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Technical Drawing", "Computing Science"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "113": {
+        "Name": "Construction Engineering and Quantity Surveying",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Technical Drawing", "Computing Science"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "114": {
+        "Name": "Mechanical Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Technical Drawing", "Computing Science"]],
+                "min_subjects": 3
+            },
+            "Special_Entry": {
+                "compulsory": ["National Diploma", "Higher National Diploma in appropriate field of study"]
+            }
+        }
+    },
+    "115": {
+        "Name": "Industrial Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Technical Drawing", "Computing Science"]],
+                "min_subjects": 3
+            },
+            "Special_Entry": {
+                "compulsory": ["National Diploma", "Higher National Diploma in appropriate field of study"]
+            }
+        }
+    },
+    "116": {
+        "Name": "Mechatronics Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Technical Drawing", "Computing Science"]],
+                "min_subjects": 3
+            },
+            "Special_Entry": {
+                "compulsory": ["National Diploma", "Higher National Diploma in appropriate field of study"]
+            }
+        }
+    },
+    "117": {
+        "Name": "Electrical and Electronic Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Computing Science"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "118": {
+        "Name": "Energy and Power Systems Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Computing Science"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "119": {
+        "Name": "Automotive Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Technical Drawing", "Computing Science"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "120": {
+        "Name": "Aeronautical Engineering (Avionics)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Technical Drawing", "Computing Science"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "121": {
+        "Name": "Aeronautical Engineering (Aviation Mechanics)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Technical Drawing", "Computing Science"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "122": {
+        "Name": "Mining & Geological Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Computer Science"]],
+                "min_subjects": 3
+            },
+            "Special_Entry": {
+                "compulsory": ["Mining Engineering National Diploma (ND)", "Higher National Diploma (HND)", "equivalent from Zimbabwe School of Mines"]
+            }
+        }
+    },
+    "123": {
+        "Name": "Materials Technology and Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Chemistry", "Physics"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "124": {
+        "Name": "Chemical Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Chemistry", ["Physics", "Biology"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "125": {
+        "Name": "Metallurgical Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Chemistry", "Physics"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "126": {
+        "Name": "Geomatics Engineering (Surveying)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Geography", "Computer Science", "Technical Graphics"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "127": {
+        "Name": "Geomatics Engineering (Geo-informatics)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Geography", "Computer Science", "Technical Graphics"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "128": {
+        "Name": "Land Administration and Management",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Geography"],
+                "additional": ["Natural Science Subjects", "Commercial Subjects"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "129": {
+        "Name": "Architecture",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science", "Geography"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics", ["Chemistry", "Technical Drawing", "Computer Science", "Art", "History", "Geography"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "130": {
+        "Name": "Spatial Planning and Management",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Geography"],
+                "additional": ["Natural Science Subjects", "Commercial Subjects"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "131": {
+        "Name": "Transport Systems Development",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Geography"],
+                "additional": ["Natural Science Subjects", "Commercial Subjects"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "132": {
+        "Name": "Real Estate",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English language", "Science", "Geography"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "additional": ["Natural Science Subjects", "Commercial Subjects"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "133": {
+        "Name": "Bachelor of Laws Honours",
+        "Requirements": {
+            "A_Level": {
+                "additional": ["Any subject combination"],
+                "min_subjects": 3
+            },
+            "Other": {
+                "compulsory": ["Meets Zimbabwe National Qualifications Framework requirements"]
+            }
+        }
+    },
+    "134": {
+        "Name": "Bachelor of Substantive Laws",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["Non-legal degree from University of Zimbabwe or any other acceptable University", "Recommended by the Council for Legal Education", "Transferring from another institution according to the Zimbabwe National Qualifications Framework"]
+            }
+        }
+    },
+    "135": {
+        "Name": "Biomedical Sciences with pathway to Bachelor of Medicine and Bachelor of Surgery",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", ["Biology", "Physics", "Mathematics"]],
+                "min_subjects": 3
+            },
+            "Other": {
+                "compulsory": ["Bachelor of Science Degree in Biomedical Sciences (BMS)"]
+            }
+        }
+    },
+    "136": {
+        "Name": "Biomedical Sciences with pathway to Bachelor of Dental Surgery",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", ["Biology", "Physics", "Mathematics"]],
+                "min_subjects": 3
+            },
+            "Other": {
+                "compulsory": ["Bachelor of Science Degree in Biomedical Sciences (BMS)"]
+            }
+        }
+    },
+    "137": {
+        "Name": "Biomedical Sciences (Honours Degree)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", ["Biology", "Physics", "Mathematics"]],
+                "min_subjects": 3
+            },
+            "Other": {
+                "compulsory": ["Bachelor of Science Degree in Biomedical Sciences (BMS)"]
+            }
+        }
+    },
+    "138": {
+        "Name": "Drug Discovery and Therapeutics",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", "Chemistry", ["Biology", "Physics"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "139": {
+        "Name": "Medical Analytics and Informatics",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Statistics"], "Biology", ["Physics", "Physical Science", "Chemistry", "Computer Science"]
+                ],
+                "min_subjects": 3
+            }
+        }
+    },
+    "140": {
+        "Name": "Radiography Diagnostic",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Chemistry", "Physics", "Biology"]
+                ],
+                "min_subjects": 3
+            }
+        }
+    },
+    "141": {
+        "Name": "Radiography Therapeutic",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Chemistry", "Physics", "Biology"]
+                ],
+                "min_subjects": 3
+            }
+        }
+    },
+    "142": {
+        "Name": "Biomedical Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Biology", ["Physics", "Physical Science", "Chemistry", "Computer Science", "Technical Drawing"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "143": {
+        "Name": "Bachelor of Pharmacy Honours Degree",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", ["Physics", "Mathematics", "Biology"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "144": {
+        "Name": "Medical Laboratory Sciences Honours Degrees",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", ["Physics", "Mathematics", "Biology"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "145": {
+        "Name": "Optometry",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Physics", "Chemistry", "Biology", "Mathematics", "English Language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Physics", "Mathematics", ["Chemistry", "Biology"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "146": {
+        "Name": "Occupational Therapy",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Physics", "Chemistry", "Biology", "Mathematics", "English Language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Biology", ["Mathematics", "Physics"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "147": {
+        "Name": "Physiotherapy",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Physics", "Chemistry", "Biology", "Mathematics", "English Language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Biology", ["Mathematics", "Physics", "Chemistry"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "148": {
+        "Name": "Audiology",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Physics", "Chemistry", "Biology", "Mathematics", "English Language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Biology", ["Mathematics", "Physics"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "149": {
+        "Name": "Speech and Language Therapy",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Physics", "Chemistry", "Biology", "Mathematics", "English Language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Biology", ["Mathematics", "Physics"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "150": {
+        "Name": "Nursing Science (Normal Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", ["Biology", "Mathematics", "Physics"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "151": {
+        "Name": "Nursing Science (Special Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics", "one Science subject", "one local Language"],
+                "min_subjects": 6
+            },
+            "Diploma": {
+                "compulsory": ["General Nursing", "equivalent"]
+            }
+        }
+    },
+    "152": {
+        "Name": "Health Education and Health Promotion",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language", "approved science subject"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Chemistry", "Mathematics", "Physics"]
+                ],
+                "min_subjects": 3
+            },
+            "Diploma": {
+                "compulsory": ["University Diploma in Health and Adult Education", "Health Promotion", "approved equivalents"]
+            }
+        }
+    },
+    "153": {
+        "Name": "Occupational and Environmental Health",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Biology", ["Chemistry", "Mathematics", "Physics"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "154": {
+        "Name": "Biotechnology and Biochemistry (Biotechnology and Molecular Biology)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Chemistry", "Biology"],
+                "min_subjects": 2
+            },
+            "Special_Entry": {
+                "compulsory": ["National Certificate (entry at first year)", "Diploma (entry at 2nd year)", "HND (entry at 2nd year with exemptions)", "BSc General Degree with major in appropriate subject (upper second division or higher)"]
+            }
+        }
+    },
+    "155": {
+        "Name": "Biotechnology and Biochemistry (Clinical Biochemistry and Toxicology)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Chemistry", "Biology"],
+                "min_subjects": 2
+            },
+            "Special_Entry": {
+                "compulsory": ["National Certificate (entry at first year)", "Diploma (entry at 2nd year)", "HND (entry at 2nd year with exemptions)", "BSc General Degree with major in appropriate subject (upper second division or higher)"]
+            }
+        }
+    },
+    "156": {
+        "Name": "Biotechnology and Biochemistry (Genetics and Bioengineering)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Chemistry", "Biology"],
+                "min_subjects": 2
+            },
+            "Special_Entry": {
+                "compulsory": ["National Certificate (entry at first year)", "Diploma (entry at 2nd year)", "HND (entry at 2nd year with exemptions)", "BSc Degree with major in appropriate subject (upper second division or higher)"]
+            }
+        }
+    },
+    "157": {
+        "Name": "Biotechnology and Biochemistry (Plant Biochemistry and Medicinal Chemistry)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Chemistry", "Biology"],
+                "min_subjects": 2
+            },
+            "Special_Entry": {
+                "compulsory": ["National Certificate (entry at first year)", "Diploma (entry at 2nd year)", "HND (entry at 2nd year with exemptions)", "BSc General Degree with major in appropriate subject (upper second division or higher)"]
+            }
+        }
+    },
+    "158": {
+        "Name": "Biotechnology and Biochemistry (Immunology and Microbiology)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Chemistry", "Biology"],
+                "min_subjects": 2
+            },
+            "Special_Entry": {
+                "compulsory": ["National Certificate (entry at first year)", "Diploma (entry at 2nd year)", "HND (entry at 2nd year with exemptions)", "BSc General Degree with major in appropriate subject (upper second division or higher)"]
+            }
+        }
+    },
+    "159": {
+        "Name": "Biotechnology and Biochemistry (Industrial and Environmental Microbiology)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Chemistry", "Biology"],
+                "min_subjects": 2
+            },
+            "Special_Entry": {
+                "compulsory": ["National Certificate (entry at first year)", "Diploma (entry at 2nd year)", "HND (entry at 2nd year with exemptions)", "BSc General Degree with major in appropriate subject (upper second division or higher)"]
+            }
+        }
+    },
+    "160": {
+        "Name": "Biological Sciences",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics"],
+                "min_subjects": 1
+            },
+            "A_Level": {
+                "compulsory": ["Biology"],
+                "additional": ["Science Subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "161": {
+        "Name": "Biodiversity and Heritage Conservation",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Biology"],
+                "additional": ["Geography", "Physics", "Mathematics", "Computer Science", "Chemistry"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "162": {
+        "Name": "Forestry Savannah and Wildlife Ecology",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Biology"],
+                "additional": ["Geography", "Mathematics", "Computer Science", "Chemistry"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "163": {
+        "Name": "Aquatic Science and Ecology",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Biology"],
+                "additional": ["Geography", "Physics", "Mathematics", "Computer Science", "Chemistry"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "164": {
+        "Name": "Digital Disease Surveillance and Environmental Health",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Biology"],
+                "additional": ["Science subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "165": {
+        "Name": "Forensic Science",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Chemistry"],
+                    ["Physics", "Mathematics"],
+                    ["Chemistry", "Mathematics"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "166": {
+        "Name": "Pollution and Environmental Chemistry",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", "Biology"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "167": {
+        "Name": "Industrial Chemistry (Normal Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", "Mathematics"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "168": {
+        "Name": "Industrial Chemistry (Special Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["appropriate field"],
+                "additional": ["2 years relevant experience"]
+            }
+        }
+    },
+    "169": {
+        "Name": "Pharmaceutical Chemistry",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", "Mathematics"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "170": {
+        "Name": "Geological Sciences (Normal Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", "Mathematics"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "171": {
+        "Name": "Geological Sciences (Special Entry)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["NC Geology", "ND Geology", "HND Geology"]
+            }
+        }
+    },
+    "172": {
+        "Name": "Geological Sciences (Mature Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "Other": {
+                "compulsory": ["at least 25 years of age", "5 years relevant experience"]
+            }
+        }
+    },
+    "173": {
+        "Name": "Petroleum Chemistry and Technology (Normal Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", "Mathematics"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "174": {
+        "Name": "Petroleum Chemistry and Technology (Special Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["appropriate field"],
+                "additional": ["2 years relevant experience"]
+            }
+        }
+    },
+    "175": {
+        "Name": "Geographical Information Science and Earth Observation (Normal Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Geography", "Physics", "Biology", "Pure Mathematics", "Computer Science"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "176": {
+        "Name": "Geographical Information Science and Earth Observation (Special Entry)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["recognized equivalent qualification approved by the University in an appropriate subject from a recognised university and at least 2 years' experience", "National Diploma (ND) in an appropriate subject and 2 years work experience in a relevant field (proof of employment required)", "Higher National Diploma (HND) in an appropriate subject"]
+            }
+        }
+    },
+    "177": {
+        "Name": "Geospatial Intelligence (Normal Entry)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Geography", "Physics", "Biology", "Mathematics", "Computer Science"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "178": {
+        "Name": "Geospatial Intelligence (Special Entry)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["recognized equivalent qualification approved by the University in an appropriate subject from a recognised university and at least 2 years' experience", "National Diploma (ND) in an appropriate subject and 2 years work experience in a relevant field (proof of employment required)", "Higher National Diploma (HND) in an appropriate subject"]
+            },
+            "Other": {
+                "compulsory": ["serving member of any of the security sectors or is serving in a government department in Zimbabwe"]
+            }
+        }
+    },
+    "179": {
+        "Name": "Mathematics and Computational Science",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Pure Mathematics"],
+                "additional": ["Chemistry", "Biology", "Physics", "Computer Sciences"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "180": {
+        "Name": "Actuarial Science",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Pure Mathematics (with grade 'A')"],
+                "additional": [
+                    ["Chemistry", "Physics", "Biology", "Computer Science"],
+                    ["Accounts", "Business Studies", "Economics"]
+                ],
+                "min_subjects": 2,
+                "exclusion": ["General Paper"]
+            },
+            "Other": {
+                "additional": ["psychometric test", "oral interview"]
+            }
+        }
+    },
+    "181": {
+        "Name": "Financial Mathematics",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Pure Mathematics"],
+                "additional": ["other recognized equivalents"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "182": {
+        "Name": "Data Science and Systems",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Pure Mathematics (with grade 'A')"],
+                "additional": ["Science subjects"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "183": {
+        "Name": "Applied Statistics",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Pure Mathematics", "Statistics"]
+                ],
+                "min_subjects": 2,
+                "exclusion": ["General Paper"]
+            }
+        }
+    },
+    "184": {
+        "Name": "Nutrition and Dietetics (Normal Entry)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Chemistry"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "185": {
+        "Name": "Nutrition and Dietetics (Special Entry)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["Nutrition", "Hospital Food Service Management"]
+            }
+        }
+    },
+    "186": {
+        "Name": "Nutrition and Dietetics (Mature Entry)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["at least 25 years old", "2 years relevant work experience"]
+            }
+        }
+    },
+    "187": {
+        "Name": "Food Science and Technology (Normal Entry)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Chemistry"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "188": {
+        "Name": "Food Science and Technology (Special Entry)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["NC Science and Technology", "ND Food Science", "HND Food Science"]
+            }
+        }
+    },
+    "189": {
+        "Name": "Food Science and Technology (Mature Entry)",
+        "Requirements": {
+            "Other": {
+                "compulsory": ["at least 25 years old", "2 years relevant work experience"]
+            }
+        }
+    },
+    "190": {
+        "Name": "Space Science and Technology",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Pure Mathematics", "Physics"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "191": {
+        "Name": "Meteorology and Climate Science (Normal Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Physics", "Pure Mathematics"],
+                "min_subjects": 2
+            },
+            "Other": {
+                "additional": ["Basic Instruction Package for Meteorological Technicians (BIP-MetTech)", "at least two years relevant experience"]
+            }
+        }
+    },
+    "192": {
+        "Name": "Industrial Physics (Normal Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Pure Mathematics", "Physics"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "193": {
+        "Name": "Materials Science",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Pure Mathematics", "Physics", "Chemistry"],
+                "min_subjects": 3
+            }
+        }
+    },
+    "194": {
+        "Name": "Medical Physics (Normal Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "English Language"],
+                "min_subjects": 2
+            },
+            "A_Level": {
+                "compulsory": ["Pure Mathematics", "Physics"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "195": {
+        "Name": "Medical Physics (Special Entry)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["physical science", "appropriate engineering discipline"],
+                "additional": ["at least two years relevant work experience"]
+            }
+        }
+    },
+    "196": {
+        "Name": "Geography and Landscape Ecology (Normal Entry)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Geography", "Physics", "Biology", "Mathematics"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "197": {
+        "Name": "Geography and Landscape Ecology (Special Entry)",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["Diploma", "HND", "recognized equivalent as approved by the University in an appropriate subject from a recognised institution"],
+                "additional": ["at least 2 years working experience in a relevant field (proof of employment is required)"]
+            }
+        }
+    },
+    "198": {
+        "Name": "Forensic Psychology and Criminology",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "Mathematics", "Science subject"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "additional": ["Arts", "Sciences", "Commercials"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "199": {
+        "Name": "Organisational and Industrial Psychology",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "Mathematics", "Science subject"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "additional": ["Arts", "Sciences", "Commercials"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "200": {
+        "Name": "Anthropology and Cultural Heritage",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Arts subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "201": {
+        "Name": "Community Education and Lifelong Learning (Normal Entry)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Arts subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "202": {
+        "Name": "Community Education and Lifelong Learning (Special Entry)",
+        "Requirements": {
+            "O_Level": {
+                "min_subjects": 5
+            },
+            "Diploma": {
+                "compulsory": ["Adult Education", "Lifelong learning", "its equivalent"]
+            },
+            "Other": {
+                "compulsory": ["minimum of one year of experience working with adults in various fields of adult lifelong learning"]
+            }
+        }
+    },
+    "203": {
+        "Name": "Criminology and Society",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Arts subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "204": {
+        "Name": "Urbanisation and Social Amenities Development",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Arts subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "205": {
+        "Name": "Smart Technology Applications and Community Development",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Arts subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "206": {
+        "Name": "Social Innovation and Community Development",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Arts subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "207": {
+        "Name": "Industrial Sociology",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Arts subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "208": {
+        "Name": "Biotechnology",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Biology", "Chemistry", ["Mathematics", "Additional Mathematics", "Mechanical Mathematics", "Physics", "Food Science", "Crop Science", "Agricultural Engineering", "Food Technology and Design"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "209": {
+        "Name": "Applied Chemistry",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Chemistry", ["Physics", "Mathematics", "Pure Mathematics", "Mechanical Mathematics", "Additional Mathematics", "Statistics"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "210": {
+        "Name": "Applied Mathematics",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Mechanical Mathematics", "Pure Mathematics", "Additional Mathematics"],
+                    ["Physics", "Statistics", "Geography", "Chemistry", "Biology"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "211": {
+        "Name": "Applied Physics",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Physics", ["Mathematics", "Pure Mathematics", "Mechanical Mathematics", "Additional Mathematics"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "212": {
+        "Name": "Computer Science",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Pure Mathematics", "Additional Mathematics", "Mechanical Mathematics"],
+                    ["Physics", "Computer Science", "Software Engineering"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "2": {
+        "Name": "Mathematics",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Maths", ["Physics", "Computer Science"]],
+                "additional": ["any other subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "3": {
+        "Name": "Electrical Engineering",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Maths", ["Physics", "Computer Science"]],
+                "additional": ["any other subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "4": {
+        "Name": "Applied Mathematics",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Maths", ["Physics", "Computer Science"]],
+                "additional": ["any other subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "213": {
+        "Name": "Informatics",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Pure Mathematics", "Additional Mathematics", "Mechanical Mathematics", "Computer Science", "Software Engineering", "Physics"], "Science or Commercial subject"
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "214": {
+        "Name": "Earth Sciences",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Physics", ["Mathematics", "Pure Mathematics", "Mechanical Mathematics", "Additional Mathematics"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "215": {
+        "Name": "Operations Research and Statistics",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Statistics", "Mathematics", "Mechanical Mathematics", "Pure Mathematics", "Additional Mathematics"],
+                    ["Geography", "Management", "Economics"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "216": {
+        "Name": "Business Analytics",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Statistics", "Mathematics", "Mechanical Mathematics", "Pure Mathematics", "Additional Mathematics"],
+                    ["Geography", "Management", "Economics"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "217": {
+        "Name": "Radiography (August Intake Only)",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Mathematics", "Mechanical Mathematics", "Pure Mathematics", "Additional Mathematics"], "Physics", ["Biology", "Chemistry"]
+                    ],
+                    "min_subjects": 3
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["Radiography"],
+                    "additional": ["equivalent qualification", "at least 2 years clinical work experience"]
+                },
+                "Other": {
+                    "compulsory": ["employed and practising Radiography at the time of applying"]
+                }
+            }
+        }
+    },
+    "218": {
+        "Name": "Sports Science and Coaching",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Sports Science and Technology", "Physical Education", "Sport and Mass Display", "Sport Management", "Biology", "Food Science", "Food Technology and Design"]
+                    ],
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["Sports Science", "Physical Education", "recognized equivalent"]
+                }
+            }
+        }
+    },
+    "219": {
+        "Name": "Agricultural Engineering",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Pure Mathematics", "Additional Mathematics", "Mechanical Mathematics"], "Physics", ["Biology", "Agriculture", "Chemistry", "Crop Science", "Animal Science", "Computer Science", "any other approved equivalent Science subject"]
+                    ],
+                    "min_subjects": 3
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["National Diploma in Agriculture", "Agricultural Engineering", "Civil Engineering", "Surveying", "Mechanical", "equivalent"],
+                    "additional": ["2 years relevant working experience"]
+                },
+                "HND": {
+                    "compulsory": ["Higher National Diploma in Agriculture", "Agricultural Engineering", "Civil Engineering", "Surveying", "Mechanical", "equivalent"],
+                    "additional": ["one-year relevant working experience"]
+                },
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                }
+            },
+            "Mature_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Other": {
+                    "compulsory": ["at least 25 years of age", "relevant experience in the field of Agriculture or Engineering"],
+                    "additional": ["subjected to an interview"]
+                }
+            }
+        }
+    },
+    "220": {
+        "Name": "Agribusiness, Economics and Management",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": ["Science and/or Commercial subjects"],
+                    "min_subjects": 2
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma"]
+                }
+            },
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma in the field of Agriculture from an accredited institution"]
+                }
+            },
+            "Mature_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Other": {
+                    "compulsory": ["at least 25 years of age", "at least 5 years relevant working experience"],
+                    "additional": ["subjected to an interview"]
+                }
+            }
+        }
+    },
+    "221": {
+        "Name": "Sustainable Food Production",
+        "Requirements": {
+            "Normal_Entry": {
+                "A_Level": {
+                    "compulsory": [
+                        ["Food Science", "Biology", "Agriculture", "Crop Science", "Animal Science", "Geography"], "any other related Science or Commercial Subjects"
+                    ],
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma in any Agricultural field"]
+                }
+            },
+            "Mature_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Other": {
+                    "compulsory": ["25 years of age", "5-years relevant experience in the field of Agriculture"],
+                    "additional": ["subjected to an interview"]
+                }
+            }
+        }
+    },
+    "222": {
+        "Name": "Agricultural Genetics and Cell Technology",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": ["Biology", ["Geography", "Chemistry", "Crop Science", "Animal Science", "any other science subject"]],
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma in any Agricultural field"]
+                }
+            },
+            "Mature_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Other": {
+                    "compulsory": ["25 years of age", "5-years relevant experience in the field of Agriculture"],
+                    "additional": ["subjected to an interview"]
+                }
+            }
+        }
+    },
+    "223": {
+        "Name": "Agricultural Information Technology",
+        "Requirements": {
+            "Normal_Entry": {
+                "A_Level": {
+                    "compulsory": ["Mathematics", ["Computer Science", "Agriculture"], "any other relevant Science or Commercial subject"],
+                    "min_subjects": 2
+                },
+                "Certificate": {
+                    "compulsory": ["Relevant National Certificate"]
+                }
+            },
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["Agriculture", "Information Technology", "any related field from a recognized institution"]
+                }
+            },
+            "Mature_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Other": {
+                    "compulsory": ["at least 25 years old", "at least 5-years relevant industrial experience"]
+                }
+            }
+        }
+    },
+    "224": {
+        "Name": "Architectural Studies Honours Degree",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Mathematics", "Mechanical Mathematics", "Pure Mathematics", "Additional Mathematics"],
+                        ["Physics", "Art", "Geometrical & Mechanical Drawing", "Building Technology", "Design & Technology"]
+                    ],
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma in Architecture", "Architectural Technology"]
+                }
+            },
+            "Mature_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Other": {
+                    "compulsory": ["above 25 years of age", "at least 5 years after their last qualification", "submit a CV", "references", "Portfolio"],
+                    "additional": ["subjected to an interview"]
+                }
+            }
+        }
+    },
+    "225": {
+        "Name": "Quantity Surveying",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Pure Mathematics", "Further Mathematics", "Mechanical Mathematics", "Physics"],
+                        ["Geometrical & Mechanical Drawing", "Building Technology", "Design & Technology", "Technical Graphics", "Accounting"]
+                    ],
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma in Quantity Surveying"]
+                }
+            }
+        }
+    },
+    "226": {
+        "Name": "Construction Management",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Mathematics", "Further Mathematics", "Mechanical Mathematics", "Pure Mathematics", "Physics"],
+                        ["Statistics", "Geography", "Geometrical & Mechanical Drawing", "Building Technology", "Design & Technology", "Technical Graphics", "Accounting", "Business Studies"]
+                    ],
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma in Architectural Technology", "Civil Engineering", "Civil and Construction Engineering", "Quantity Surveying", "Town Planning", "Surveying and Geomatics", "Construction Technology"]
+                }
+            }
+        }
+    },
+    "227": {
+        "Name": "Property Development and Estate Management",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Geography", "Mathematics", "Mechanical Mathematics", "Pure Mathematics", "Additional Mathematics", "Accounting", "Economics", "Business Studies", "Management of Business"]
+                    ],
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma in Town Planning", "Valuation and Estate Management", "Quantity Surveying", "Architectural Technology", "Civil Engineering Finance and Business Studies"]
+                },
+                "Certificate": {
+                    "compulsory": ["Real Estate Institute of Zimbabwe certification or its equivalence"]
+                },
+                "Other": {
+                    "additional": ["Additional qualifications and work experience will be an added advantage"]
+                }
+            }
+        }
+    },
+    "228": {
+        "Name": "Chemical Engineering",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Mechanical Mathematics", "Pure Mathematics", "Additional Mathematics"], "Chemistry", ["Physics", "Biology"]
+                    ],
+                    "min_subjects": 3
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["Relevant National Diploma"],
+                    "additional": ["2 years' experience"]
+                },
+                "HND": {
+                    "compulsory": ["Relevant Higher National Diploma"],
+                    "additional": ["1-year experience"]
+                }
+            }
+        }
+    },
+    "229": {
+        "Name": "Civil and Water Engineering",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Pure Mathematics", "Additional Mathematics", "Mechanical Mathematics"], "Physics", ["Chemistry", "Computer Science", "Engineering Drawing"]
+                    ],
+                    "min_subjects": 3
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["Relevant National Diploma"],
+                    "additional": ["2 years experience"]
+                },
+                "HND": {
+                    "compulsory": ["Relevant Higher National Diploma"],
+                    "additional": ["1-year experience"]
+                }
+            }
+        }
+    },
+    "230": {
+        "Name": "Electronic Engineering",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Pure Mathematics", "Additional Mathematics", "Mechanical Mathematics"], "Physics", ["Chemistry", "Computer Science"]
+                    ],
+                    "min_subjects": 3
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["Relevant National Diploma"],
+                    "additional": ["2 years experience"]
+                },
+                "HND": {
+                    "compulsory": ["Relevant Higher National Diploma"],
+                    "additional": ["1 year working experience"]
+                }
+            }
+        }
+    },
+    "231": {
+        "Name": "Industrial and Manufacturing Engineering",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics", "Science/Chemistry"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Mathematics", "Pure Mathematics", "Additional Mathematics", "Mechanical Mathematics"], "Physics", ["Chemistry", "Computer Science", "Engineering Drawing", "Technical Graphics", "Mechanical Technology and Design", "Geometrical and Mechanical Drawing"]
+                    ],
+                    "min_subjects": 3
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["National Diploma in Mechanical Engineering", "Plant Engineering", "Draughting and Draughting Technology", "equivalent"],
+                    "additional": ["2 years' relevant experience"]
+                }
+            }
+        }
+    },
+    "232": {
+        "Name": "Fibre and Polymer Engineering",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": ["Chemistry", ["Mathematics", "Additional Mathematics", "Mechanical Mathematics", "Pure Mathematics"],
+                        ["Physics", "Biology", "Geography", "Statistics", "Computer Science", "Engineering Drawing", "Technical Graphics", "Mechanical Technology and Design", "Geometrical and Mechanical Drawing"]
+                    ],
+                    "min_subjects": 3
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["Polymer Science/Engineering", "Fibre Science and Engineering", "Chemistry", "Rubber Technology", "Plastics Technology equivalent"],
+                    "additional": ["2 years of relevant working experience"]
+                }
+            }
+        }
+    },
+    "233": {
+        "Name": "Public Health (August Intake Only)",
+        "Requirements": {
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma in Environmental Health", "any other equivalent qualification"],
+                    "additional": ["2 years work experience"]
+                }
+            }
+        }
+    },
+    "234": {
+        "Name": "Geographical Information Systems and Remote Sensing in Natural Resources Management",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": ["Geography", ["Biology", "Chemistry"]],
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["National Diploma in Geographical Information Systems", "Geo-Informatics and Remote Sensing", "its equivalent"]
+                },
+                "Other": {
+                    "additional": ["Applicants will be subjected to an interview"]
+                }
+            }
+        }
+    },
+    "235": {
+        "Name": "Environmental Science and Health",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Biology", ["Chemistry", "Geography", "Physics", "Mathematics", "Mechanical Mathematics", "Pure Mathematics", "Additional Mathematics", "Agriculture", "Food Science"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "236": {
+        "Name": "Forest Resources and Wildlife Management",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language", "Mathematics"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "compulsory": [
+                        ["Biology", "Agriculture", "Crop Science"], "any other Science subject"
+                    ],
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["National Diploma in a relevant field"]
+                }
+            },
+            "Mature_Entry": {
+                "Other": {
+                    "compulsory": ["at least 25 years old", "relevant experience in the field of wildlife, Forestry and Natural Resources"],
+                    "additional": ["subjected to an interview"]
+                }
+            }
+        }
+    },
+    "237": {
+        "Name": "Design and Technology Education (Honours) Degree (2-year programme)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "Diploma/Certificate": {
+                "compulsory": ["recognised Diploma or Certificate in Education in any of the following: Applied Art and Design", "Clothing, Textile and Fashion Design", "Design and Technology"]
+            },
+            "A_Level": {
+                "additional": ["relevant 'A' Level subject will be an advantage"]
+            }
+        }
+    },
+    "238": {
+        "Name": "Science Education (Honours) Degree (2-year programme)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "Diploma/Certificate": {
+                "compulsory": ["recognised Diploma or Certificate in Education in any of the following: Accounting and Business Studies", "Mathematics", "Biology", "Chemistry", "Physics", "Computer Science"]
+            }
+        }
+    },
+    "239": {
+        "Name": "Technology Education (Honours) Degree (2-year programme)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "Diploma/Certificate": {
+                "compulsory": ["recognised Diploma or Certificate in Engineering, Technology, Technical or Vocational Education in any of the following: Civil and Construction Engineering", "Electrical and Electronic Engineering", "Mechanical and Industrial Engineering", "Technical Graphics", "Wood Science and Technology"]
+            }
+        }
+    },
+    "240": {
+        "Name": "Design and Technology Education Honours Degree (4-year programme)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Applied Art and Design", "Clothing, Textile", "Fashion Design", "Design and Technology"], "relevant subject of specialisation or its equivalent"
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "241": {
+        "Name": "Science Education Honours Degree (4-year programme)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Accounting and Business Studies", "Mathematics", "Biology", "Chemistry", "Physics", "Computer Science"], "relevant subject of specialisation or its equivalent"
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "242": {
+        "Name": "Technology Education Honours Degree (4-year programme)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Civil and Construction Engineering", "Mechanical and Industrial Engineering", "Technical Graphics", "Wood Science and Technology", "Electrical and Electronics Engineering"], "relevant subject of specialisation or its equivalent"
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "243": {
+        "Name": "Midwifery",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Science subject"],
+                "min_subjects": 5
+            },
+            "Diploma": {
+                "compulsory": ["Registered General Nurse with a Diploma in Midwifery"]
+            },
+            "Other": {
+                "compulsory": ["Registered as a Midwife", "Registered with the Nurses Council of Zimbabwe", "valid Practising Certificate", "2 years work experience post midwifery qualification"]
+            }
+        }
+    },
+    "244": {
+        "Name": "Health Information Management",
+        "Requirements": {
+            "Normal_Entry": {
+                "A_Level": {
+                    "compulsory": ["Biology", "any other two science subjects"],
+                    "min_subjects": 3
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["National Diploma in Health Information Management", "Records and Archives Management", "Library and Information Science Information Communication Technology", "any other recognized equivalent qualifications"]
+                },
+                "HND": {
+                    "additional": ["Candidates with a Higher National Diploma in the above qualifications will be credited in accordance to the relevance of their courses to the degree in Health Information Management"]
+                }
+            }
+        }
+    },
+    "245": {
+        "Name": "Accounting",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Accounting", ["Mathematics", "Statistics", "Economics", "Business Studies/Business Enterprise Skills"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "246": {
+        "Name": "Actuarial Science",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Statistics", "Commercial subject"],
+                "min_subjects": 3
+            }
+        }
+    },
+    
+    "247": {
+        "Name": "Banking and Investment Management",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Economics", ["Accounting", "Mathematics", "Business Studies", "any other commercial subject"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "248": {
+        "Name": "Economics and Econometrics",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Economics", "two commercial subjects"],
+                "min_subjects": 3,
+                "added_advantage": "Advanced Level Mathematics"
+            }
+        }
+    },
+    "249": {
+        "Name": "Finance",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Economics", "Accounting", "Mathematics"], "any other commercial subject"
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "250": {
+        "Name": "Fiscal Studies",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Economics", ["Accounting", "Mathematics", "Business Studies"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "251": {
+        "Name": "Marketing",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Management of Business", "Mathematics", "Accounting", "Statistics", "Economics", "Geography"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "252": {
+        "Name": "Risk Management and Insurance",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Economics", "Mathematics"], "any other Commercial subject"
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "253": {
+        "Name": "Management",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Commercial or Social Science subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "254": {
+        "Name": "Journalism and Media Studies",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["any Language", "any Arts subject"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "255": {
+        "Name": "Library and Information Science",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "min_subjects": 2
+                },
+                "Diploma": {
+                    "compulsory": ["relevant National Diploma"]
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["National Diploma in Library and Information Science", "Records and Archives Management", "their equivalent"]
+                }
+            }
+        }
+    },
+    "256": {
+        "Name": "Records and Archives Management",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "min_subjects": 2
+                },
+                "Diploma": {
+                    "compulsory": ["relevant National Diploma"]
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["National Diploma in Records Management and Information Science", "Records and Archives Management", "Library and Information Science or an equivalent"]
+                }
+            }
+        }
+    },
+    "257": {
+        "Name": "Information Management and Technology",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English language"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "min_subjects": 2
+                }
+            },
+            "Special_Entry": {
+                "Diploma": {
+                    "compulsory": ["National Diploma in Records Management and Information Science", "Records and Archives Management", "Library and Information Science or an equivalent"]
+                }
+            }
+        }
+    },
+    "258": {
+        "Name": "Publishing Media and Technology Studies",
+        "Requirements": {
+            "Normal_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language"],
+                    "min_subjects": 5
+                },
+                "A_Level": {
+                    "min_subjects": 2
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma"]
+                }
+            },
+            "Special_Entry": {
+                "O_Level": {
+                    "compulsory": ["English Language"],
+                    "min_subjects": 5
+                },
+                "Diploma": {
+                    "compulsory": ["National Diploma in Information or Communication or equivalent qualification in the subject or skills related to publishing"]
+                }
+            }
+        }
+    },
+    "259": {
+        "Name": "Industrial Electronics",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "260": {
+        "Name": "Production Engineering",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Biology", "Chemistry", "Agriculture", "Physics", "their recognised equivalents"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "261": {
+        "Name": "Mechatronics",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Biology", "Chemistry", "Agriculture", "Physics", "their recognised equivalents"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "262": {
+        "Name": "Computer Engineering",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Biology", "Chemistry", "Agriculture", "Physics", "their recognised equivalents"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "263": {
+        "Name": "Environmental Engineering",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Biology", "Chemistry", "Agriculture", "Physics", "their recognised equivalents"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "264": {
+        "Name": "Fuels and Energy",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Chemistry", "acceptable equivalents"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "265": {
+        "Name": "Information Technology",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", "any other Science or Commercial subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "266": {
+        "Name": "Agricultural Engineering (Mechanisation and Irrigation)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Chemistry", "Biology", "Geography", "Engineering Drawing", "Technical Drawing", "Computer Studies", "Agriculture", "any approved equivalent"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "267": {
+        "Name": "Food Science and Technology",
+        "Requirements": {
+            "O_Level": {
+                "added_credit": ["Chemistry", "Biology", "Mathematics", "Physics", "Nutrition", "Food science"]
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Chemistry", "Food Science"],
+                    ["Biology", "Statistics", "Mathematics", "any approved equivalents"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "268": {
+        "Name": "Animal Production and Technology",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Agriculture related subject"],
+                    ["Statistics", "Chemistry", "Geography", "Mathematics", "Additional Mathematics", "Pure Mathematics", "Mechanical Mathematics", "Physics", "any approved equivalents"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "269": {
+        "Name": "Crop Science and Technology (Agronomy, Horticulture and Plant Breeding)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "equivalent"],
+                    ["Crop Science", "Statistics", "Chemistry", "Agriculture", "Geography", "Mathematics", "Additional Mathematics", "Pure Mathematics", "Mechanical Mathematics", "Geography", "Physics", "any approved equivalents"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "270": {
+        "Name": "Hospitality and Tourism",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "271": {
+        "Name": "Gastronomy and Culinary Arts",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "272": {
+        "Name": "Travel, Leisure and Recreation",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "273": {
+        "Name": "Event Management",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "274": {
+        "Name": "Material Science and Engineering",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Physics", "Chemistry", "Biology", "any equivalent subject"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "275": {
+        "Name": "Mathematics",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", ["Biology", "Chemistry", "Computer Science", "Physics", "their recognized equivalents"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "276": {
+        "Name": "Chemistry",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Chemistry", ["Mathematics", "Physics", "Computer Science", "Biology Physical Science", "their recognized equivalents"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "277": {
+        "Name": "Biological Sciences",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Biology", ["Mathematics", "Physics", "Computer Science", "Chemistry", "Physical Science", "Agriculture", "their recognized equivalents"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "278": {
+        "Name": "Freshwater and Fishery Science",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Geography", "Agriculture", "Chemistry", "Mathematics", "any other relevant combination and equivalent equivalents"]
+                ],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["relevant National Diploma", "Higher National Diploma from a recognized and accredited Institution"]
+            }
+        }
+    },
+    "279": {
+        "Name": "Wildlife Ecology and Conservation",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Geography", "Chemistry", "Agriculture"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "280": {
+        "Name": "Environmental Conservation and Geo-informatics",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Geography", ["Mathematics", "Computer Science", "Biology", "Agriculture", "Physics", "Chemistry", "Food Science", "Animal Science", "Crop Science", "Horticulture", "Sociology", "Statistics", "equivalent subjects"]]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "281": {
+        "Name": "Environmental Science and Technology",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Chemistry", "Biology", "Mathematics", "Additional Mathematics", "Pure Mathematics", "Mechanical Mathematics", "Geography", "Agriculture", "Physics", "Agricultural Engineering", "Crop Science", "Animal Science", "any Science Subject"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "282": {
+        "Name": "Accountancy",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Accounting", ["Economics", "Accounting", "Mathematics", "Geography", "Statistics", "Computers"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "283": {
+        "Name": "International Marketing",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "284": {
+        "Name": "Retail and Operations Management",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "285": {
+        "Name": "Business Management and Entrepreneurship",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "286": {
+        "Name": "Supply Chain Management (Procurement, Logistics or Transport)",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "287": {
+        "Name": "Biotechnology",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Biology", "Chemistry", ["Mathematics", "Geography", "Physics", "Animal Science", "Crop Science", "Horticulture", "any Science subject"]],
+                "min_subjects": 3
+            }
+        }
+    },
+    "288": {
+        "Name": "Environmental Health",
+        "Requirements": {
+            "Diploma": {
+                "compulsory": ["National Diploma in Environmental Health"]
+            }
+        }
+    },
+    "289": {
+        "Name": "Creative Art and Industrial Design",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2,
+                "added_advantage": "Art & Design"
+            },
+            "Diploma": {
+                "added_advantage": "National Diploma in Art and Design"
+            },
+            "Teaching_Qualification": {
+                "added_advantage": "recognized teaching qualification with specialization in Art and Design"
+            }
+        }
+    },
+    "290": {
+        "Name": "Visual Communication & Multimedia Design",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2,
+                "added_advantage": "Art & Design"
+            },
+            "Diploma": {
+                "added_advantage": "National Diploma in Art and Design"
+            },
+            "Teaching_Qualification": {
+                "added_advantage": "recognized teaching qualification with specialization in Art and Design"
+            }
+        }
+    },
+    "291": {
+        "Name": "Fine Art",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2,
+                "added_advantage": "Art & Design"
+            },
+            "Diploma": {
+                "added_advantage": "National Diploma in Art and Design"
+            },
+            "Teaching_Qualification": {
+                "added_advantage": "recognized teaching qualification with specialization in Art and Design"
+            }
+        }
+    },
+    "292": {
+        "Name": "Clothing Fashion Design",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2,
+                "added_advantage": "Textiles & Clothing Design"
+            },
+            "Diploma": {
+                "added_advantage": "National Diploma in a relevant field"
+            }
+        }
+    },
+    "294": {
+        "Name": "Bachelor of Science Honours in Agronomy",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Crop Science", "Horticulture"], "any Science"
+                ]
+            },
+            "Diploma": {
+                "compulsory": ["Relevant Diploma in Agriculture"]
+            }
+        }
+    },
+    "295": {
+        "Name": "Bachelor of Science Honours in Crop Production and Horticulture",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Crop Science", "Horticulture"], "any Science"
+                ]
+            },
+            "Diploma": {
+                "compulsory": ["Relevant Diploma in Agriculture/Horticulture"]
+            }
+        }
+    },
+    "296": {
+        "Name": "Bachelor of Science Honours in Crop Protection",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Crop Science", "Horticulture"], "any Sciences"
+                ]
+            },
+            "Diploma": {
+                "compulsory": ["Relevant Diploma in Agriculture"]
+            }
+        }
+    },
+    "297": {
+        "Name": "Bachelor of Science Honours in Horticulture",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Crop Science", "Horticulture"], "any Sciences"
+                ]
+            },
+            "Diploma": {
+                "compulsory": ["Relevant Diploma in Agriculture/Horticulture"]
+            }
+        }
+    },
+    "298": {
+        "Name": "Bachelor of Science Honours in Agronomy majoring in Crop Improvement and Seed Systems",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Biology", "any Sciences"]
+            },
+            "Diploma": {
+                "compulsory": ["Relevant Diploma in Agriculture"]
+            }
+        }
+    },
+    "299": {
+        "Name": "Master of Science in Crop Science",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first degree in Agronomy", "Crop Science or Horticulture or related fields from a recognised University"]
+            }
+        }
+    },
+    "300": {
+        "Name": "Master of Science in Crop Protection",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first degree in Agronomy", "Crop Science or Horticulture or related fields from a recognised University"]
+            }
+        }
+    },
+    {
+    "301": {
+        "Name": "Bachelor of Science (Honours) in Agricultural Economics and Development",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Economics", "Statistics", "Business Studies"],
+                    ["Accounting", "Geography", "Sociology", "Agriculture", "Biology"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "302": {
+        "Name": "Bachelor of Science (Honours) in Agricultural Economics and Development",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English Language", "Mathematics"],
+                "min_subjects": 5
+            },
+            "Diploma": {
+                "compulsory": ["Diploma in Agriculture from any college recognised by MSU"]
+            }
+        }
+    },
+    "303": {
+        "Name": "Bachelor of Science (Honours) in Information Technology for Agricultural Systems",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Statistics", "Computer Science"],
+                    ["Economics", "Business Studies", "Accounting", "Geography", "Agriculture", "Biology"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "304": {
+        "Name": "Bachelor of Science (Honours) in Applied Agricultural Sciences and Business",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Economics", "Statistics", "Business Studies", "Accounting", "Geography", "Sociology", "Agriculture", "Biology"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "305": {
+        "Name": "Bachelor of Science (Honours) in Agricultural Value Chain and Marketing",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Economics", "Statistics", "Business Studies", "Accounting", "Geography", "Sociology", "Agriculture", "Biology"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "306": {
+        "Name": "Master of Science in Applied Agricultural Economics",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["at least a lower second class (2.2) first degree in Agriculture", "Agricultural Economics", "Economics", "any other related programme from a recognized University"]
+            }
+        }
+    },
+    "307": {
+        "Name": "Master of Science in Agricultural Informatics and Data Analytics",
+        "Requirements": {
+            "Undergraduate_Degree": {
+                "compulsory": ["at least a lower second class (2.2) undergraduate degree in Agricultural Informatics", "Agricultural Economics", "Agricultural Sciences", "Bioinformatics", "Information Technology", "Data Science", "Statistics", "Biostatistics", "Geographical information systems or a related field from a recognized university"]
+            }
+        }
+    },
+    "308": {
+        "Name": "Bachelor of Science Honours Degree in Animal and Wildlife Sciences",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English", "Mathematics"],
+                "min_grade": "C",
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Chemistry", "Agriculture", "Geography", "physics"]
+                ],
+                "min_subjects": 2,
+                "min_science_subjects": 1
+            },
+            "Diploma": {
+                "compulsory": ["Relevant Diploma in Agriculture"]
+            }
+        }
+    },
+    "309": {
+        "Name": "Masters in Animal Breeding and Biotechnology",
+        "Requirements": {
+            "Honours_Degree": {
+                "compulsory": ["Honours degree (class 2.2/GPA 2.0 or better) in Agriculture or the biological sciences in the following disciplines: Animal Science, Animal Health and Production, Biological Sciences, Biotechnology and Natural Resources, Veterinary Science or related fields from an accredited University"],
+                "third_class_interview_required": true
+            }
+        }
+    },
+    "310": {
+        "Name": "Bachelor of Science Honours in Dairy Sciences",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Chemistry", "Agriculture", "Geography", "Physics"]
+                ],
+                "min_subjects": 2,
+                "min_science_subjects": 1
+            },
+            "Diploma": {
+                "compulsory": ["Relevant Diploma in Agriculture"]
+            }
+        }
+    },
+    "311": {
+        "Name": "Bachelor of Science Honours in Poultry Sciences",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Chemistry", "Agriculture", "Geography", "Physics"]
+                ],
+                "min_subjects": 2,
+                "min_science_subjects": 1
+            },
+            "Diploma": {
+                "compulsory": ["Relevant Diploma in Agriculture"]
+            }
+        }
+    },
+    "312": {
+        "Name": "Bachelor of Science Honours in Wildlife Ecology and Management",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Biology", "Chemistry", "Agriculture", "Geography", "Physics"]
+                ],
+                "min_subjects": 2,
+                "min_science_subjects": 1
+            },
+            "Diploma": {
+                "compulsory": ["Relevant Diploma in Agriculture"]
+            }
+        }
+    },
+    "313": {
+        "Name": "Bachelor of Science Honours in Land and Water Resources Management",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English language", "Science", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Geography", "any Sciences subject"]
+                ],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "consideration": "good pass in any relevant diploma for prospective students without 'A' level passes"
+            }
+        }
+    },
+    "314": {
+        "Name": "Bachelor of Science Honours in Environmental Science and Technology",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English language", "Science", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Geography", "any Sciences subject"]
+                ],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "consideration": "good pass in any relevant diploma for prospective students without 'A' level passes"
+            }
+        }
+    },
+    "315": {
+        "Name": "Bachelor of Science Honours in Water and Sanitation",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English language", "Science", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Geography", "any Sciences subject"]
+                ],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "consideration": "good pass in any relevant diploma for prospective students without 'A' level passes"
+            }
+        }
+    },
+    "316": {
+        "Name": "Bachelor of Science Honours in Biosystems Engineering",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English language", "Science", "Mathematics"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "any Sciences subject"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "317": {
+        "Name": "Master of Science in Land and Water Resources Management",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["at least a lower second class (2.2) pass in BSc (Hons) Land and Water Resources Management Honours Degree", "BSc (Hons) Geography and Environmental Science Honours Degree or any relevant BSc (Hons) degree or any other related programme from a recognized University"]
+            }
+        }
+    },
+    "318": {
+        "Name": "Bachelor of Arts Honours in Development Planning and Management",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Arts", "Humanities", "Social Sciences subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "319": {
+        "Name": "Bachelor of Arts Honors in Development Practice",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Arts", "Humanities", "Social Science subjects"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "320": {
+        "Name": "Special Honors in Monitoring and Evaluation",
+        "Requirements": {
+            "Bachelor_Degree": {
+                "compulsory": ["Any Bachelor's Degree"]
+            }
+        }
+    },
+    "321": {
+        "Name": "Bachelor of Arts in History and Heritage Studies Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["History", "Heritage Studies"], "any other pass in Arts, Humanities and Social Sciences"
+                ]
+            }
+        }
+    },
+    "322": {
+        "Name": "Bachelor of Arts in History and International Studies Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["History", "any other pass in Arts, Humanities or Social Sciences"]
+            }
+        }
+    },
+    "323": {
+        "Name": "Honours in English and Communication",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Literature in English", ["Shona", "Ndebele", "History", "Divinity", "Geography", "Sociology"]],
+                "min_subjects": 2
+            }
+        }
+    },
+    "324": {
+        "Name": "Bachelor of Arts Honours in African Languages and Culture (HAFL)",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["English language", "an African language"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": [
+                    ["any African language", "Literature in English", "History", "Divinity", "Geography", "Sociology", "among others"]
+                ],
+                "min_subjects": 2
+            }
+        }
+    },
+    "325": {
+        "Name": "Bachelor of Arts Honours in Religion and Human Development (HREDS)",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Family and Religious Studies", "Religious Studies", "Divinity"], "any Level passing Arts, Humanities and Social Sciences"
+                ]
+            },
+            "Diploma": {
+                "compulsory": ["diploma in Religious Studies/Theology from a reputable Institution"]
+            }
+        }
+    },
+    "326": {
+        "Name": "Bachelor of Arts Honours in Film and Theatre Arts",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "327": {
+        "Name": "Bachelor of Arts Honours in Archaeology, Cultural Heritage and Museum Studies",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "328": {
+        "Name": "Bachelor of Arts Honours in Records and Archives Management",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+    "329": {
+        "Name": "Master of Arts in Film, TV and Digital Technologies",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first Degree in Communication", "Film and Media or any other related Honours degree"]
+            }
+        }
+    },
+    "330": {
+        "Name": "Master of Arts in Strategic Communication Studies",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first Degree in Communication", "Film", "Literature or Linguistics Degree or any other acceptable degree"]
+            }
+        }
+    },
+    "331": {
+        "Name": "Master of Arts in Cultural Heritage Studies",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first Degree in English Literature/ African Languages"]
+            }
+        }
+    },
+    "332": {
+        "Name": "Masters of Arts in Museum Studies",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first Degree in English Literature/ African Languages"]
+            }
+        }
+    },
+    "333": {
+        "Name": "Master in Monitoring and Evaluation",
+        "Requirements": {
+            "Bachelor_Degree": {
+                "compulsory": ["relevant Bachelor's Degree"]
+            },
+            "Special_Honours_or_Certificate": {
+                "compulsory": ["special Honours or certificate in Monitoring and Evaluation"]
+            }
+        }
+    },
+    "334": {
+        "Name": "Masters in Development Studies",
+        "Requirements": {
+            "Bachelor_Degree": {
+                "compulsory": ["relevant Bachelor's Degree in Development Studies", "Humanities", "and social sciences"]
+            }
+        }
+    },
+    "335": {
+        "Name": "Master of Arts in Global History",
+        "Requirements": {
+            "Honours_Degree": {
+                "compulsory": ["good Honours Degree in a relevant field such as History", "International Studies/Affairs", "Development Studies and Economic History"]
+            }
+        }
+    },
+    "336": {
+        "Name": "Master of Arts in African History",
+        "Requirements": {
+            "Honours_Degree": {
+                "compulsory": ["good Honours Degree in a relevant field such as History", "International Studies/Affairs and Economic History"]
+            }
+        }
+    },
+    "337": {
+        "Name": "Post-Graduate Diploma in Translation and Interpreting Studies (PDTI)",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first Degree in Arts and Humanities"],
+                "min_classification": "2.1 or better"
+            }
+        }
+    },
+    "338": {
+        "Name": "Master of Arts in Applied Linguistics Degree",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first Degree in any of the following: Linguistics", "English and Communication", "African Languages and Culture or an approved equivalent from any recognised university"]
+            }
+        }
+    },
+    "339": {
+        "Name": "Master of Arts in African Languages and Culture",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first Degree in any of the following: African Languages and Culture", "English and Communication", "Linguistics or an approved equivalent from any recognised university"]
+            }
+        }
+    },
+    "340": {
+        "Name": "Master of Arts in African and Diasporan Literature Degree",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first Degree in any of the following: English and Communication", "African Languages and Culture or an approved equivalent from any recognised university"]
+            }
+        }
+    },
+    "341": {
+        "Name": "Master of Arts in Religious Studies (MARS)",
+        "Requirements": {
+            "First_Degree": {
+                "compulsory": ["good first Degree in Religious Studies or Theology"],
+                "min_classification": "lower second division (2.2)"
+            }
+        }
+    },
+    "342": {
+        "Name": "Bachelor of Science Honors degree in Geomatics specialization in land surveying or Geographic Information Science",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics", "Geography", "English"],
+                "min_subjects": 5
+            },
+            "A_Level": {
+                "compulsory": ["Mathematics", "Physics"],
+                "min_subjects": 2
+            }
+        }
+    },
+    "343": {
+        "Name": "Bachelor of Commerce in Applied Accounting Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Accounting", "any one Commercial subject"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["National Diploma/HND (complete qualification) in Accounting or any equivalent tertiary qualification"]
+            },
+            "Professional_Qualification": {
+                "compulsory": ["Complete CIS", "CIMA", "ACCA"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "compulsory": ["relevant 'A' Level subjects"],
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment in relevant accounting departments"
+            }
+        }
+    },
+    "344": {
+        "Name": "Bachelor of Commerce in Audit and Risk Management Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Commercial subjects"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["National Diploma in Auditing", "Accounting", "Risk Management or any other relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "compulsory": ["relevant 'A' Level subjects"],
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment"
+            }
+        }
+    },
+    "345": {
+        "Name": "Bachelor of Commerce in Business Healthcare Management Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Commercial subjects"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["ND/HND in a Business-related field or any relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "compulsory": ["relevant 'A' Level subjects"],
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment"
+            }
+        }
+    },
+    "346": {
+        "Name": "Bachelor of Commerce in Business Management Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Commercial subjects"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["ND/HND in Business Studies", "Accountancy", "Purchasing", "Banking and Finance and Secretarial Studies or any other relevant Qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "compulsory": ["relevant 'A' Level subjects"],
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment"
+            }
+        }
+    },
+    "347": {
+        "Name": "Bachelor of Commerce in Consumer and Marketing Intelligence Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["ND/HND in Marketing Management, or any other relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment"
+            }
+        }
+    },
+    "348": {
+        "Name": "Bachelor of Commerce in Data Science and Informatics Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Mathematics", "any one Commercial subject"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["ND/HND in an Information Technology related field or any other relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "compulsory": ["relevant 'A' Level subjects"],
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment in the field of IT"
+            }
+        }
+    },
+    "349": {
+        "Name": "Bachelor of Commerce in Economics and Econometric Modelling Honours Degree",
+        "Requirements": {
+            "O_Level": {
+                "compulsory": ["Mathematics"],
+                "min_grade": "B"
+            },
+            "A_Level": {
+                "compulsory": ["Commercial", "Sciences or Arts subjects"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["ND/HND in a Business-related field or any other relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "O_Level": {
+                    "compulsory": ["Mathematics"],
+                    "min_pass": "B"
+                },
+                "A_Level": {
+                    "compulsory": ["relevant 'A' Level subjects"],
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment"
+            }
+        }
+    },
+    "350": {
+        "Name": "Bachelor of Commerce in Finance and Digital Banking Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": [
+                    ["Mathematics", "Economics"], "any other Commercial subject"
+                ],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["ND/HND in Banking and Finance related field or any other relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "compulsory": ["relevant 'A' Level subject"],
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment"
+            }
+        }
+    },
+    "351": {
+        "Name": "Bachelor of Commerce in Financial Economics and Investment Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Commercial", "Sciences or Arts subjects"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["ND/HND in a Business-related field or any other relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "compulsory": ["relevant 'A' Level subjects"],
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment"
+            }
+        }
+    },
+    "352": {
+        "Name": "Bachelor of Commerce in Logistics and Supply Chain Management Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["ND/HND in Logistics", "Retail", "Procurement or any other relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment"
+            }
+        }
+    },
+    "353": {
+        "Name": "Bachelor of Commerce in Risk Management and Insurance Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "compulsory": ["Commercial subjects"],
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["Diploma or Advanced Diploma in Insurance", "ND/HND in Business Studies or any other relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "compulsory": ["relevant 'A' Level subjects"],
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment"
+            }
+        }
+    },
+    "354": {
+        "Name": "Bachelor of Commerce in Tourism and Hospitality Management Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            },
+            "Diploma": {
+                "compulsory": ["ND/HND in Tourism", "Hospitality", "Customer Care", "Marketing", "Professional Cookery", "Tour Guiding or any other relevant qualification"]
+            },
+            "Additional_Requirements_Block_Release": {
+                "A_Level": {
+                    "min_subjects": 2
+                },
+                "Employment_Confirmation": "Confirmation of employment in any tourism-related or hospitality organisation"
+            }
+        }
+    },
+    "355": {
+        "Name": "Bachelor of Commerce in Sustainable Tourism Management Honours Degree",
+        "Requirements": {
+            "A_Level": {
+                "min_subjects": 2
+            }
+        }
+    },
+  "356": {
+    "Name": "Master of Commerce in Public Sector Accounting and Finance",
+    "Requirements": {
+      "Note": "This program requires an Honours degree in Accounting or Public Sector Accounting and Finance."
+    }
+  },
+  "357": {
+    "Name": "Master of Commerce in Forensic Auditing and Accounting",
+    "Requirements": {
+      "Note": "This program requires an Honours Degree in Accounting, Forensic Accounting, Auditing, or Banking and Finance."
+    }
+  },
+  "358": {
+    "Name": "Master of Commerce in Financial Economics and Investment",
+    "Requirements": {
+      "Note": "This program requires an Honours Degree in Economics, Financial Economics and Investment, Economics and Econometric Modelling, Agricultural Economics, Banking and Finance, Fiscal Studies, or a related field."
+    }
+  },
+  "359": {
+    "Name": "Master of Commerce in Strategic Management and Corporate Governance",
+    "Requirements": {
+      "Note": "This program requires an Honours Degree in Management, Accounting, Human Resource Management, Economics, Tourism, Insurance and Risk Management, Development Studies, or other degree qualification approved by the Department."
+    }
+  },
+  "360": {
+    "Name": "Master of Commerce in Strategy and Innovation",
+    "Requirements": {
+      "Note": "This program requires an Honours Degree in Entrepreneurship, Information Systems, Marketing, Computer Science, Agriculture, or Business Management."
+    }
+  },
+  "361": {
+    "Name": "Master of Commerce in Supply Chain Management",
+    "Requirements": {
+      "Note": "This program requires an Honours Degree in Logistics, Supply Chain Management, Procurement, Purchasing, Retailing, Marketing, or other Business Management discipline."
+    }
+  },
+  "362": {
+    "Name": "Master of Commerce in Information Systems Management",
+    "Requirements": {
+      "Note": "This program requires an Honours Degree in Information Systems, Computer Science, or any relevant qualification."
+    }
+  },
+  "363": {
+    "Name": "Master of Commerce in Tourism and Hospitality Enterprises Management",
+    "Requirements": {
+      "Note": "This program requires a Bachelor of Commerce Honours Degree in Tourism and Hospitality Management or an equivalent qualification."
+    }
+  },
+  "364": {
+    "Name": "Master of Commerce Finance and Digital Banking",
+    "Requirements": {
+      "Note": "This program requires an Honours Degree in Finance and Digital Banking, Accounting, Banking and Finance, or any other relevant degree."
+    }
+  },
+  "365": {
+    "Name": "Master of Commerce in Strategic Marketing",
+    "Requirements": {
+      "Note": "This program requires an Honours Degree in Marketing, Business Management, Entrepreneurship, Tourism and Hospitality Management, Supply Chain Management, or any other relevant degree."
+    }
+  },
+  "366": {
+    "Name": "Masters in Business Administration",
+    "Requirements": {
+      "Note": "Applicants must be at least 25 years old, hold any relevant degree, and have at least two (2) years of managerial experience."
+    }
+  },
+  "367": {
+    "Name": "Executive Masters in Business Administration (EMBA)",
+    "Requirements": {
+      "Note": "Applicants must be at least 35 years old, be an Executive of any business or have been a manager for at least five (5) years, and hold any relevant degree."
+    }
+  },
+  "368": {
+    "Name": "Bachelor of Engineering Honours Degree in Electrical and Electronic Engineering (HEEE)",
+    "Requirements": {
+      "Normal_Entry": {
+        "min_subjects": 2,
+        "compulsory": ["Mathematics", "Physics"],
+        "additional": ["any other relevant science subject"]
+      },
+      "Special_Entry": {
+        "Note": "Applicants with a National Diploma in an approved Engineering field or equivalent may be considered. Candidates may be invited for an interview or entrance examination."
+      }
+    }
+  },
+  "369": {
+    "Name": "Bachelor of Engineering Honours Degree in Fuels and Energy Engineering",
+    "Requirements": {
+      "Normal_Entry": {
+        "min_subjects": 2,
+        "compulsory": ["Mathematics", "Physics or Chemistry"],
+        "additional": ["any other relevant science subject"]
+      },
+      "Special_Entry": {
+        "Note": "Applicants with a National Diploma in an approved Engineering field or equivalent may be considered. Candidates may be invited for an interview or entrance examination."
+      }
+    }
+  },
+  "370": {
+    "Name": "Bachelor of Engineering in Mining Engineering",
+    "Requirements": {
+      "min_subjects": 3,
+      "compulsory": ["Mathematics", "Physics"],
+      "additional": ["any other relevant science subject"]
+    }
+  },
+  "371": {
+    "Name": "Bachelor of Engineering in Mining Engineering",
+    "Requirements": {
+      "Note": "Applicants must have a National Diploma in Mining, Geology, Survey, or any other relevant diploma from a recognized institution and be currently employed within the minerals industry."
+    }
+  },
+  "372": {
+    "Name": "Bachelor of Science Honors Degree in Applied Geology",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Physics", "Chemistry", "Biology"]
+    }
+  },
+  "373": {
+    "Name": "Bachelor of Science Honours Degree in Applied Geology",
+    "Requirements": {
+      "Note": "Applicants must have a National Diploma or Higher National Diploma in Geology and two years post-diploma working experience."
+    }
+  },
+  "374": {
+    "Name": "Bachelor of Science Honors in Exploration Geophysics.",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Physics", "Chemistry", "Geography"]
+    }
+  },
+  "375": {
+    "Name": "Bachelor of Engineering Honours Degree in Mechanical Engineering Degree",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Physics"],
+      "additional": ["A pass in any one of the following subjects: (details not specified in source)"]
+    }
+  },
+  "376": {
+    "Name": "Bachelor of Engineering Honours Degree in Metallurgical Engineering",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Chemistry"]
+    },
+    "Note": "Applicants with a recognized Diploma in Metallurgy or Metallurgical Assaying or related fields may be considered."
+  },
+  "377": {
+    "Name": "Bachelor of Engineering Honours Degree in Materials Engineering",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Chemistry"]
+    },
+    "Note": "Applicants with a recognized Diploma in Metallurgy or Metallurgical Assaying, Materials or related fields may be considered."
+  },
+  "378": {
+    "Name": "Bachelor of Laws (LLB)",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["English Literature/History", "Arts/Humanities"],
+      "grade": "B or better"
+    }
+  },
+  "379": {
+    "Name": "Bachelor of Engineering Honours Degree in Telecommunications Engineering",
+    "Requirements": {
+      "Normal_Entry": {
+        "min_subjects": 2,
+        "compulsory": ["Mathematics", "Physics", "Computer Science"]
+      },
+      "Special_Entry": {
+        "Note": "Applicants must have either a relevant NC or Diploma/Professional Qualification in Telecommunications, Electronic or Electrical engineering or equivalent OR passes in Physics and Mathematics. Employment confirmation in the relevant field is required for the duration of study."
+      }
+    }
+  },
+  "380": {
+    "Name": "Bachelor of Science Honours Degree in Applied Mathematics & Computational Science",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics"],
+      "additional": ["any other subject"]
+    }
+  },
+  "381": {
+    "Name": "Bachelor of Science Honours Degree in Applied Statistics",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Statistics"]
+    },
+    "Special_Entry": {
+      "Note": "Applicants must have a relevant Diploma/Professional Qualification in Statistics or Mathematics. Employment confirmation in the relevant field is required for the duration of study."
+    }
+  },
+  "382": {
+    "Name": "Bachelor of Science Honours Degree in Biotechnology and Bioinformatics",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Biology", "Mathematics", "Chemistry"]
+    }
+  },
+  "383": {
+    "Name": "Bachelor of Science Honours Degree in Applied Biosciences and Biotechnology",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Sciences including Biology"]
+    }
+  },
+  "384": {
+    "Name": "Bachelor of Science Honours Degree in Computer Systems Engineering",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Physics", "Computer Science/Studies"]
+    }
+  },
+  "385": {
+    "Name": "Bachelor of Science Honours Degree in Computer Science",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Physics", "Computer Science/Studies"]
+    }
+  },
+  "386": {
+    "Name": "Bachelor of Science Honours Degree in Food Science and Technology",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Chemistry", "Biology", "Food Science"],
+      "additional": ["any other relevant science subject"]
+    }
+  },
+  "387": {
+    "Name": "Bachelor of Science Honours Degree in Space Science and Technology",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Physics", "Mathematics"]
+    }
+  },
+  "388": {
+    "Name": "Bachelor of Science Honours Degree in Industrial Chemistry",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Chemistry"],
+      "additional": ["any Sciences"]
+    },
+    "Special_Entry": {
+      "min_subjects": 2,
+      "compulsory": ["Chemistry"],
+      "additional": ["any Sciences"],
+      "Note": "Applicants with a relevant Diploma/Professional Qualification in Chemistry/Applied Chemistry, Chemical Technology or equivalent may be considered. Employment confirmation in the relevant field is required for the duration of study."
+    }
+  },
+  "389": {
+    "Name": "Bachelor of Science Honours Degree in Industrial Physics and Instrumentation",
+    "Requirements": {
+      "Normal_Entry": {
+        "min_subjects": 2,
+        "compulsory": ["Mathematics", "Physics"],
+        "additional": ["any other Science"]
+      },
+      "Special_Entry": {
+        "Note": "Applicants must have either a relevant NC or Diploma/Professional Qualification in Physics/Applied Physics, Instrumentation or Electrical engineering or equivalent OR passes in Physics and Mathematics. Employment confirmation in the relevant field is required for the duration of study."
+      }
+    }
+  },
+  "390": {
+    "Name": "Bachelor of Science Honours Degree in Nutrition Science",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Chemistry", "Biology", "Food Science"],
+      "additional": ["any other relevant science subject"]
+    }
+  },
+  "391": {
+    "Name": "Bachelor of Science Honours Degree in Software Engineering",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Software Engineering", "Computer Science", "their equivalents"]
+    }
+  },
+  "392": {
+    "Name": "Bachelor of Science Honours Degree in Cybersecurity",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Mathematics", "Computer Science"],
+      "additional": ["any other relevant Science Subject"]
+    }
+  },
+  "393": {
+    "Name": "Bachelor of Science Honours in Actuarial Science",
+    "Requirements": {
+      "Normal_Entry": {
+        "min_subjects": 2,
+        "compulsory": ["Mathematics or Statistics"],
+        "additional": ["at least one other subject"]
+      },
+      "Special_Entry": {
+        "Note": "Applicants with NC, ND or HND in relevant fields may be considered."
+      }
+    }
+  },
+  "394": {
+    "Name": "Master of Science in Biodiversity Conservation and Sustainable Development",
+    "Requirements": {
+      "Note": "This program requires a BSc Honours Degree in Biological Sciences, Environmental Science, or any related fields, with at least a lower second-class classification from a university recognized by Midlands State University."
+    }
+  },
+  "395": {
+    "Name": "MSc Food Safety and Quality Management",
+    "Requirements": {
+      "Note": "This program requires a first class honours degree with at least an upper second class in Food Science and Nutrition, Food Science and Technology, Biosciences, Biochemistry, Chemistry, Animal Science, Environmental Health, Public Health, Veterinary Sciences, Agricultural Sciences, Human Medicine, or other relevant qualifications."
+    }
+  },
+  "396": {
+    "Name": "Master of Science in Mobile and Wireless Communication",
+    "Requirements": {
+      "Note": "This program requires a first degree with at least a good classification in Telecommunications Engineering, Computer Science, Physics, Electronic Engineering, Electrical Engineering, or a related subject."
+    }
+  },
+  "397": {
+    "Name": "Bachelor of Science Honours Psychology",
+    "Requirements": {
+      "min_subjects": 2
+    }
+  },
+  "398": {
+    "Name": "Bachelor of Science Honours Psychology",
+    "Requirements": {
+      "Note": "Applicants with a Diploma in a Psychology related field may be considered. Candidates must be employed."
+    }
+  },
+  "399": {
+    "Name": "Bachelor of Science Honours Counselling Psychology",
+    "Requirements": {
+      "min_subjects": 2
+    }
+  },
+  "400": {
+    "Name": "Bachelor of Science Honours Health Psychology",
+    "Requirements": {
+      "min_subjects": 2
+    }
+  },
+  "401": {
+    "Name": "Bachelor of Science Honours Organisational and Industrial Psychology",
+    "Requirements": {
+      "min_subjects": 2
+    }
+  },
+  "402": {
+    "Name": "Master of Science in Clinical Psychology",
+    "Requirements": {
+      "Note": "This program requires a BSc Honours Degree in Psychology with a minimum of an upper second class (2.1) classification."
+    }
+  },
+  "403": {
+    "Name": "Master of Science in Community Psychology",
+    "Requirements": {
+      "Note": "This program requires a BSc Honours Degree in Psychology with a minimum of a lower second class (2.2) classification."
+    }
+  },
+  "404": {
+    "Name": "Bachelor of Science Honours in Industrial Sociology",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Arts", "Humanities", "Social Sciences subjects"]
+    }
+  },
+  "405": {
+    "Name": "Bachelor of Science Honours in Sociology and Social Policy",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Arts", "Humanities", "Social Sciences subjects"]
+    }
+  },
+  "406": {
+    "Name": "Bachelor of Science Honours in Migration and Population Movements",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Arts", "Humanities", "Social Sciences subjects"]
+    }
+  },
+  "407": {
+    "Name": "Master of Science Honours in Sociology and Social Anthropology",
+    "Requirements": {
+      "Note": "This program requires a BSc in Sociology or Anthropology with a 2.1 Pass classification."
+    }
+  },
+  "408": {
+    "Name": "Bachelor of Science Honours Degree in Geography and Environmental Sustainability",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Geography"],
+      "additional": ["any other Advanced Level subject"]
+    }
+  },
+  "409": {
+    "Name": "Bachelor of Science Honours Degree in Environmental Disaster Risk Management and Resilience Building",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Geography"],
+      "additional": ["any other Advanced Level subject"]
+    }
+  },
+  "410": {
+    "Name": "Bachelor of Science Honours Degree in Environmental Safety, Health and Quality Management",
+    "Requirements": {
+      "min_subjects": 2,
+      "compulsory": ["Geography"],
+      "additional": ["any other Advanced Level subject"]
+    }
+  }
+
+    

@@ -1,0 +1,102 @@
+[
+    {
+        "id": 400,
+        "Name": "Bachelor of Science Honours in Health Psychology",
+        "Description": "Examines the psychological factors influencing health, illness, and healthcare.",
+        "Fields": ["Health Psychology", "Psychology", "Healthcare", "Behavioral Science", "Mental Health"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "4 years",
+        "Requirements": "At least 5 ‘O’ Level passes including English Language, Mathematics and a relevant Science subject at Grade C or better, plus A minimum of any 2 “A” Level passes."
+    },
+    {
+        "id": 401,
+        "Name": "Bachelor of Science Honours Organisational and Industrial Psychology",
+        "Description": "Applies psychological principles to workplace issues, including organizational behavior and human resources.",
+        "Fields": ["Organizational Psychology", "Industrial Psychology", "Human Resources", "Psychology", "Workplace Behavior"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "4 years",
+        "Requirements": "At least 5 ‘O’ Level passes including English Language, Mathematics and a relevant Science subject at Grade C or better, plus A minimum of any 2 “A” Level passes."
+    },
+    {
+        "id": 402,
+        "Name": "Master of Science in Clinical Psychology",
+        "Description": "Advanced training in the assessment, diagnosis, and treatment of mental health disorders.",
+        "Fields": ["Clinical Psychology", "Mental Health", "Psychology", "Counselling", "Research"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "2 years",
+        "Requirements": "Minimum of an upper second class (2.1) in a BSc Honours Degree in Psychology."
+    },
+    {
+        "id": 403,
+        "Name": "Master of Science in Community Psychology",
+        "Description": "Focuses on understanding and addressing psychological issues within communities.",
+        "Fields": ["Community Psychology", "Social Psychology", "Mental Health", "Research", "Counselling"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "2 years",
+        "Requirements": "Minimum of a lower second class (2.2) in a BSc Honours Degree in Psychology."
+    },
+    {
+        "id": 404,
+        "Name": "Bachelor of Science Honours in Industrial Sociology",
+        "Description": "Examines social structures and dynamics within industrial and organizational settings.",
+        "Fields": ["Industrial Sociology", "Sociology", "Labor Studies", "Social Sciences", "Organizational Behavior"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "4 years",
+        "Requirements": "Any two ‘A’ Level passes in Arts, Humanities and Social Sciences subjects."
+    },
+    {
+        "id": 405,
+        "Name": "Bachelor of Science Honours in Sociology and Social Policy",
+        "Description": "Studies social structures, human behavior, and the development of social policies.",
+        "Fields": ["Sociology", "Social Policy", "Social Sciences", "Public Policy", "Research"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "4 years",
+        "Requirements": "Any two ‘A’ Level passes in Arts, Humanities and Social Sciences subjects."
+    },
+    {
+        "id": 406,
+        "Name": "Bachelor of Science Honours in Migration and Population Movements",
+        "Description": "Focuses on the causes, patterns, and impacts of human migration and population changes.",
+        "Fields": ["Migration Studies", "Population Studies", "Sociology", "Demography", "Social Sciences"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "4 years",
+        "Requirements": "Any two ‘A’ Level passes in Arts, Humanities and Social Sciences subjects."
+    },
+    {
+        "id": 407,
+        "Name": "Master of Science Honours in Sociology and Social Anthropology",
+        "Description": "Advanced study in sociological theories and anthropological research methods.",
+        "Fields": ["Sociology", "Social Anthropology", "Research", "Social Sciences", "Cultural Studies"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "1½ year",
+        "Requirements": "A 2.1 Pass in either BSc Sociology or BSc Anthropology."
+    },
+    {
+        "id": 408,
+        "Name": "Bachelor of Science Honours Degree in Geography and Environmental Sustainability",
+        "Description": "Examines geographical processes and their relationship to environmental sustainability.",
+        "Fields": ["Geography", "Environmental Sustainability", "GIS", "Ecology", "Environmental Science"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "4 years",
+        "Requirements": "Advanced Level Geography and any other Advanced Level subject and 5 Ordinary Level passes OR National Foundation Certificates including Mathematics and English Language."
+    },
+    {
+        "id": 409,
+        "Name": "Bachelor of Science Honours Degree in Environmental Disaster Risk Management and Resilience Building",
+        "Description": "Focuses on managing risks associated with environmental disasters and building community resilience.",
+        "Fields": ["Disaster Risk Management", "Environmental Science", "Resilience", "Public Policy", "Sustainability"],
+        "University": 4,
+        "Faculty": "Faculty of Social Sciences",
+        "Duration": "4 years",
+        "Requirements": "A pass in Advanced Level Geography and any other Advanced Level subject AND 5 Ordinary Level passes/ National Foundation Certificates including Mathematics and English Language OR National Certificate."
+    }
+]

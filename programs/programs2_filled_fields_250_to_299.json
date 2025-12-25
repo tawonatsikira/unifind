@@ -1,0 +1,222 @@
+[
+    {
+        "id": 250,
+        "Name": "Bachelor of Commerce Honours Degree in Risk Management and Insurance",
+        "Description": "Focuses on identifying, assessing, and mitigating risks, and the principles of insurance.",
+        "Fields": ["Risk Management", "Insurance", "Finance", "Business", "Economics"],
+        "University": 5,
+        "Faculty": "Munhumutapa School of Commerce",
+        "Duration": "",
+        "Requirements": ""
+    },
+    {
+        "id": 251,
+        "Name": "Bachelor of Commerce (Honours) Degree Programme in Financial Engineering",
+        "Description": "Focuses on financial engineering techniques and applications.",
+        "Fields": ["Financial Engineering", "Finance", "Mathematics", "Economics", "Risk Management"],
+        "University": 5,
+        "Faculty": "Munhumutapa School of Commerce",
+        "Duration": "",
+        "Requirements": ""
+    },
+    {
+        "id": 252,
+        "Name": "Bachelor of Commerce Honours Degree in Marketing",
+        "Description": "Focuses on marketing strategies, consumer behavior, and market analysis.",
+        "Fields": ["Marketing", "Business", "Consumer Behavior", "Advertising", "Sales"],
+        "University": 5,
+        "Faculty": "Munhumutapa School of Commerce",
+        "Duration": "",
+        "Requirements": ""
+    },
+    {
+        "id": 253,
+        "Name": "Bachelor of Commerce Honours Degree in Business Management",
+        "Description": "Provides a comprehensive understanding of business operations and management strategies.",
+        "Fields": ["Business Management", "Leadership", "Strategy", "Operations", "Human Resources"],
+        "University": 5,
+        "Faculty": "Munhumutapa School of Commerce",
+        "Duration": "",
+        "Requirements": ""
+    },
+    {
+        "id": 254,
+        "Name": "Bachelor of Commerce Honours Degree in Office Management",
+        "Description": "Focuses on office administration and management skills.",
+        "Fields": ["Office Management", "Administration", "Business", "Communication", "Organization"],
+        "University": 5,
+        "Faculty": "Munhumutapa School of Commerce",
+        "Duration": "",
+        "Requirements": ""
+    },
+    {
+        "id": 255,
+        "Name": "Bachelor of Commerce Honours Degree in Logistics and Transport Management",
+        "Description": "Focuses on logistics, transport systems, and supply chain management.",
+        "Fields": ["Logistics", "Transport Management", "Supply Chain", "Operations", "Business"],
+        "University": 5,
+        "Faculty": "Munhumutapa School of Commerce",
+        "Duration": "",
+        "Requirements": ""
+    },
+    {
+        "id": 256,
+        "Name": "Bachelor of Commerce Honours Degree in Economics",
+        "Description": "Focuses on economic theories, models, and applications.",
+        "Fields": ["Economics", "Finance", "Business", "Policy Analysis", "Statistics"],
+        "University": 5,
+        "Faculty": "Munhumutapa School of Commerce",
+        "Duration": "",
+        "Requirements": ""
+    },
+    {
+        "id": 257,
+        "Name": "Bachelor of Commerce Honours Degree in Economics And Finance",
+        "Description": "Combines economics and finance principles for business applications.",
+        "Fields": ["Economics", "Finance", "Business", "Investment", "Policy Analysis"],
+        "University": 5,
+        "Faculty": "Munhumutapa School of Commerce",
+        "Duration": "",
+        "Requirements": ""
+    },
+    {
+        "id": 258,
+        "Name": "Bachelor of Science Honours Degree in Computer Science",
+        "Description": "Focuses on computer science principles and applications.",
+        "Fields": ["Computer Science", "Programming", "Algorithms", "Software Engineering", "Data Structures"],
+        "University": 5,
+        "Faculty": "School of Natural Sciences",
+        "Duration": "4 Years Conventional/ 3 Years Block Release",
+        "Requirements": "Five (5) Ordinary Level passes with C or better including English language and any Science subject. Mathematics is an added advantage."
+    },
+    {
+        "id": 259,
+        "Name": "Bachelor of Science Honours Degree in Statistics and Operations Research",
+        "Description": "Focuses on statistics and operations research methods.",
+        "Fields": ["Statistics", "Operations Research", "Mathematics", "Data Analysis", "Optimization"],
+        "University": 5,
+        "Faculty": "School of Natural Sciences",
+        "Duration": "4 Years Conventional/ 3 Years Block Release",
+        "Requirements": "Five (5) Ordinary Level passes with C or better including English language and any Science subject. Mathematics is an added advantage."
+    },
+    {
+        "id": 260,
+        "Name": "Bachelor of Science Honours Degree in Geography and Environmental Science",
+        "Description": "Focuses on geography and environmental science studies.",
+        "Fields": ["Geography", "Environmental Science", "GIS", "Ecology", "Sustainability"],
+        "University": 5,
+        "Faculty": "School of Natural Sciences",
+        "Duration": "4 Years Conventional/ 3 Years Block Release",
+        "Requirements": "Five (5) Ordinary Level passes with C or better including English language and any Science subject. Mathematics is an added advantage."
+    },
+    {
+        "id": 261,
+        "Name": "Bachelor of Science Honours Degree in Physics",
+        "Description": "Focuses on physics principles and applications.",
+        "Fields": ["Physics", "Mathematics", "Engineering", "Research", "Applied Physics"],
+        "University": 5,
+        "Faculty": "School of Natural Sciences",
+        "Duration": "4 Years Conventional/ 3 Years Block Release",
+        "Requirements": "Five (5) Ordinary Level passes with C or better including English language and any Science subject. Mathematics is an added advantage."
+    },
+    {
+        "id": 262,
+        "Name": "Bachelor of Science Honours Degree in Renewable Energy",
+        "Description": "Focuses on renewable energy technologies and applications.",
+        "Fields": ["Renewable Energy", "Environmental Science", "Engineering", "Sustainability", "Energy Systems"],
+        "University": 5,
+        "Faculty": "School of Natural Sciences",
+        "Duration": "4 Years Conventional/ 3 Years Block Release",
+        "Requirements": "Five (5) Ordinary Level passes with C or better including English language and any Science subject. Mathematics is an added advantage."
+    },
+    {
+        "id": 263,
+        "Name": "Bachelor of Science Honours Degree in Applied Biosciences and Biotechnology",
+        "Description": "Focuses on applied biosciences and biotechnology.",
+        "Fields": ["Biosciences", "Biotechnology", "Molecular Biology", "Genetics", "Microbiology"],
+        "University": 5,
+        "Faculty": "School of Natural Sciences",
+        "Duration": "4 Years Conventional/ 3 Years Block Release",
+        "Requirements": "Five (5) Ordinary Level passes with C or better including English language and any Science subject. Mathematics is an added advantage."
+    },
+    {
+        "id": 264,
+        "Name": "Bachelor of Science Honours Degree in Human Resources Management",
+        "Description": "Focuses on managing human capital within organizations.",
+        "Fields": ["Human Resources", "Management", "Organizational Behavior", "Business", "Leadership"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 265,
+        "Name": "Bachelor of Science Honours Degree in Gender and Policy Studies",
+        "Description": "Focuses on gender studies and policy analysis.",
+        "Fields": ["Gender Studies", "Policy Studies", "Social Sciences", "Human Rights", "Sociology"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 266,
+        "Name": "Bachelor of Science Honours Degree in Educational Psychology",
+        "Description": "Focuses on psychological principles applied to education.",
+        "Fields": ["Educational Psychology", "Psychology", "Education", "Child Development", "Counselling"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 267,
+        "Name": "Bachelor of Science Honours Degree in Public Management and Policy",
+        "Description": "Focuses on public management and policy analysis.",
+        "Fields": ["Public Management", "Public Policy", "Administration", "Governance", "Political Science"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 268,
+        "Name": "Bachelor of Science Honours Degree in Urban and Regional Planning",
+        "Description": "Focuses on urban and regional planning principles and practices.",
+        "Fields": ["Urban Planning", "Regional Planning", "Geography", "Environmental Science", "Public Policy"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 269,
+        "Name": "Bachelor of Science Honours Degree in International Relations",
+        "Description": "Focuses on international relations and global politics.",
+        "Fields": ["International Relations", "Political Science", "Diplomacy", "Global Studies", "Security Studies"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 270,
+        "Name": "Bachelor of Science Honours Degree in Sociology and Social Anthropology",
+        "Description": "Focuses on sociology and social anthropology studies.",
+        "Fields": ["Sociology", "Social Anthropology", "Social Sciences", "Cultural Studies", "Research"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    },
+    {
+        "id": 271,
+        "Name": "Bachelor of Science Honours Degree in Peace, Leadership and Governance",
+        "Description": "Focuses on peace studies, leadership, and governance.",
+        "Fields": ["Peace Studies", "Leadership", "Governance", "Political Science", "Social Sciences"],
+        "University": 5,
+        "Faculty": "Julius Nyerere School of Social Sciences",
+        "Duration": "",
+        "Requirements": "(a) Applicants should possess at least 5 Ordinary level subjects including English Language. (b) A diploma and or degree in a relevant field will be an added advantage. (c) Work experience in a relevant field will be an added advantage."
+    }
+]
