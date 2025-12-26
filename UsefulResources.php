@@ -7,57 +7,13 @@ use Unifind\Services\DataService;
 $resources = DataService::getUsefulResources();
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Useful Resources - Unifind</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 2rem;
-            background-color: #f8f8f8;
-            color: #222;
-            line-height: 1.6;
-        }
-        h1 {
-            font-weight: 700;
-            font-size: 2.5rem;
-            margin-bottom: 2rem;
-            color: #000;
-            text-align: center;
-        }
-        .resource-list {
-            display: grid;
-            gap: 1.5rem;
-        }
-        .resource-item {
-            background: white;
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-            border: 1px solid #eee;
-        }
-        .resource-item h3 {
-            margin: 0 0 0.5rem 0;
-        }
-        .resource-link {
-            display: inline-block;
-            margin-top: 1rem;
-            font-weight: 600;
-            color: #000;
-        }
-        a {
-            color: #000;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="style.css" >
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div id="mySidenav" class="sidenav">
@@ -65,24 +21,33 @@ $resources = DataService::getUsefulResources();
         <a href="index.html">Search</a>
         <a href="UniList.php">Universities</a>
         <a href="ProgramOptions.php">Program Options</a>
-        <a href="UsefulResources.php">Useful resources</a>
+        <a href="UsefulResources.php">Useful Resources</a>
         <a href="Opportunities.php">Opportunities</a>
         <a href="Us.php">About Us</a>
         <a href="help.php">Help</a>
     </div>
 
-    <span class="menu-btn" onclick="openNav()">&#9776;</span>
+    <button class="menu-btn" onclick="openNav()" aria-label="Open Menu">&#9776;</button>
 
-    <h1>Useful Resources</h1>
+    <div class="container">
+        <header style="margin-bottom: 3rem;">
+            <h1>Useful Resources</h1>
+            <p style="color: var(--text-muted);">Handy links and documents for your academic journey</p>
+        </header>
 
-    <div class="resource-list">
-        <?php foreach ($resources as $resource): ?>
-            <div class="resource-item">
-                <h3><?= htmlspecialchars($resource->getTitle()) ?></h3>
-                <p><?= htmlspecialchars($resource->getDescription()) ?></p>
-                <a href="<?= htmlspecialchars($resource->getLink()) ?>" class="resource-link" target="_blank">Access Resource &rarr;</a>
+        <main>
+            <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem;">
+                <?php foreach ($resources as $res): ?>
+                    <article class="card" style="display: flex; flex-direction: column;">
+                        <h2 style="font-size: 1.25rem; margin-bottom: 1rem;"><?= htmlspecialchars($res->getTitle()) ?></h2>
+                        <p style="flex-grow: 1; font-size: 0.95rem; color: var(--text-muted); margin-bottom: 1.5rem;">
+                            <?= htmlspecialchars($res->getDescription()) ?>
+                        </p>
+                        <a href="<?= htmlspecialchars($res->getLink()) ?>" target="_blank" style="color: var(--primary-color); font-weight: 600; text-decoration: none;">Access Resource &rarr;</a>
+                    </article>
+                <?php endforeach; ?>
             </div>
-        <?php endforeach; ?>
+        </main>
     </div>
 
     <script src="script.js"></script>

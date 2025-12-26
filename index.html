@@ -3,80 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unifind</title>
+    <title>Unifind - Discover Your Future</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-            font-family: 'Arial', sans-serif;
-        }
-        
-        body {
-            background-color: white;
-            color: black;
-            transition: margin-left 0.3s;
-        }
-        
-        
-        
-        /* Main Content */
-        .main {
+        .hero {
+            height: 80vh;
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: center;
-            height: 100vh;
-            padding: 20px;
             text-align: center;
+            background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%);
+            border-radius: 0 0 50px 50px;
+            margin-bottom: 4rem;
+            padding: 2rem;
         }
-        
-        h1 {
-            margin-bottom: 30px;
+        .hero h1 {
+            font-size: 4rem;
+            font-weight: 800;
+            margin-bottom: 1.5rem;
+            background: linear-gradient(to right, #1e40af, #2563eb);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .hero p {
+            font-size: 1.25rem;
+            color: var(--text-muted);
+            max-width: 600px;
+            margin-bottom: 3rem;
+        }
+        .search-box-large {
+            width: 100%;
+            max-width: 700px;
+            display: flex;
+            background: white;
+            padding: 0.5rem;
+            border-radius: 20px;
+            box-shadow: var(--shadow-lg);
+        }
+        .search-box-large input {
+            flex: 1;
+            padding: 1.5rem;
+            border: none;
+            font-size: 1.2rem;
+            outline: none;
+            border-radius: 15px 0 0 15px;
+        }
+        .search-box-large button {
+            padding: 0 2.5rem;
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 15px;
+            font-weight: 700;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .search-box-large button:hover {
+            background: var(--primary-hover);
+            transform: scale(1.02);
+        }
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 2rem;
+            margin-top: -2rem;
+        }
+        .feature-card {
+            background: white;
+            padding: 2.5rem;
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-md);
+            text-align: center;
+            transition: transform 0.3s;
+        }
+        .feature-card:hover {
+            transform: translateY(-10px);
+        }
+        .feature-icon {
             font-size: 2.5rem;
+            margin-bottom: 1.5rem;
+            display: block;
         }
-        
-        .search-container {
-                    margin-bottom: 2.5rem;
-                    display: flex;
-                    justify-content: center;
-                }
-                .search-form {
-                    width: 100%;
-                    max-width: 600px;
-                    display: flex;
-                    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-                }
-        
-        .search-bar {
-                    flex: 1;
-                    padding: 1rem 1.5rem;
-                    font-size: 1rem;
-                    border: none;
-                    border-radius: 8px 0 0 8px;
-                    outline: none;
-                }
-                .search-btn {
-                    padding: 0 1.5rem;
-                    background: #000;
-                    color: white;
-                    border: none;
-                    border-radius: 0 8px 8px 0;
-                    cursor: pointer;
-                    font-weight: 500;
-                    transition: all 0.2s;
-                }
-                .search-btn:hover {
-                    background: #333;
-                }
-        
-        .help-link {
-            color: black;
-            text-decoration: underline;
-            font-size: 16px;
-            margin-top: 20px;
-        }
-    </style> <link rel="stylesheet" type="text/css" href="style.css" >
+    </style>
 </head>
 <body>
     <div id="mySidenav" class="sidenav">
@@ -84,30 +95,47 @@
         <a href="index.html">Search</a>
         <a href="UniList.php">Universities</a>
         <a href="ProgramOptions.php">Program Options</a>
-        <a href="UsefulResources.php">Useful resources</a>
+        <a href="UsefulResources.php">Useful Resources</a>
         <a href="Opportunities.php">Opportunities</a>
         <a href="Us.php">About Us</a>
         <a href="help.php">Help</a>
     </div>
 
-    <!-- Menu Button -->
-    <span class="menu-btn" onclick="openNav()">&#9776;</span>
+    <button class="menu-btn" onclick="openNav()" aria-label="Open Menu">&#9776;</button>
 
-    <!-- Main Content -->
-    <div class="main">
-        <h1>Welcome to unifind</h1>
-        <form action="search.php" method="get" class="search-form">
-            <input type="text" name="q" class="search-bar" placeholder="Search...">
-            <input type="hidden" name="mode" value="search">
-            <button type="submit" class="search-btn">Search Program</button>
+    <header class="hero">
+        <h1>Unifind</h1>
+        <p>Your comprehensive guide to universities and academic programs in Zimbabwe. Find your perfect match today.</p>
+        <form class="search-box-large" action="search.php" method="get">
+            <input type="text" name="q" placeholder="Enter a program, university, or field..." required>
+            <button type="submit">Find My Path</button>
         </form>
+    </header>
 
-        <br>
-        <a href="help.php" class="help-link">Help this is my first time using the site</a>
-    </div>
+    <main class="container">
+        <div class="features-grid">
+            <a href="UniList.php" class="feature-card">
+                <span class="feature-icon">🏛️</span>
+                <h3>Universities</h3>
+                <p style="color: var(--text-muted); margin-top: 1rem;">Explore top-tier institutions and their campuses.</p>
+            </a>
+            <a href="ProgramOptions.php" class="feature-card">
+                <span class="feature-icon">🎓</span>
+                <h3>Programs</h3>
+                <p style="color: var(--text-muted); margin-top: 1rem;">Discover hundreds of degrees across all faculties.</p>
+            </a>
+            <a href="Opportunities.php" class="feature-card">
+                <span class="feature-icon">✨</span>
+                <h3>Opportunities</h3>
+                <p style="color: var(--text-muted); margin-top: 1rem;">Find scholarships and internships to boost your career.</p>
+            </a>
+        </div>
+    </main>
 
-    <script src="script.js">
-        
-    </script>
+    <footer style="text-align: center; padding: 4rem 2rem; color: var(--text-muted);">
+        <p>&copy; 2025 Unifind. Empowering Zimbabwean students.</p>
+    </footer>
+
+    <script src="script.js"></script>
 </body>
 </html>

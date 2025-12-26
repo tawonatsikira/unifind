@@ -7,119 +7,22 @@ use Unifind\Services\DataService;
 $programs = DataService::getProgrammeList();
 $unis = DataService::getUnisList();
 
-// Group programs by faculty for a better overview
-$programsByFaculty = [];
-foreach ($programs as $program) {
-    $faculty = $program->getFaculty();
-    if (!isset($programsByFaculty[$faculty])) {
-        $programsByFaculty[$faculty] = [];
-    }
-    $programsByFaculty[$faculty][] = $program;
+// Group programs by faculty for the overview
+$faculties = [];
+foreach ($programs as $prog) {
+    $faculty = $prog->getFaculty() ?: 'Other';
+    $faculties[$faculty][] = $prog;
 }
+ksort($faculties);
 ?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Program Options - Unifind</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-            max-width: 1000px;
-            margin: 0 auto;
-            padding: 2rem;
-            background-color: #f8f8f8;
-            color: #222;
-            line-height: 1.6;
-        }
-        h1 {
-            font-weight: 700;
-            font-size: 2.5rem;
-            margin-bottom: 2rem;
-            color: #000;
-            text-align: center;
-        }
-        .faculty-section {
-            margin-bottom: 3rem;
-        }
-        .faculty-title {
-            border-bottom: 2px solid #000;
-            padding-bottom: 0.5rem;
-            margin-bottom: 1.5rem;
-        }
-        .program-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 1.5rem;
-        }
-        .program-card {
-            background: white;
-            padding: 1.5rem;
-            border-radius: 8px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
-            border: 1px solid #eee;
-            display: flex;
-            flex-direction: column;
-        }
-        .program-card h3 {
-            margin: 0 0 0.5rem 0;
-            font-size: 1.2rem;
-        }
-        .uni-link {
-            font-size: 0.9rem;
-            color: #666;
-            margin-bottom: 1rem;
-        }
-        .field-list {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-            margin-top: auto;
-            padding-top: 1rem;
-        }
-        .field-tag {
-            background: #f0f0f0;
-            padding: 0.2rem 0.5rem;
-            border-radius: 4px;
-            font-size: 0.75rem;
-        }
-        a {
-            color: #000;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .modal {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0,0,0,0.5);
-            z-index: 1000;
-            justify-content: center;
-            align-items: center;
-        }
-        .modal-content {
-            background-color: white;
-            padding: 2rem;
-            border-radius: 8px;
-            max-width: 600px;
-            width: 90%;
-            max-height: 80vh;
-            overflow-y: auto;
-        }
-        .close-modal {
-            float: right;
-            cursor: pointer;
-            font-size: 1.5rem;
-            font-weight: bold;
-        }
-    </style>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" type="text/css" href="style.css" >
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div id="mySidenav" class="sidenav">
@@ -127,52 +30,67 @@ foreach ($programs as $program) {
         <a href="index.html">Search</a>
         <a href="UniList.php">Universities</a>
         <a href="ProgramOptions.php">Program Options</a>
-        <a href="UsefulResources.php">Useful resources</a>
+        <a href="UsefulResources.php">Useful Resources</a>
         <a href="Opportunities.php">Opportunities</a>
         <a href="Us.php">About Us</a>
         <a href="help.php">Help</a>
     </div>
 
-    <span class="menu-btn" onclick="openNav()">&#9776;</span>
+    <button class="menu-btn" onclick="openNav()" aria-label="Open Menu">&#9776;</button>
 
-    <h1>Program Options</h1>
+    <div class="container">
+        <header style="margin-bottom: 3rem;">
+            <h1>Program Options</h1>
+            <p style="color: var(--text-muted);">Browse programs by faculty across all universities</p>
+        </header>
 
-    <?php foreach ($programsByFaculty as $faculty => $facultyPrograms): ?>
-        <div class="faculty-section">
-            <h2 class="faculty-title"><?= htmlspecialchars($faculty) ?></h2>
-            <div class="program-grid">
-                <?php foreach ($facultyPrograms as $program): ?>
-                    <div class="program-card">
-                        <h3><a href="#" class="show-program" data-id="<?= htmlspecialchars($program->getId()) ?>">
-                            <?= htmlspecialchars($program->getName()) ?>
-                        </a></h3>
-                        <div class="uni-link">
-                            <?php 
-                            $uni = $unis[$program->getUniId()] ?? null;
-                            if ($uni): ?>
-                                <a href="ViewUniversity.php?id=<?= htmlspecialchars($uni->getId()) ?>">
-                                    <?= htmlspecialchars($uni->getName()) ?>
-                                </a>
-                            <?php else: ?>
-                                Unknown University
-                            <?php endif; ?>
-                        </div>
-                        <p><?= htmlspecialchars(substr($program->getDescription(), 0, 100)) ?>...</p>
-                        <div class="field-list">
-                            <?php foreach ($program->getFields() as $field): ?>
-                                <span class="field-tag"><?= htmlspecialchars($field) ?></span>
-                            <?php endforeach; ?>
-                        </div>
+        <main>
+            <div class="tabs" style="overflow-x: auto; white-space: nowrap; display: block;">
+                <?php foreach (array_keys($faculties) as $index => $faculty): ?>
+                    <div class="tab <?= $index === 0 ? 'active' : '' ?>" 
+                         style="display: inline-block; width: auto;" 
+                         onclick="switchTab('faculty-<?= md5($faculty) ?>', this)">
+                        <?= htmlspecialchars($faculty) ?>
                     </div>
                 <?php endforeach; ?>
             </div>
-        </div>
-    <?php endforeach; ?>
 
-    <div id="programModal" class="modal">
+            <?php foreach ($faculties as $faculty => $facultyPrograms): ?>
+                <section id="faculty-<?= md5($faculty) ?>" class="tab-content <?= array_key_first($faculties) === $faculty ? 'active' : '' ?>">
+                    <div class="card">
+                        <h2 style="margin-bottom: 2rem;"><?= htmlspecialchars($faculty) ?></h2>
+                        <div class="program-grid">
+                            <?php foreach ($facultyPrograms as $prog): ?>
+                                <article class="program-card">
+                                    <h4><a href="#" class="show-program" data-id="<?= htmlspecialchars($prog->getId()) ?>"><?= htmlspecialchars($prog->getName()) ?></a></h4>
+                                    <?php 
+                                        $uniName = isset($unis[$prog->getUniId()]) ? $unis[$prog->getUniId()]->getName() : 'Unknown University';
+                                    ?>
+                                    <p style="font-size: 0.85rem; margin: 0.5rem 0;">
+                                        at <a href="ViewUniversity.php?id=<?= htmlspecialchars($prog->getUniId()) ?>" style="color: var(--primary-color);"><?= htmlspecialchars($uniName) ?></a>
+                                    </p>
+                                    <p style="font-size: 0.9rem; color: var(--text-muted);">
+                                        <?= htmlspecialchars(substr($prog->getDescription(), 0, 100)) ?>...
+                                    </p>
+                                    <div class="field-list">
+                                        <?php foreach ($prog->getFields() as $field): ?>
+                                            <span class="field-tag"><?= htmlspecialchars($field) ?></span>
+                                        <?php endforeach; ?>
+                                    </div>
+                                </article>
+                            <?php endforeach; ?>
+                        </div>
+                    </div>
+                </section>
+            <?php endforeach; ?>
+        </main>
+    </div>
+
+    <!-- Program Detail Modal -->
+    <div id="programModal" class="modal" role="dialog" aria-modal="true">
         <div class="modal-content">
-            <span class="close-modal">&times;</span>
-            <div id="programDetails" class="program-details"></div>
+            <span class="close-modal" aria-label="Close">&times;</span>
+            <div id="programDetails"></div>
         </div>
     </div>
 

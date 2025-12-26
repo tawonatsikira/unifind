@@ -12,26 +12,70 @@ use Unifind\Models\UsefulResource;
 use Exception;
 
 class DataService {
-    private static $basePath = __DIR__ . '/../../';
+    private static $basePath = __DIR__ . '/../../data/';
+
+    /**
+     * Helper to load and decode JSON with error handling
+     */
+    private static function loadJson($filename) {
+        $path = self::$basePath . $filename;
+        if (!file_exists($path)) {
+            error_log("DataService: File not found - $path");
+            return [];
+        }
+
+        $content = file_get_contents($path);
+        if ($content === false) {
+            error_log("DataService: Failed to read file - $path");
+            return [];
+        }
+
+        $data = json_decode($content, true);
+        if (json_last_error() !== JSON_ERROR_NONE) {
+            error_log("DataService: JSON decode error in $filename - " . json_last_error_msg());
+            return [];
+        }
+
+        return $data ?? [];
+    }
+
+    /**
+     * Helper to encode and save JSON with error handling
+     */
+    private static function saveJson($filename, $data) {
+        $path = self::$basePath . $filename;
+        $content = json_encode($data, JSON_PRETTY_PRINT);
+        
+        if ($content === false) {
+            error_log("DataService: JSON encode error for $filename - " . json_last_error_msg());
+            return false;
+        }
+
+        if (file_put_contents($path, $content) === false) {
+            error_log("DataService: Failed to write to file - $path");
+            return false;
+        }
+
+        return true;
+    }
 
     public static function getUnisList() {
-        $path = self::$basePath . 'unis.json';
-        if (!file_exists($path)) return [];
-        
-        $unisData = json_decode(file_get_contents($path), true);
+        $unisData = self::loadJson('universities.json');
         $uniObjects = [];
         
         foreach ($unisData as $uniName => $uniData) {
+            if (!isset($uniData['Id'])) continue;
+            
             $uniObjects[$uniData['Id']] = new University(
-                $uniData['Name'],
+                $uniData['Name'] ?? $uniName,
                 $uniData['Id'],
-                $uniData['Website'],
-                $uniData['Portal'],
-                $uniData['Email'],
-                $uniData['Contacts'],
-                $uniData['AltNames'],
-                $uniData['Addresses'],
-                $uniData['Description']
+                $uniData['Website'] ?? '',
+                $uniData['Portal'] ?? '',
+                $uniData['Email'] ?? '',
+                $uniData['Contacts'] ?? [],
+                $uniData['AltNames'] ?? [],
+                $uniData['Addresses'] ?? [],
+                $uniData['Description'] ?? ''
             );
         }
         
@@ -39,10 +83,7 @@ class DataService {
     }
 
     public static function getProgrammeList() {
-        $path = self::$basePath . 'programs2.json';
-        if (!file_exists($path)) return [];
-
-        $programmesData = json_decode(file_get_contents($path), true);
+        $programmesData = self::loadJson('programs.json');
         $programmeObjects = [];
         
         foreach ($programmesData as $programName => $programData) {
@@ -65,35 +106,33 @@ class DataService {
     }
 
     public static function getAnnouncements($uniId) {
-        $path = self::$basePath . "extras/$uniId/announcements.json";
-        if (!file_exists($path)) return [];
-
-        $announcementsData = json_decode(file_get_contents($path), true);
+        $announcementsData = self::loadJson("announcements/$uniId.json");
         $announcements = [];
 
         foreach($announcementsData as $announcementData){
+            if (!isset($announcementData['id'])) continue;
+            
             $announcements[] = new Announcement(
                 $announcementData["id"],
-                $announcementData["date"],
-                $announcementData["heading"],
-                $announcementData["body"]
+                $announcementData["date"] ?? '',
+                $announcementData["heading"] ?? 'No Heading',
+                $announcementData["body"] ?? ''
             );
         }
         return array_reverse($announcements);
     }
 
     public static function getSubjects() {
-        $path = self::$basePath . "Subjects.json";
-        if (!file_exists($path)) return [];
-
-        $subjectsData = json_decode(file_get_contents($path), true);
+        $subjectsData = self::loadJson("subjects.json");
         $subjects = [];
 
         foreach($subjectsData as $subjectName => $subjectdata){
+            if (!isset($subjectdata['Id'])) continue;
+            
             $subjects[$subjectdata["Id"]] = new Subject(
                 $subjectdata["Id"],
-                $subjectdata["Name"],
-                $subjectdata["Class"]
+                $subjectdata["Name"] ?? $subjectName,
+                $subjectdata["Class"] ?? ''
             );
         }
 
@@ -101,48 +140,45 @@ class DataService {
     }
 
     public static function getOpportunities() {
-        $path = self::$basePath . 'opportunities.json';
-        if (!file_exists($path)) return [];
-
-        $opportunitiesData = json_decode(file_get_contents($path), true);
+        $opportunitiesData = self::loadJson('opportunities.json');
         $opportunities = [];
 
         foreach($opportunitiesData as $opportunityData){
+            if (!isset($opportunityData['id'])) continue;
+            
             $opportunities[] = new Opportunity(
                 $opportunityData['id'],
-                $opportunityData['type'],
-                $opportunityData['title'],
-                $opportunityData['description'],
-                $opportunityData['deadline'],
-                $opportunityData['link']
+                $opportunityData['type'] ?? '',
+                $opportunityData['title'] ?? 'Untitled',
+                $opportunityData['description'] ?? '',
+                $opportunityData['deadline'] ?? '',
+                $opportunityData['link'] ?? ''
             );
         }
         return $opportunities;
     }
 
     public static function getUsefulResources() {
-        $path = self::$basePath . 'useful_resources.json';
-        if (!file_exists($path)) return [];
-
-        $resourcesData = json_decode(file_get_contents($path), true);
+        $resourcesData = self::loadJson('resources.json');
         $resources = [];
 
         foreach($resourcesData as $resourceData){
+            if (!isset($resourceData['id'])) continue;
+            
             $resources[] = new UsefulResource(
                 $resourceData['id'],
-                $resourceData['title'],
-                $resourceData['description'],
-                $resourceData['link']
+                $resourceData['title'] ?? 'Untitled',
+                $resourceData['description'] ?? '',
+                $resourceData['link'] ?? ''
             );
         }
         return $resources;
     }
 
     public static function addAnnouncement($uniId, $announcement) {
-        $path = self::$basePath . "extras/$uniId/announcements.json";
-        if(!file_exists($path)) return false;
-
-        $announcementsData = json_decode(file_get_contents($path), true);
+        $filename = "announcements/$uniId.json";
+        $announcementsData = self::loadJson($filename);
+        
         $announcementsData[] = [
             "id" => $announcement->getId(),
             "date" => $announcement->getDate(),
@@ -150,14 +186,13 @@ class DataService {
             "body" => $announcement->getBody()
         ];
 
-        return file_put_contents($path, json_encode($announcementsData, JSON_PRETTY_PRINT)) !== false;
+        return self::saveJson($filename, $announcementsData);
     }
 
     public static function addOpportunity($opportunity) {
-        $path = self::$basePath . 'opportunities.json';
-        if(!file_exists($path)) return false;
-
-        $opportunitiesData = json_decode(file_get_contents($path), true);
+        $filename = 'opportunities.json';
+        $opportunitiesData = self::loadJson($filename);
+        
         $opportunitiesData[] = [
             "id" => $opportunity->getId(),
             "type" => $opportunity->getType(),
@@ -167,6 +202,6 @@ class DataService {
             "link" => $opportunity->getLink()
         ];
 
-        return file_put_contents($path, json_encode($opportunitiesData, JSON_PRETTY_PRINT)) !== false;
+        return self::saveJson($filename, $opportunitiesData);
     }
 }

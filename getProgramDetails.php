@@ -8,9 +8,9 @@ header('Content-Type: application/json');
 
 $programId = $_GET['id'] ?? null;
 
-if (!$programId || !is_numeric($programId)) {
+if (!$programId) {
     http_response_code(400);
-    echo json_encode(['error' => 'Valid program ID is required']);
+    echo json_encode(['error' => 'Program ID is required']);
     exit;
 }
 
@@ -29,11 +29,13 @@ try {
         : 'Unknown University';
 
     $response = [
+        'id' => $program->getId(),
         'name' => $program->getName(),
         'description' => $program->getDescription(),
         'duration' => $program->getDuration(),
         'faculty' => $program->getFaculty(),
-        'university' => $universityName,
+        'university_id' => $program->getUniId(),
+        'university_name' => $universityName,
         'requirements' => $program->getRequirements(),
         'fields' => $program->getFields()
     ];
@@ -42,5 +44,5 @@ try {
 
 } catch (Exception $e) {
     http_response_code(500);
-    echo json_encode(['error' => 'Failed to load program data: ' . $e->getMessage()]);
+    echo json_encode(['error' => 'Server error: ' . $e->getMessage()]);
 }

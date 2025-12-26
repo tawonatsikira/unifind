@@ -2,70 +2,67 @@
 
 ## System Overview
 
-Unifind follows a modern, service-oriented PHP architecture. It is designed to be lightweight, using file-based JSON storage while maintaining a professional Object-Oriented structure with PSR-4 compatible namespacing and automated class loading.
+Unifind follows a modern, service-oriented PHP architecture. It is designed to be lightweight, using organized file-based JSON storage while maintaining a professional Object-Oriented structure with PSR-4 compatible namespacing and automated class loading.
 
 ## Directory Structure
 
 ```text
 unifind/
 ├── bootstrap.php           # System initialization and autoloader setup
-├── src/                    # Core source code
-│   ├── Core/               # Fundamental system components
-│   │   └── Autoloader.php  # PSR-4 compatible class loader
+├── data/                   # Organized JSON data storage
+│   ├── announcements/      # University-specific announcements ({id}.json)
+│   ├── programs/           # Partial/extra program data
+│   ├── universities.json   # Core university database
+│   ├── programs.json       # Core program database
+│   ├── subjects.json       # Subject definitions
+│   ├── requirements.json   # Admission requirements
+│   ├── opportunities.json  # Scholarships and internships
+│   └── resources.json      # Educational resources
+├── public/                 # Publicly accessible assets
+│   └── assets/
+│       ├── logos/          # University logos ({id}.png/jpg)
+│       ├── campus/         # Campus background images ({id}.png/jpg)
+│       └── help/           # Documentation screenshots
+├── src/                    # Core source code (Namespaced: Unifind\)
+│   ├── Core/               # Fundamental system components (Autoloader)
 │   ├── Models/             # Data entities (University, Programme, etc.)
 │   └── Services/           # Business logic (DataService, SearchService)
-├── public/                 # Static assets (CSS, JS, Images)
-├── extras/                 # University-specific assets (logos, announcements)
-├── unis.json               # University database
-├── programs2.json          # Program database
+├── style.css               # Modern, premium design system
+├── script.js               # Modular frontend logic (tabs, modals, scroll-sync)
 └── [root].php              # View controllers (search.php, ViewUniversity.php, etc.)
 ```
 
 ## Technical Stack
 
 - **Backend**: PHP 8.1+ (Object-Oriented, Namespaced)
-- **Frontend**: Vanilla HTML5, CSS3 (Inter font), and Modern JavaScript (ES6+)
-- **Data Storage**: Flat-file JSON (Centralized via `DataService`)
+- **Frontend**: Vanilla HTML5, CSS3 (Design System), and Modern JavaScript (ES6+)
+- **Data Storage**: Organized JSON (Centralized via `DataService`)
 - **Autoloading**: Custom PSR-4 implementation in `src/Core/Autoloader.php`
 
 ## Core Components
 
 ### 1. Model Layer (`src/Models/`)
 All data entities are represented as classes with private properties and public getters/setters.
-- `University`: Core university data and contact info.
-- `Programme`: Academic program details and requirements.
-- `Announcement`: University news updates.
-- `Opportunity`: Scholarships and internships.
+- `University`, `Programme`, `Announcement`, `Opportunity`, `UsefulResource`.
 
 ### 2. Service Layer (`src/Services/`)
-- **`DataService`**: The single point of contact for all data operations. It handles reading/writing JSON files and converting them into Model objects.
-- **`SearchService`**: Contains the intelligent search logic, including similarity scoring and result ranking.
+- **`DataService`**: Centralized data access. Includes robust JSON parsing with error handling, logging, and defensive checks for missing keys.
+- **`SearchService`**: Intelligent search logic with similarity scoring and multi-tiered result ranking.
 
-### 3. Search Algorithm
-The search engine uses a multi-tiered scoring system:
-- **Exact Match (100)**: Matches against university abbreviations/alternative names.
-- **Similarity Match (60-99)**: Uses `similar_text()` for fuzzy matching on names and fields.
-- **Substring Match (60)**: Direct substring checks for partial name matches.
-- **Keyword Match (50)**: Searches within program descriptions.
-
-Results are merged, de-duplicated by ID, and sorted by score in descending order.
-
-## Data Flow
-
-1.  **Request**: User interacts with a root PHP file (e.g., `search.php`).
-2.  **Bootstrap**: `bootstrap.php` is included, initializing the autoloader.
-3.  **Service Call**: The view controller calls a Service method (e.g., `DataService::getUnisList()`).
-4.  **Data Retrieval**: The Service reads the JSON file and returns an array of Model objects.
-5.  **Logic**: If searching, `SearchService` processes the objects and returns ranked results.
-6.  **Response**: The view controller renders the HTML using the data objects.
+### 3. Frontend Design System
+The application uses a premium design system defined in `style.css`:
+- **CSS Variables**: Centralized color palette, shadows, and spacing.
+- **Responsive Grid**: Mobile-first layouts for search results and university profiles.
+- **Micro-animations**: Smooth transitions for tabs, modals, and hover states.
+- **Glassmorphism**: Subtle blur effects on modals and headers.
 
 ## Security & Stability
 
-- **XSS Protection**: All user-generated and database content is escaped using `htmlspecialchars()` before rendering.
-- **Defensive Programming**: Services include null-coalescing checks to handle incomplete or corrupted JSON data gracefully.
-- **Namespacing**: The `Unifind\` namespace prevents naming collisions and ensures a clean codebase.
+- **XSS Protection**: All content is escaped using `htmlspecialchars()` in PHP and a DOM-based escaping helper in JavaScript.
+- **Error Handling**: `DataService` catches JSON errors and logs them to the server error log, preventing application crashes on corrupted data.
+- **Defensive Coding**: Models and Services use null-coalescing operators to handle incomplete data gracefully.
 
 ## Future Considerations
 
-- **Database Migration**: The service-oriented design allows for an easy transition to SQLite or MySQL by simply updating the `DataService` class.
-- **API Expansion**: The current structure easily supports adding RESTful JSON endpoints by creating new controllers that use the existing Services.
+- **Database Migration**: The `DataService` abstraction makes it easy to swap JSON for a relational database (SQLite/MySQL).
+- **REST API**: The existing services can be easily wrapped in new controllers to provide a public JSON API.
