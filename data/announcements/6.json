@@ -1,20 +1,14 @@
 [
     {
         "id": 1,
-        "date": "12\/04\/2025",
-        "heading": "Admissions",
-        "body": "2025 admissions are now open"
+        "date": "2025-02-10",
+        "heading": "Multi-Campus Registration Notice",
+        "body": "Registration services are now available at all MSU campuses (Gweru, Zvishavane, and Harare). Students can register at their nearest center regardless of their primary campus."
     },
     {
         "id": 2,
-        "date": "13\/05\/2025",
-        "heading": "Admissions",
-        "body": "2025 admissions are now closed"
-    },
-    {
-        "id": 4,
-        "date": "23\/05\/2025",
-        "heading": "Tawona is smart",
-        "body": "A new revalation to the world"
+        "date": "2025-04-22",
+        "heading": "MSU Cultural Week",
+        "body": "Join us for the 2025 Cultural Week celebration from May 4th to May 10th. Activities include traditional dance, food fairs, and the Miss MSU pageant."
     }
 ]
