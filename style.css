@@ -304,6 +304,28 @@ a {
     box-shadow: var(--shadow-sm);
 }
 
+/* Tab Content Toggle */
+.tab-content {
+    display: none;
+    animation: fadeIn 0.3s ease-out;
+}
+
+.tab-content.active {
+    display: block;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
 /* Program Cards - Refined Grid */
 .program-grid-modern {
     display: grid;

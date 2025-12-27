@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-        "date": "12\/04\/2025",
-        "heading": "Admissions",
-        "body": "2025 admissions are now open"
+        "date": "2025-02-15",
+        "heading": "Semester 1 Registration",
+        "body": "Registration for Semester 1 of the 2025 academic year is now open. All students are advised to complete their registration by March 15th to avoid late fees."
     },
     {
         "id": 2,
-        "date": "13\/05\/2025",
-        "heading": "Admissions",
-        "body": "2025 admissions are now closed"
+        "date": "2025-04-10",
+        "heading": "Mid-Semester Examinations",
+        "body": "The mid-semester examination timetable has been released. Please check the student portal for your specific schedule and venue details."
     },
     {
-        "id": 4,
-        "date": "23\/05\/2025",
-        "heading": "Tawona is smart",
-        "body": "A new revalation to the world"
+        "id": 3,
+        "date": "2025-06-20",
+        "heading": "Degree Audit for Graduands",
+        "body": "Potential graduands for the November 2025 ceremony are requested to verify their academic records with the Faculty Office before July 31st."
     }
 ]

@@ -47,6 +47,3 @@ Then visit `http://localhost:8000` in your browser.
 ## License
 This project is for educational purposes. All rights reserved.
 
-##Note from Developer
-
-this project is still incomplete and despite starting this project earlier this year I am extremely disappointed in a lot of the choices I made while designing and architecting the whole thing. a rebuild is long overdue but I have not gotten the time yet
